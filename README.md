@@ -1,3 +1,5 @@
+Remade: Anonimu'#9775
+
 # SAM Software Automatic Mouth
 
 ## What is SAM?
@@ -20,42 +22,9 @@ to avoid the
 [Emscripten conversion](http://simulationcorner.net/index.php?page=sam)
 by Stefan (which weights about 414kb).
 
-## Usage
+#Description of repository
 
-Require the module via yarn: `yarn add sam-js`
-
-Use it in your program:
-
-```javascript
-import SamJs from 'sam-js';
-
-let sam = new SamJs();
-
-// Play "Hello world" over the speaker.
-// This returns a Promise resolving after playback has finished.
-sam.speak('Hello world');
-
-// Generate a wave file containing "Hello world" and download it.
-sam.download('Hello world');
-
-// Render the passed text as 8bit wave buffer array (Uint8Array).
-const buf8 = sam.buf8('Hello world');
-
-// Render the passed text as 32bit wave buffer array (Float32Array).
-const buf32 = sam.buf32('Hello world');
-```
-
-### Typical voice values
-
-```
-DESCRIPTION          SPEED     PITCH     THROAT    MOUTH
-Elf                   72        64        110       160
-Little Robot          92        60        190       190
-Stuffy Guy            82        72        110       105
-Little Old Lady       82        32        145       145
-Extra-Terrestrial    100        64        150       200
-SAM                   72        64        128       128
-```
+As you know , everyone is looking for a sam version with download one , so i made one. Enjoy of this code , its not 100% open-source but you can use it at your own risk.
 
 ## Original docs.
 
