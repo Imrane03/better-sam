@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>SAM: Software Automatic Mouth</title>
+  <style>
+    body {
+      max-width: 12cm;
+      margin: 0 auto;
+      font-family: sans-serif;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    label, input {
+      display: inline-block;
+    }
+    label { width: 30%}
+    input { width: 60%}
+    input[type="button"] { width: 100%;}
+  </style>
+</head>
+<body>
+<h1> SAM Software Automatic Mouth</h1>
+<script src="dist/guessnum.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    new GuessNum(document.getElementById('playground'));
+  });
+</script>
+
+<h3>S.A.M. - guess a number.</h3>
+<form id="playground"></form>
+<hr>
+
+<a href="https://github.com/discordier/sam">Github Repository with the source code</a>
+</body>
+</html>

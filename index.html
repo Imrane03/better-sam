@@ -1,0 +1,26 @@
+<!--
+#########################################################################################
+##  ██████  ███████ ████████ ████████ ███████ ██████      ███████  █████  ███    ███   ##
+##  ██   ██ ██         ██       ██    ██      ██   ██     ██      ██   ██ ████  ████   ##
+##  ██████  █████      ██       ██    █████   ██████      ███████ ███████ ██ ████ ██   ##
+##  ██   ██ ██         ██       ██    ██      ██   ██          ██ ██   ██ ██  ██  ██   ## 
+##  ██████  ███████    ██       ██    ███████ ██   ██     ███████ ██   ██ ██      ██   ## 
+##                                                                                     ##
+##  Better SAM by Discord: Anonimu'#9775 .                                             ##
+##  Includes the new features:                                                         ##
+##  - 2 New buttons;                                                                   ##
+##  - New design;                                                                      ##
+##  - Donwloadable .WAV files;                                                         ##
+##  - Github open-source code.                                                         ##
+##                                                                                     ##
+##  **LEGAL DISCLAIMER: I do not own the original code , i just make a remade of it ,  ##
+##  all rights and copyright go to "Don't Ask Software (SoftVoice inc.)" and other     ##
+##  contributors [Sebastian Macke,Vidar Hoktsad,8BitPimp,discordier.].                 ##
+#########################################################################################
+-->
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>SAM: Software Automatic Mouth</title><style>body{max-width:12cm;margin:0 auto;font-family:sans-serif}h1,h2{text-align:center}label{display:flex;flex-direction:column}label{width:30%}button{width:60%}button[id=fmm]{width:100%}button[id=fmm2]{width:100%}</style></head><body><h1> SAM Software Automatic Mouth 2.0</h1><h2>Downloadable sam.</h2><p>Remade.</p>
+<script src="dist/samjs.js"></script>
+<script>opts={debug:1,pitch:64,speed:72,mouth:128,throat:128},document.addEventListener("DOMContentLoaded",function(){["speed","pitch","mouth","throat"].forEach(e=>{var t=document.getElementById(e);t.onchange=function(e){opts[e.target.id]=e.target.value,document.getElementById(e.target.id+"-lbl").innerText=e.target.id.charAt(0).toUpperCase()+e.target.id.substr(1)+": "+e.target.value},t.value=opts[e]}),document.getElementById("fmm").addEventListener("click",function(e){e.preventDefault(),new SamJs(opts).download(document.getElementById("speechinput").value)}),document.getElementById("fmm2").addEventListener("click",function(e){e.preventDefault(),new SamJs(opts).speak(document.getElementById("speechinput").value)})});</script>
+<div class="items"><hr> <div> <label for="speechinput">Text to speak:</label> <input size="60" id="speechinput" name="textfield" value="Test"> <hr> <label id="pitch-lbl" for="pitch">Pitch: </label><input type="range" id="pitch" min="0" max="255" value="0"/> <label id="speed-lbl" for="speed">Speed: </label>
+<input type="range" id="speed" min="1" max="255" value="0"/> <label id="mouth-lbl" for="mouth">Mouth: </label><input type="range" id="mouth" min="0" max="255" value="0"/> <label id="throat-lbl" for="throat">Throat: </label><input type="range" id="throat" min="0" max="255" value="0"/> 
+<button id="fmm2" type="submit">Preview</button> <button id="fmm" type="submit">Download</button> </div><hr></div></body></html>

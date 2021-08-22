@@ -1,0 +1,14 @@
+[
+    {
+        "input": "1080 ",
+        "output": "  WAH4N ZIY4ROW EY4T ZIY4ROW "
+    },
+    {
+        "input": "10TH ",
+        "output": " TEH4NTH "
+    },
+    {
+        "input": "1ST ",
+        "output": " FER4ST "
+    }
+]

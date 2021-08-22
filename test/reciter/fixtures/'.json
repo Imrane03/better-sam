@@ -1,0 +1,130 @@
+[
+    {
+        "input": "'D ",
+        "output": " D "
+    },
+    {
+        "input": "'EM ",
+        "output": " EHM "
+    },
+    {
+        "input": "'LL ",
+        "output": " L "
+    },
+    {
+        "input": "'M ",
+        "output": " M "
+    },
+    {
+        "input": "'MID ",
+        "output": " MIHD "
+    },
+    {
+        "input": "'MIDST ",
+        "output": " MIHDST "
+    },
+    {
+        "input": "'MONGST ",
+        "output": " MAONXST "
+    },
+    {
+        "input": "'PRENTICE ",
+        "output": " PREHNTIHS "
+    },
+    {
+        "input": "'RE ",
+        "output": " R "
+    },
+    {
+        "input": "'S ",
+        "output": " S "
+    },
+    {
+        "input": "'SBLOOD ",
+        "output": " SBLAH5D "
+    },
+    {
+        "input": "'SBODIKINS ",
+        "output": " SBAADIHKIHNZ "
+    },
+    {
+        "input": "'SDEATH ",
+        "output": " SDIY5TH "
+    },
+    {
+        "input": "'SFOOT ",
+        "output": " SFUH5T "
+    },
+    {
+        "input": "'SHEART ",
+        "output": " SHIY5RT "
+    },
+    {
+        "input": "'SHUN ",
+        "output": " SHAHN "
+    },
+    {
+        "input": "'SLID ",
+        "output": " SLIHD "
+    },
+    {
+        "input": "'SLIFE ",
+        "output": " SLAYF "
+    },
+    {
+        "input": "'SLIGHT ",
+        "output": " SLAY4T "
+    },
+    {
+        "input": "'SNAILS ",
+        "output": " SNEY4LZ "
+    },
+    {
+        "input": "'STREWTH ",
+        "output": " STRUWTH "
+    },
+    {
+        "input": "'T ",
+        "output": " T "
+    },
+    {
+        "input": "'TIL ",
+        "output": " TIHL "
+    },
+    {
+        "input": "'TIS ",
+        "output": " TIHS "
+    },
+    {
+        "input": "'TWAS ",
+        "output": " TWAHS "
+    },
+    {
+        "input": "'TWEEN ",
+        "output": " TWIY4N "
+    },
+    {
+        "input": "'TWERE ",
+        "output": " TWIY4R "
+    },
+    {
+        "input": "'TWILL ",
+        "output": " TWIHL "
+    },
+    {
+        "input": "'TWIXT ",
+        "output": " TWIHKST "
+    },
+    {
+        "input": "'TWOULD ",
+        "output": " TWUH5D "
+    },
+    {
+        "input": "'UN ",
+        "output": " AHN "
+    },
+    {
+        "input": "'VE ",
+        "output": " V "
+    }
+]

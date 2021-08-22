@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>SAM: Software Automatic Mouth - singing the national anthem of the USA</title>
+  <style>
+    body {
+      max-width: 15cm;
+      margin: 2% auto;
+      font-family: sans-serif;
+    }
+    button {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+<p>SAM singing the national anthem of the United States of America!</p>
+<p><button id="start">Sing for me!</button></p>
+<script src="dist/samjs.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('start').addEventListener('click', () => {
+      var s = new SamJs();
+      s.speak('Hello my name is SAM.').then(() => {
+        s.speak('I will sing the national anthem of the united states of America.').then(() => {
+          s.speak('The star spangled banner!').then(() => {
+            delete s;
+            sing();
+          });
+        });
+      });
+    })
+  });
+
+  var lines=[
+    {speed: 40, pitch: 64, text: 'ohohoh'},
+    {speed: 40, pitch: 76, text: 'ohohoh'},
+    {speed: 40, pitch: 96, text: 'sehehehehehehehehehey'},
+    {speed: 40, pitch: 76, text: 'kaeaeaeaeaeaeaeaeaen'},
+    {speed: 40, pitch: 64, text: 'yuxuxuxuxuxuxw'},
+    {speed: 40, pitch: 48, text: 'siyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy'},
+    {speed: 40, pitch: 38, text: 'baaaaay'},
+    {speed: 40, pitch: 42, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 48, text: 'daoaoaoaoaoaoaonz'},
+    {speed: 40, pitch: 76, text: 'ererererererer'},
+    {speed: 40, pitch: 68, text: 'liyiyiyiyiyiyiyiyiy'},
+    {speed: 40, pitch: 64, text: 'laaaaaaaaaaaaaaaaaaaaaaaaayt'},
+    {speed: 40, pitch: 64, text: 'whahahaht'},
+    {speed: 40, pitch: 64, text: 'sohohuw'},
+    {speed: 40, pitch: 38, text: 'praaaaaaaaaaaaaaaauwd'},
+    {speed: 40, pitch: 42, text: 'liyiyiy'},
+    {speed: 40, pitch: 48, text: 'wiyiyiyiyiyiyiyiyiy'},
+    {speed: 40, pitch: 51, text: '/heheheheheheheheheheheheheheheheheheyld'},
+    {speed: 40, pitch: 56, text: 'aeaeaeaet'},
+    {speed: 40, pitch: 51, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 48, text: 'twaaaaaaaaaaaaaaiy'},
+    {speed: 40, pitch: 48, text: 'laaaaaaaaaaaaiyts'},
+    {speed: 40, pitch: 64, text: 'laeaeaeaeaeaeaeaeaest'},
+    {speed: 40, pitch: 76, text: 'gliyiyiyiyiyiyiyiyiym'},
+    {speed: 40, pitch: 96, text: 'mihihihihihihihihihihnx'},
+    {speed: 40, pitch: 64, text: '/huxuxuxuxuxuxuxuxuxuxwz'},
+    {speed: 40, pitch: 76, text: 'braoaoaod'},
+    {speed: 40, pitch: 96, text: 'straaaaaaaaaaaaiyps'},
+    {speed: 40, pitch: 76, text: 'aeaeaeaeaeaeaeaeaeaend'},
+    {speed: 40, pitch: 64, text: 'braaaaaaaaaaaaaaiyt'},
+    {speed: 40, pitch: 48, text: 'staaaaaaaaaaaaaaaaaaaaaaaaaarz'},
+    {speed: 40, pitch: 38, text: 'thruxuxw'},
+    {speed: 40, pitch: 42, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 48, text: 'pehehehehehehehehehehr'},
+    {speed: 40, pitch: 76, text: 'rixixixixixixixixixixixixl'},
+    {speed: 40, pitch: 68, text: 'lahahahahahahahahahs'},
+    {speed: 40, pitch: 64, text: 'faaaaaaaaaaaaaaaaaaaaaaaaaaiyt'},
+    {speed: 40, pitch: 64, text: 'ohohohr'},
+    {speed: 40, pitch: 64, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 38, text: 'raeaeaeaeaeaeaeaeaeaeaeaem'},
+    {speed: 40, pitch: 42, text: 'paaaarts'},
+    {speed: 40, pitch: 48, text: 'wiyiyiyiyiyiyiyiyiy'},
+    {speed: 40, pitch: 51, text: 'waaaaaaaaaaaaaaaaaaaaaaaaaachd'},
+    {speed: 40, pitch: 56, text: 'werer'},
+    {speed: 40, pitch: 51, text: 'sohohw'},
+    {speed: 40, pitch: 48, text: 'gaeaeaeaeaeaeaeaeaeael'},
+    {speed: 40, pitch: 48, text: 'lixixixixixixixixixixixixixnt'},
+    {speed: 40, pitch: 64, text: 'liyiyiyiyiyiyiyiyiy'},
+    {speed: 40, pitch: 76, text: 'striyiyiyiyiyiyiyiyiym'},
+    {speed: 40, pitch: 96, text: 'mihihihihihihihihihnx'},
+    {speed: 40, pitch: 38, text: 'aeaeaeaeaend'},
+    {speed: 40, pitch: 38, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 38, text: 'raaaaaaaaaaaak'},
+    {speed: 40, pitch: 36, text: 'kixixixixixixixixixixixts'},
+    {speed: 40, pitch: 32, text: 'rehehehehehehehehehd'},
+    {speed: 40, pitch: 32, text: 'gleheheheheheheheheheheheheheheherer'},
+    {speed: 40, pitch: 36, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 38, text: 'baaaamz'},
+    {speed: 40, pitch: 42, text: 'bererererererst'},
+    {speed: 40, pitch: 38, text: 'tihihihihihihihihihnx'},
+    {speed: 40, pitch: 36, text: 'ihihihihihihihihihihn'},
+    {speed: 40, pitch: 36, text: 'eheheheheheheheheheheheheheheheheheyr'},
+    {speed: 40, pitch: 36, text: 'geheheheyv'},
+    {speed: 40, pitch: 38, text: 'pruxuxuxuxuxuxuxuxuxuxuxuxwf'},
+    {speed: 40, pitch: 42, text: 'thruxuxw'},
+    {speed: 40, pitch: 48, text: 'dhaaaxaxax'},
+    {speed: 40, pitch: 51, text: 'naaaaaaaaaaaaaaaaaaaaaaayiyt'},
+    {speed: 40, pitch: 56, text: 'dhaeaeaeaet'},
+    {speed: 40, pitch: 51, text: 'aaaaaauwr'},
+    {speed: 40, pitch: 48, text: 'flaeaeaeaeaeaeaeaeaeg'},
+    {speed: 40, pitch: 76, text: 'wahahahahahahahahahz'},
+    {speed: 40, pitch: 68, text: 'stihihihihihihihihihl'},
+    {speed: 40, pitch: 64, text: 'dhehehehehehehehehehehehehehehehehehehehr'},
+    {speed: 40, pitch: 64, text: 'ohohohohohohow'},
+    {speed: 40, pitch: 48, text: 'sehehehehehehehehehey'},
+    {speed: 40, pitch: 48, text: 'dahahahahahahahahahz'},
+    {speed: 40, pitch: 48, text: 'dhaeaeae'},
+    {speed: 40, pitch: 51, text: 'aeaeaet'},
+    {speed: 40, pitch: 56, text: 'staaaaaaaaaaaar'},
+    {speed: 40, pitch: 56, text: 'spehehehehehehehehehiynx'},
+    {speed: 40, pitch: 56, text: 'gaxaxaxaxaxaxaxaxaxaxaxaxld'},
+    {speed: 40, pitch: 42, text: 'baeaeaeaeaeaeaeaeaen'},
+    {speed: 40, pitch: 36, text: 'nerer'},
+    {speed: 40, pitch: 38, text: 'ererer'},
+    {speed: 40, pitch: 42, text: 'yeheheh'},
+    {speed: 40, pitch: 48, text: 'eheheheht'},
+    {speed: 40, pitch: 48, text: 'weheheheheheheheheheheh'},
+    {speed: 40, pitch: 51, text: 'ehehehehehehehiyiyiyv'},
+    {speed: 40, pitch: 64, text: 'ohohohr'},
+    {speed: 40, pitch: 64, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 48, text: 'laeaeaeaeaeaeaeaeaeaeaeae'},
+    {speed: 40, pitch: 42, text: 'aeaeaend'},
+    {speed: 40, pitch: 38, text: 'ahahahv'},
+    {speed: 40, pitch: 36, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 32, text: 'friyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiyiy'},
+    {speed: 40, pitch: 48, text: 'aeaeaend'},
+    {speed: 40, pitch: 42, text: 'dhaaaxaxaxax'},
+    {speed: 40, pitch: 38, text: '/hohohohohohohohohowm'},
+    {speed: 40, pitch: 36, text: 'ahahahahv'},
+    {speed: 40, pitch: 42, text: 'dhaaaxaxaxaxaxaxaxaxaxaxaxaxax'},
+    {speed: 40, pitch: 48, text: 'brehehehehehehehehehehiyiyiyv'}
+  ];
+  var line = 0;
+  function sing () {
+    if (line===lines.length) {
+      return;
+    }
+    var chunk = lines[line++];
+    var s = new SamJs({speed: chunk.speed, pitch: chunk.pitch, singmode: true});
+    s.speak(chunk.text, true).then(sing);
+  }
+
+</script>
+<hr>
+<p>
+  <a href="https://github.com/discordier/sam">Github Repository with the source code</a>
+</p>
+</body>
+</html>

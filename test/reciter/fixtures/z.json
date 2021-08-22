@@ -1,0 +1,4822 @@
+[
+    {
+        "input": "Z ",
+        "output": " ZIY4 "
+    },
+    {
+        "input": "Z'S ",
+        "output": " ZS "
+    },
+    {
+        "input": "ZA ",
+        "output": " ZAH "
+    },
+    {
+        "input": "ZABAGLIONE ",
+        "output": " ZAEBAEGLIHWAHN "
+    },
+    {
+        "input": "ZABAIONE ",
+        "output": " ZAEBEY4WAHN "
+    },
+    {
+        "input": "ZABAIONES ",
+        "output": " ZAEBEY4OW5NZ "
+    },
+    {
+        "input": "ZABAJONE ",
+        "output": " ZAEBAEJOW5N "
+    },
+    {
+        "input": "ZABAJONES ",
+        "output": " ZAEBAEJOW5NZ "
+    },
+    {
+        "input": "ZABETA ",
+        "output": " ZAEBEHTAH "
+    },
+    {
+        "input": "ZABOGLIONE ",
+        "output": " ZAEBAAGLIHWAHN "
+    },
+    {
+        "input": "ZABRA ",
+        "output": " ZAEBRAH "
+    },
+    {
+        "input": "ZABTI ",
+        "output": " ZAEBTAY "
+    },
+    {
+        "input": "ZABTIE ",
+        "output": " ZAEBTIY "
+    },
+    {
+        "input": "ZABURRO ",
+        "output": " ZAEBERROW "
+    },
+    {
+        "input": "ZAC ",
+        "output": " ZAEK "
+    },
+    {
+        "input": "ZACATE ",
+        "output": " ZAEKEYT "
+    },
+    {
+        "input": "ZACATON ",
+        "output": " ZAEKAETUN "
+    },
+    {
+        "input": "ZACATONS ",
+        "output": " ZAEKAETUNZ "
+    },
+    {
+        "input": "ZACHARIAH ",
+        "output": " ZAEKEH5RIHAE "
+    },
+    {
+        "input": "ZACHUN ",
+        "output": " ZAECHAHN "
+    },
+    {
+        "input": "ZACK ",
+        "output": " ZAEK "
+    },
+    {
+        "input": "ZAD ",
+        "output": " ZAED "
+    },
+    {
+        "input": "ZADDICK ",
+        "output": " ZAEDDIHK "
+    },
+    {
+        "input": "ZADDICKIM ",
+        "output": " ZAEDDIHKIHM "
+    },
+    {
+        "input": "ZADDIK ",
+        "output": " ZAEDDIHK "
+    },
+    {
+        "input": "ZADDIKIM ",
+        "output": " ZAEDDIHKIHM "
+    },
+    {
+        "input": "ZADRUGA ",
+        "output": " ZAEDRUWGAH "
+    },
+    {
+        "input": "ZAFFAR ",
+        "output": " ZAEFAA5R "
+    },
+    {
+        "input": "ZAFFARS ",
+        "output": " ZAEFAA5RZ "
+    },
+    {
+        "input": "ZAFFER ",
+        "output": " ZAEFER "
+    },
+    {
+        "input": "ZAFFERS ",
+        "output": " ZAEFERZ "
+    },
+    {
+        "input": "ZAFFIR ",
+        "output": " ZAEFER "
+    },
+    {
+        "input": "ZAFFIRS ",
+        "output": " ZAEFERZ "
+    },
+    {
+        "input": "ZAFFRE ",
+        "output": " ZAEFR "
+    },
+    {
+        "input": "ZAFFREE ",
+        "output": " ZAEFRIY4 "
+    },
+    {
+        "input": "ZAFFRES ",
+        "output": " ZAEFRZ "
+    },
+    {
+        "input": "ZAFREE ",
+        "output": " ZAEFRIY4 "
+    },
+    {
+        "input": "ZAFTIG ",
+        "output": " ZAEFTIHG "
+    },
+    {
+        "input": "ZAG ",
+        "output": " ZAEG "
+    },
+    {
+        "input": "ZAGAIE ",
+        "output": " ZAEGEY4 "
+    },
+    {
+        "input": "ZAGGED ",
+        "output": " ZAEGD "
+    },
+    {
+        "input": "ZAGGING ",
+        "output": " ZAEGIHNX "
+    },
+    {
+        "input": "ZAGS ",
+        "output": " ZAEGZ "
+    },
+    {
+        "input": "ZAGUAN ",
+        "output": " ZAEGWAEN "
+    },
+    {
+        "input": "ZAIBATSU ",
+        "output": " ZEY4BAETSUW "
+    },
+    {
+        "input": "ZAIN ",
+        "output": " ZEY4N "
+    },
+    {
+        "input": "ZAIRE ",
+        "output": " ZEH4R "
+    },
+    {
+        "input": "ZAIRES ",
+        "output": " ZEH4RZ "
+    },
+    {
+        "input": "ZAIRIAN ",
+        "output": " ZEH4RIHAEN "
+    },
+    {
+        "input": "ZAIRIANS ",
+        "output": " ZEH4RIHAENZ "
+    },
+    {
+        "input": "ZAK ",
+        "output": " ZAEK "
+    },
+    {
+        "input": "ZAKAH ",
+        "output": " ZAEKAE "
+    },
+    {
+        "input": "ZAKAT ",
+        "output": " ZAEKAET "
+    },
+    {
+        "input": "ZAKKEU ",
+        "output": " ZAEKKYUW5 "
+    },
+    {
+        "input": "ZAKUSKA ",
+        "output": " ZAEKAH5SKAH "
+    },
+    {
+        "input": "ZAKUSKI ",
+        "output": " ZAEKAH5SKAY "
+    },
+    {
+        "input": "ZALAMBDODONT ",
+        "output": " ZAELAEMBDAADUNT "
+    },
+    {
+        "input": "ZALAMBOODONT ",
+        "output": " ZAELAEMBUH5DUNT "
+    },
+    {
+        "input": "ZAMAN ",
+        "output": " ZAEMAEN "
+    },
+    {
+        "input": "ZAMANG ",
+        "output": " ZAEMAENX "
+    },
+    {
+        "input": "ZAMARRA ",
+        "output": " ZAEMAE4RAH "
+    },
+    {
+        "input": "ZAMARRAS ",
+        "output": " ZAEMAE4RAES "
+    },
+    {
+        "input": "ZAMARRO ",
+        "output": " ZAEMAE4ROW "
+    },
+    {
+        "input": "ZAMARROS ",
+        "output": " ZAEMAE4RAAS "
+    },
+    {
+        "input": "ZAMBAC ",
+        "output": " ZAEMBAEK "
+    },
+    {
+        "input": "ZAMBEZI ",
+        "output": " ZAEMBEHZAY "
+    },
+    {
+        "input": "ZAMBIA ",
+        "output": " ZAEMBIHAH "
+    },
+    {
+        "input": "ZAMBIAN ",
+        "output": " ZAEMBIHAEN "
+    },
+    {
+        "input": "ZAMBIANS ",
+        "output": " ZAEMBIHAENZ "
+    },
+    {
+        "input": "ZAMBO ",
+        "output": " ZAEMBOW "
+    },
+    {
+        "input": "ZAMBOMBA ",
+        "output": " ZAEMBAHMBAH "
+    },
+    {
+        "input": "ZAMBOORAK ",
+        "output": " ZAEMBOH5RAEK "
+    },
+    {
+        "input": "ZAMBRA ",
+        "output": " ZAEMBRAH "
+    },
+    {
+        "input": "ZAMIA ",
+        "output": " ZEY5MIHAH "
+    },
+    {
+        "input": "ZAMIAS ",
+        "output": " ZEY5MIHAEZ "
+    },
+    {
+        "input": "ZAMINDAR ",
+        "output": " ZAEMAY5NDAA5R "
+    },
+    {
+        "input": "ZAMINDARI ",
+        "output": " ZAEMAY5NDEH4RAY "
+    },
+    {
+        "input": "ZAMINDARS ",
+        "output": " ZAEMAY5NDAA5RZ "
+    },
+    {
+        "input": "ZAMINDARY ",
+        "output": " ZAEMAY5NDEH4RIY "
+    },
+    {
+        "input": "ZAMINDER ",
+        "output": " ZAEMAY5NDER "
+    },
+    {
+        "input": "ZAMORIN ",
+        "output": " ZAEMAORIHN "
+    },
+    {
+        "input": "ZAMORINE ",
+        "output": " ZAEMAORIHN "
+    },
+    {
+        "input": "ZAMOUSE ",
+        "output": " ZAEMAXS "
+    },
+    {
+        "input": "ZAMPOGNA ",
+        "output": " ZAEMPAAGNAH "
+    },
+    {
+        "input": "ZANANA ",
+        "output": " ZAENAENAH "
+    },
+    {
+        "input": "ZANANAS ",
+        "output": " ZAENAENAES "
+    },
+    {
+        "input": "ZANDER ",
+        "output": " ZAENDER "
+    },
+    {
+        "input": "ZANDERS ",
+        "output": " ZAENDERZ "
+    },
+    {
+        "input": "ZANDMOLE ",
+        "output": " ZAENDMOW5L "
+    },
+    {
+        "input": "ZANELLA ",
+        "output": " ZAENEHLAH "
+    },
+    {
+        "input": "ZANIER ",
+        "output": " ZEY5NIYER "
+    },
+    {
+        "input": "ZANIES ",
+        "output": " ZEY5NIYZ "
+    },
+    {
+        "input": "ZANIEST ",
+        "output": " ZEY5NIYEHST "
+    },
+    {
+        "input": "ZANILY ",
+        "output": " ZAENIHLIY "
+    },
+    {
+        "input": "ZANINESS ",
+        "output": " ZAENIHNEHS "
+    },
+    {
+        "input": "ZANINESSES ",
+        "output": " ZAENIHNEHSIHZ "
+    },
+    {
+        "input": "ZANJERO ",
+        "output": " ZAENJEROW "
+    },
+    {
+        "input": "ZANJON ",
+        "output": " ZAENJUN "
+    },
+    {
+        "input": "ZANJONA ",
+        "output": " ZAENJUNAH "
+    },
+    {
+        "input": "ZANT ",
+        "output": " ZAENT "
+    },
+    {
+        "input": "ZANTE ",
+        "output": " ZAENT "
+    },
+    {
+        "input": "ZANTEWOOD ",
+        "output": " ZAENTWUH5D "
+    },
+    {
+        "input": "ZANTHOXYLUM ",
+        "output": " ZAENTHAAKSIYLAHM "
+    },
+    {
+        "input": "ZANTIOTE ",
+        "output": " ZAENSHOW5T "
+    },
+    {
+        "input": "ZANY ",
+        "output": " ZEH4NIY "
+    },
+    {
+        "input": "ZANYISH ",
+        "output": " ZEH4NIYIHSH "
+    },
+    {
+        "input": "ZANYISM ",
+        "output": " ZEH4NIYIHZUM "
+    },
+    {
+        "input": "ZANYSHIP ",
+        "output": " ZEH4NIYSHIHP "
+    },
+    {
+        "input": "ZANZA ",
+        "output": " ZAENZAH "
+    },
+    {
+        "input": "ZANZAS ",
+        "output": " ZAENZAES "
+    },
+    {
+        "input": "ZANZE ",
+        "output": " ZAENZ "
+    },
+    {
+        "input": "ZANZIBAR ",
+        "output": " ZAENZIHBAA5R "
+    },
+    {
+        "input": "ZAP ",
+        "output": " ZAEP "
+    },
+    {
+        "input": "ZAPAS ",
+        "output": " ZAEPAES "
+    },
+    {
+        "input": "ZAPATEADO ",
+        "output": " ZAEPEY5TEHDOW "
+    },
+    {
+        "input": "ZAPATEADOS ",
+        "output": " ZAEPEY5TEHDAAS "
+    },
+    {
+        "input": "ZAPATEO ",
+        "output": " ZAEPEY5TIYOW "
+    },
+    {
+        "input": "ZAPATEOS ",
+        "output": " ZAEPEY5TIYAAZ "
+    },
+    {
+        "input": "ZAPATERO ",
+        "output": " ZAEPEYTEROW "
+    },
+    {
+        "input": "ZAPHARA ",
+        "output": " ZAEFEH4RAH "
+    },
+    {
+        "input": "ZAPHRENTID ",
+        "output": " ZAEFREHNTIHD "
+    },
+    {
+        "input": "ZAPHRENTOID ",
+        "output": " ZAEFREHNTOY5D "
+    },
+    {
+        "input": "ZAPOTA ",
+        "output": " ZAEPAATAH "
+    },
+    {
+        "input": "ZAPOTE ",
+        "output": " ZAEPOW5T "
+    },
+    {
+        "input": "ZAPPED ",
+        "output": " ZAEPT "
+    },
+    {
+        "input": "ZAPPING ",
+        "output": " ZAEPIHNX "
+    },
+    {
+        "input": "ZAPS ",
+        "output": " ZAES "
+    },
+    {
+        "input": "ZAPTIAH ",
+        "output": " ZAEPSHAE "
+    },
+    {
+        "input": "ZAPTIAHS ",
+        "output": " ZAEPSHAES "
+    },
+    {
+        "input": "ZAPTIEH ",
+        "output": " ZAEPTIY4 "
+    },
+    {
+        "input": "ZAPTIEHS ",
+        "output": " ZAEPTIY4S "
+    },
+    {
+        "input": "ZAPUPE ",
+        "output": " ZAEPYUWP "
+    },
+    {
+        "input": "ZAQQUM ",
+        "output": " ZAEKKWM "
+    },
+    {
+        "input": "ZAR ",
+        "output": " ZAA5R "
+    },
+    {
+        "input": "ZARABANDA ",
+        "output": " ZEH4RAEBAENDAH "
+    },
+    {
+        "input": "ZARATHUSTRIAN ",
+        "output": " ZEH4RAETHAH5STRIHAEN "
+    },
+    {
+        "input": "ZARATITE ",
+        "output": " ZEH4RAETIHT "
+    },
+    {
+        "input": "ZARATITES ",
+        "output": " ZEH4RAETIHTS "
+    },
+    {
+        "input": "ZAREBA ",
+        "output": " ZEH4REHBAH "
+    },
+    {
+        "input": "ZAREBAS ",
+        "output": " ZEH4REHBAES "
+    },
+    {
+        "input": "ZAREEBA ",
+        "output": " ZEH4RIY4BAH "
+    },
+    {
+        "input": "ZAREEBAS ",
+        "output": " ZEH4RIY4BAES "
+    },
+    {
+        "input": "ZARF ",
+        "output": " ZAA5RF "
+    },
+    {
+        "input": "ZARFS ",
+        "output": " ZAA5RFS "
+    },
+    {
+        "input": "ZARIBA ",
+        "output": " ZEH4RIHBAH "
+    },
+    {
+        "input": "ZARIBAS ",
+        "output": " ZEH4RIHBAES "
+    },
+    {
+        "input": "ZARNEC ",
+        "output": " ZAA5RNEHK "
+    },
+    {
+        "input": "ZARNICH ",
+        "output": " ZAA5RNIHCH "
+    },
+    {
+        "input": "ZARP ",
+        "output": " ZAA5RP "
+    },
+    {
+        "input": "ZARZUELA ",
+        "output": " ZAA5RZUWEHLAH "
+    },
+    {
+        "input": "ZARZUELAS ",
+        "output": " ZAA5RZUWEHLAES "
+    },
+    {
+        "input": "ZASTRUGA ",
+        "output": " ZAESTRUWGAH "
+    },
+    {
+        "input": "ZASTRUGI ",
+        "output": " ZAESTRUWJAY "
+    },
+    {
+        "input": "ZAT ",
+        "output": " ZAET "
+    },
+    {
+        "input": "ZATI ",
+        "output": " ZEY4TAY "
+    },
+    {
+        "input": "ZATTARE ",
+        "output": " ZAETTEH4R "
+    },
+    {
+        "input": "ZAX ",
+        "output": " ZAEKS "
+    },
+    {
+        "input": "ZAXES ",
+        "output": " ZEYKSIHZ "
+    },
+    {
+        "input": "ZAYAT ",
+        "output": " ZEY5AET "
+    },
+    {
+        "input": "ZAYIN ",
+        "output": " ZEY5IHN "
+    },
+    {
+        "input": "ZAYINS ",
+        "output": " ZEY5IHNZ "
+    },
+    {
+        "input": "ZAZEN ",
+        "output": " ZAEZEHN "
+    },
+    {
+        "input": "ZAZENS ",
+        "output": " ZAEZEHNZ "
+    },
+    {
+        "input": "ZEA ",
+        "output": " ZIY5 "
+    },
+    {
+        "input": "ZEAL ",
+        "output": " ZIY5L "
+    },
+    {
+        "input": "ZEALAND ",
+        "output": " ZIY5LAEND "
+    },
+    {
+        "input": "ZEALANDER ",
+        "output": " ZIY5LAENDER "
+    },
+    {
+        "input": "ZEALANDERS ",
+        "output": " ZIY5LAENDERZ "
+    },
+    {
+        "input": "ZEALED ",
+        "output": " ZIY5LD "
+    },
+    {
+        "input": "ZEALFUL ",
+        "output": " ZIY5LFUHL "
+    },
+    {
+        "input": "ZEALLESS ",
+        "output": " ZIY5LEHS "
+    },
+    {
+        "input": "ZEALLESSNESS ",
+        "output": " ZIY5LEHSNEHS "
+    },
+    {
+        "input": "ZEALOT ",
+        "output": " ZIY5LAAT "
+    },
+    {
+        "input": "ZEALOTIC ",
+        "output": " ZIY5LAATIHK "
+    },
+    {
+        "input": "ZEALOTICAL ",
+        "output": " ZIY5LAATIHKUL "
+    },
+    {
+        "input": "ZEALOTISM ",
+        "output": " ZIY5LAATIHZUM "
+    },
+    {
+        "input": "ZEALOTIST ",
+        "output": " ZIY5LAATIHST "
+    },
+    {
+        "input": "ZEALOTRIES ",
+        "output": " ZIY5LAATRIYZ "
+    },
+    {
+        "input": "ZEALOTRY ",
+        "output": " ZIY5LAATRIY "
+    },
+    {
+        "input": "ZEALOTS ",
+        "output": " ZIY5LAATS "
+    },
+    {
+        "input": "ZEALOUS ",
+        "output": " ZIY5LAXS "
+    },
+    {
+        "input": "ZEALOUSLY ",
+        "output": " ZIY5LAXSLIY "
+    },
+    {
+        "input": "ZEALOUSNESS ",
+        "output": " ZIY5LAXSNEHS "
+    },
+    {
+        "input": "ZEALOUSY ",
+        "output": " ZIY5LAXSIY "
+    },
+    {
+        "input": "ZEALPROOF ",
+        "output": " ZIY5LPRUW5F "
+    },
+    {
+        "input": "ZEALS ",
+        "output": " ZIY5LZ "
+    },
+    {
+        "input": "ZEATIN ",
+        "output": " ZIY5TIHN "
+    },
+    {
+        "input": "ZEATINS ",
+        "output": " ZIY5TIHNZ "
+    },
+    {
+        "input": "ZEAXANTHIN ",
+        "output": " ZIY5KSAENTHIHN "
+    },
+    {
+        "input": "ZEBEC ",
+        "output": " ZEHBEHK "
+    },
+    {
+        "input": "ZEBECK ",
+        "output": " ZEHBEHK "
+    },
+    {
+        "input": "ZEBECKS ",
+        "output": " ZEHBEHKS "
+    },
+    {
+        "input": "ZEBECS ",
+        "output": " ZEHBEHKS "
+    },
+    {
+        "input": "ZEBEDEE ",
+        "output": " ZIY4BEHDIY4 "
+    },
+    {
+        "input": "ZEBRA ",
+        "output": " ZEHBRAH "
+    },
+    {
+        "input": "ZEBRA'S ",
+        "output": " ZEHBRAES "
+    },
+    {
+        "input": "ZEBRAFISH ",
+        "output": " ZEHBRAEFIHSH "
+    },
+    {
+        "input": "ZEBRAFISHES ",
+        "output": " ZEHBRAEFIHSHIHZ "
+    },
+    {
+        "input": "ZEBRAIC ",
+        "output": " ZEHBREY4K "
+    },
+    {
+        "input": "ZEBRALIKE ",
+        "output": " ZEHBRAELIHK "
+    },
+    {
+        "input": "ZEBRAS ",
+        "output": " ZEHBRAES "
+    },
+    {
+        "input": "ZEBRASS ",
+        "output": " ZEHBRAES "
+    },
+    {
+        "input": "ZEBRASSES ",
+        "output": " ZEHBRAESIHZ "
+    },
+    {
+        "input": "ZEBRAWOOD ",
+        "output": " ZEHBRAO5UH5D "
+    },
+    {
+        "input": "ZEBRINE ",
+        "output": " ZEHBRIHN "
+    },
+    {
+        "input": "ZEBRINNIES ",
+        "output": " ZEHBRIHNIYZ "
+    },
+    {
+        "input": "ZEBRINNY ",
+        "output": " ZEHBRIHNIY "
+    },
+    {
+        "input": "ZEBROID ",
+        "output": " ZEHBROY5D "
+    },
+    {
+        "input": "ZEBRULA ",
+        "output": " ZEHBRUWLAH "
+    },
+    {
+        "input": "ZEBRULE ",
+        "output": " ZEHBRUWL "
+    },
+    {
+        "input": "ZEBU ",
+        "output": " ZEHBYUW "
+    },
+    {
+        "input": "ZEBUB ",
+        "output": " ZEHBAHB "
+    },
+    {
+        "input": "ZEBULUN ",
+        "output": " ZEHBYUWLAHN "
+    },
+    {
+        "input": "ZEBURRO ",
+        "output": " ZEHBERROW "
+    },
+    {
+        "input": "ZEBUS ",
+        "output": " ZEHBAHS "
+    },
+    {
+        "input": "ZECCHIN ",
+        "output": " ZEHKCHIHN "
+    },
+    {
+        "input": "ZECCHINI ",
+        "output": " ZEHKCHIHNAY "
+    },
+    {
+        "input": "ZECCHINO ",
+        "output": " ZEHKCHIHNOW "
+    },
+    {
+        "input": "ZECCHINOS ",
+        "output": " ZEHKCHIHNAAS "
+    },
+    {
+        "input": "ZECCHINS ",
+        "output": " ZEHKCHIHNZ "
+    },
+    {
+        "input": "ZECHARIAH ",
+        "output": " ZEHKEH4RIHAE "
+    },
+    {
+        "input": "ZECHIN ",
+        "output": " ZEHKIHN "
+    },
+    {
+        "input": "ZECHINS ",
+        "output": " ZEHKIHNZ "
+    },
+    {
+        "input": "ZECHSTEIN ",
+        "output": " ZEHKSTIY4N "
+    },
+    {
+        "input": "ZED ",
+        "output": " ZEHD "
+    },
+    {
+        "input": "ZEDOARIES ",
+        "output": " ZEHDOW4RIYZ "
+    },
+    {
+        "input": "ZEDOARY ",
+        "output": " ZEHDOW4RIY "
+    },
+    {
+        "input": "ZEDS ",
+        "output": " ZEHDZ "
+    },
+    {
+        "input": "ZEE ",
+        "output": " ZIY4 "
+    },
+    {
+        "input": "ZEED ",
+        "output": " ZIY4D "
+    },
+    {
+        "input": "ZEEKOE ",
+        "output": " ZIY4KOW "
+    },
+    {
+        "input": "ZEES ",
+        "output": " ZIY4Z "
+    },
+    {
+        "input": "ZEHNER ",
+        "output": " ZEHNER "
+    },
+    {
+        "input": "ZEILANITE ",
+        "output": " ZIY4LAENIHT "
+    },
+    {
+        "input": "ZEIN ",
+        "output": " ZIY4N "
+    },
+    {
+        "input": "ZEINS ",
+        "output": " ZIY4NZ "
+    },
+    {
+        "input": "ZEISM ",
+        "output": " ZIY4ZUM "
+    },
+    {
+        "input": "ZEISS ",
+        "output": " ZIY4S "
+    },
+    {
+        "input": "ZEIST ",
+        "output": " ZIY4ST "
+    },
+    {
+        "input": "ZEITGEIST ",
+        "output": " ZIY4TJIY4ST "
+    },
+    {
+        "input": "ZEK ",
+        "output": " ZEHK "
+    },
+    {
+        "input": "ZEKS ",
+        "output": " ZEHKS "
+    },
+    {
+        "input": "ZEL ",
+        "output": " ZEHL "
+    },
+    {
+        "input": "ZELANT ",
+        "output": " ZEHLAENT "
+    },
+    {
+        "input": "ZELATOR ",
+        "output": " ZEHLAETER "
+    },
+    {
+        "input": "ZELATRICE ",
+        "output": " ZEHLAETRIHS "
+    },
+    {
+        "input": "ZELATRIX ",
+        "output": " ZEHLAETRIHKS "
+    },
+    {
+        "input": "ZELKOVA ",
+        "output": " ZEHLKAH4VAH "
+    },
+    {
+        "input": "ZELKOVAS ",
+        "output": " ZEHLKAH4VAES "
+    },
+    {
+        "input": "ZELOPHOBIA ",
+        "output": " ZEHLAAFOW5BIHAH "
+    },
+    {
+        "input": "ZELOTIC ",
+        "output": " ZEHLAATIHK "
+    },
+    {
+        "input": "ZELOTYPIA ",
+        "output": " ZEHLAATIYPIHAH "
+    },
+    {
+        "input": "ZELOTYPIE ",
+        "output": " ZEHLAATIYPIY "
+    },
+    {
+        "input": "ZEME ",
+        "output": " ZIY4M "
+    },
+    {
+        "input": "ZEMEISM ",
+        "output": " ZEHMIY4ZUM "
+    },
+    {
+        "input": "ZEMI ",
+        "output": " ZEHMAY "
+    },
+    {
+        "input": "ZEMIISM ",
+        "output": " ZEHMIHIHZUM "
+    },
+    {
+        "input": "ZEMIMDARI ",
+        "output": " ZEHMIHMDEH4RAY "
+    },
+    {
+        "input": "ZEMINDAR ",
+        "output": " ZEHMAY5NDAA5R "
+    },
+    {
+        "input": "ZEMINDARI ",
+        "output": " ZEHMAY5NDEH4RAY "
+    },
+    {
+        "input": "ZEMINDARS ",
+        "output": " ZEHMAY5NDAA5RZ "
+    },
+    {
+        "input": "ZEMINDARY ",
+        "output": " ZEHMAY5NDEH4RIY "
+    },
+    {
+        "input": "ZEMMI ",
+        "output": " ZEHMAY "
+    },
+    {
+        "input": "ZEMNI ",
+        "output": " ZEHMNAY "
+    },
+    {
+        "input": "ZEMSTROIST ",
+        "output": " ZEHMSTROY5ST "
+    },
+    {
+        "input": "ZEMSTVA ",
+        "output": " ZEHMSTVAH "
+    },
+    {
+        "input": "ZEMSTVO ",
+        "output": " ZEHMSTVOW "
+    },
+    {
+        "input": "ZEMSTVOS ",
+        "output": " ZEHMSTVAAS "
+    },
+    {
+        "input": "ZEN ",
+        "output": " ZEHN "
+    },
+    {
+        "input": "ZENAIDA ",
+        "output": " ZEHNEY4DAH "
+    },
+    {
+        "input": "ZENAIDAS ",
+        "output": " ZEHNEY4DAES "
+    },
+    {
+        "input": "ZENANA ",
+        "output": " ZEHNAENAH "
+    },
+    {
+        "input": "ZENANAS ",
+        "output": " ZEHNAENAES "
+    },
+    {
+        "input": "ZEND ",
+        "output": " ZEHND "
+    },
+    {
+        "input": "ZENDIC ",
+        "output": " ZEHNDIHK "
+    },
+    {
+        "input": "ZENDICIAN ",
+        "output": " ZEHNDIHSHAEN "
+    },
+    {
+        "input": "ZENDIK ",
+        "output": " ZEHNDIHK "
+    },
+    {
+        "input": "ZENDIKITE ",
+        "output": " ZEHNDIHKIHT "
+    },
+    {
+        "input": "ZENDO ",
+        "output": " ZEHNDOW "
+    },
+    {
+        "input": "ZENDOS ",
+        "output": " ZEHNDAAS "
+    },
+    {
+        "input": "ZENICK ",
+        "output": " ZEHNIHK "
+    },
+    {
+        "input": "ZENITH ",
+        "output": " ZEHNIHTH "
+    },
+    {
+        "input": "ZENITHAL ",
+        "output": " ZEHNIHTHUL "
+    },
+    {
+        "input": "ZENITHS ",
+        "output": " ZEHNIHTHS "
+    },
+    {
+        "input": "ZENITHWARD ",
+        "output": " ZEHNIHTHWAORD "
+    },
+    {
+        "input": "ZENITHWARDS ",
+        "output": " ZEHNIHTHWAORDZ "
+    },
+    {
+        "input": "ZENOBIA ",
+        "output": " ZEHNOW5BIHAH "
+    },
+    {
+        "input": "ZENOCENTRIC ",
+        "output": " ZEHNOWSEHNTRIHK "
+    },
+    {
+        "input": "ZENOGRAPHIC ",
+        "output": " ZEHNAAGRAEFIHK "
+    },
+    {
+        "input": "ZENOGRAPHICAL ",
+        "output": " ZEHNAAGRAEFIHKUL "
+    },
+    {
+        "input": "ZENOGRAPHY ",
+        "output": " ZEHNAAGRAEFIY "
+    },
+    {
+        "input": "ZENONIAN ",
+        "output": " ZEHNOW5NIHAEN "
+    },
+    {
+        "input": "ZENTNER ",
+        "output": " ZEHNTNER "
+    },
+    {
+        "input": "ZENU ",
+        "output": " ZEHNYUW "
+    },
+    {
+        "input": "ZENZUIC ",
+        "output": " ZEHNZUWIHK "
+    },
+    {
+        "input": "ZEOLITE ",
+        "output": " ZIYAALIHT "
+    },
+    {
+        "input": "ZEOLITES ",
+        "output": " ZIYAALIHTS "
+    },
+    {
+        "input": "ZEOLITIC ",
+        "output": " ZIYAALIHTIHK "
+    },
+    {
+        "input": "ZEOLITIZATION ",
+        "output": " ZIYAALIHTIHZEY5SHUN "
+    },
+    {
+        "input": "ZEOLITIZE ",
+        "output": " ZIYAALIHTAYZ "
+    },
+    {
+        "input": "ZEOLITIZED ",
+        "output": " ZIYAALIHTAYZD "
+    },
+    {
+        "input": "ZEOLITIZING ",
+        "output": " ZIYAALIHTAYZIHNX "
+    },
+    {
+        "input": "ZEOSCOPE ",
+        "output": " ZIYAASKOW5P "
+    },
+    {
+        "input": "ZEP ",
+        "output": " ZEHP "
+    },
+    {
+        "input": "ZEPHANIAH ",
+        "output": " ZEHFEY5NIHAE "
+    },
+    {
+        "input": "ZEPHAROVICHITE ",
+        "output": " ZEHFEH4RAH4VIHCHIHT "
+    },
+    {
+        "input": "ZEPHIRAN ",
+        "output": " ZEHFAYRAEN "
+    },
+    {
+        "input": "ZEPHYR ",
+        "output": " ZEHFIYR "
+    },
+    {
+        "input": "ZEPHYRANTH ",
+        "output": " ZEHFIYRAENTH "
+    },
+    {
+        "input": "ZEPHYREAN ",
+        "output": " ZEHFIYRIY5N "
+    },
+    {
+        "input": "ZEPHYRIAN ",
+        "output": " ZEHFIYRIHAEN "
+    },
+    {
+        "input": "ZEPHYRLESS ",
+        "output": " ZEHFIYRULEHS "
+    },
+    {
+        "input": "ZEPHYRLIKE ",
+        "output": " ZEHFIYRLIHK "
+    },
+    {
+        "input": "ZEPHYROUS ",
+        "output": " ZEHFIYRAXS "
+    },
+    {
+        "input": "ZEPHYRS ",
+        "output": " ZEHFIYRZ "
+    },
+    {
+        "input": "ZEPHYRUS ",
+        "output": " ZEHFIYRAHS "
+    },
+    {
+        "input": "ZEPHYRY ",
+        "output": " ZEHFIYRIY "
+    },
+    {
+        "input": "ZEPPELIN ",
+        "output": " ZEHPEHLIHN "
+    },
+    {
+        "input": "ZEPPELINS ",
+        "output": " ZEHPEHLIHNZ "
+    },
+    {
+        "input": "ZEQUIN ",
+        "output": " ZEHKWIHN "
+    },
+    {
+        "input": "ZER ",
+        "output": " ZER "
+    },
+    {
+        "input": "ZERDA ",
+        "output": " ZERDAH "
+    },
+    {
+        "input": "ZEREBA ",
+        "output": " ZEHREHBAH "
+    },
+    {
+        "input": "ZERMAHBUB ",
+        "output": " ZERMAEBAHB "
+    },
+    {
+        "input": "ZERO ",
+        "output": " ZEHROW "
+    },
+    {
+        "input": "ZEROAXIAL ",
+        "output": " ZEHROW4KSIHUL "
+    },
+    {
+        "input": "ZEROED ",
+        "output": " ZEHROWD "
+    },
+    {
+        "input": "ZEROES ",
+        "output": " ZEHROWZ "
+    },
+    {
+        "input": "ZEROETH ",
+        "output": " ZEHROWEHTH "
+    },
+    {
+        "input": "ZEROING ",
+        "output": " ZEHROW4IHNX "
+    },
+    {
+        "input": "ZEROIZE ",
+        "output": " ZEHROY5Z "
+    },
+    {
+        "input": "ZEROS ",
+        "output": " ZEHRAAS "
+    },
+    {
+        "input": "ZEROTH ",
+        "output": " ZEHRAATH "
+    },
+    {
+        "input": "ZERUMBET ",
+        "output": " ZEHRAH5MBEHT "
+    },
+    {
+        "input": "ZEST ",
+        "output": " ZEHST "
+    },
+    {
+        "input": "ZESTED ",
+        "output": " ZEHSTIXD "
+    },
+    {
+        "input": "ZESTFUL ",
+        "output": " ZEHSTFUHL "
+    },
+    {
+        "input": "ZESTFULLY ",
+        "output": " ZEHSTFUHLIY "
+    },
+    {
+        "input": "ZESTFULNESS ",
+        "output": " ZEHSTFUHLNEHS "
+    },
+    {
+        "input": "ZESTIER ",
+        "output": " ZEHSTIYER "
+    },
+    {
+        "input": "ZESTIEST ",
+        "output": " ZEHSTIYEHST "
+    },
+    {
+        "input": "ZESTINESS ",
+        "output": " ZEHSTIHNEHS "
+    },
+    {
+        "input": "ZESTING ",
+        "output": " ZEHSTIHNX "
+    },
+    {
+        "input": "ZESTLESS ",
+        "output": " ZEHSULS "
+    },
+    {
+        "input": "ZESTS ",
+        "output": " ZEHSTS "
+    },
+    {
+        "input": "ZESTY ",
+        "output": " ZEHSTIY "
+    },
+    {
+        "input": "ZETA ",
+        "output": " ZEHTAH "
+    },
+    {
+        "input": "ZETACISM ",
+        "output": " ZEHTAESIHZUM "
+    },
+    {
+        "input": "ZETAS ",
+        "output": " ZEHTAES "
+    },
+    {
+        "input": "ZETETIC ",
+        "output": " ZEHTEHTIHK "
+    },
+    {
+        "input": "ZEUCTOCOELOMATIC ",
+        "output": " ZYUW5KTAAKOWEHLAHMAETIHK "
+    },
+    {
+        "input": "ZEUCTOCOELOMIC ",
+        "output": " ZYUW5KTAAKOWEHLAHMIHK "
+    },
+    {
+        "input": "ZEUGITE ",
+        "output": " ZYUW5JIHT "
+    },
+    {
+        "input": "ZEUGLODON ",
+        "output": " ZYUW5GLAADUN "
+    },
+    {
+        "input": "ZEUGLODONT ",
+        "output": " ZYUW5GLAADUNT "
+    },
+    {
+        "input": "ZEUGLODONTOID ",
+        "output": " ZYUW5GLAADUNTOY5D "
+    },
+    {
+        "input": "ZEUGMA ",
+        "output": " ZYUW5GMAH "
+    },
+    {
+        "input": "ZEUGMAS ",
+        "output": " ZYUW5GMAES "
+    },
+    {
+        "input": "ZEUGMATIC ",
+        "output": " ZYUW5GMAETIHK "
+    },
+    {
+        "input": "ZEUGMATICALLY ",
+        "output": " ZYUW5GMAETIHKULIY "
+    },
+    {
+        "input": "ZEUNERITE ",
+        "output": " ZYUW5NEH4RIHT "
+    },
+    {
+        "input": "ZEUS ",
+        "output": " ZYUW5S "
+    },
+    {
+        "input": "ZEUXITE ",
+        "output": " ZYUW5KSIHT "
+    },
+    {
+        "input": "ZEUZERIAN ",
+        "output": " ZYUW5ZIY4RIYAEN "
+    },
+    {
+        "input": "ZHO ",
+        "output": " Z/HOW "
+    },
+    {
+        "input": "ZIAMET ",
+        "output": " ZIHAEMEHT "
+    },
+    {
+        "input": "ZIARA ",
+        "output": " ZIHEH4RAH "
+    },
+    {
+        "input": "ZIARAT ",
+        "output": " ZIHEH4RAET "
+    },
+    {
+        "input": "ZIBELINE ",
+        "output": " ZIHBEHLAYN "
+    },
+    {
+        "input": "ZIBELINES ",
+        "output": " ZIHBEHLAYNZ "
+    },
+    {
+        "input": "ZIBELLINE ",
+        "output": " ZIHBEHLIHN "
+    },
+    {
+        "input": "ZIBET ",
+        "output": " ZAYBEHT "
+    },
+    {
+        "input": "ZIBETH ",
+        "output": " ZAYBEHTH "
+    },
+    {
+        "input": "ZIBETHONE ",
+        "output": " ZIHBEHTHOW5N "
+    },
+    {
+        "input": "ZIBETHS ",
+        "output": " ZAYBEHTHS "
+    },
+    {
+        "input": "ZIBETONE ",
+        "output": " ZIHBEHTOW5N "
+    },
+    {
+        "input": "ZIBETS ",
+        "output": " ZAYBEHTS "
+    },
+    {
+        "input": "ZIBETUM ",
+        "output": " ZIHBEHTAHM "
+    },
+    {
+        "input": "ZICZAC ",
+        "output": " ZIHKZAEK "
+    },
+    {
+        "input": "ZIEGA ",
+        "output": " ZIY4GAH "
+    },
+    {
+        "input": "ZIEGER ",
+        "output": " ZIY4JER "
+    },
+    {
+        "input": "ZIETRISIKITE ",
+        "output": " ZAY4EHTRIHZIHKIHT "
+    },
+    {
+        "input": "ZIFF ",
+        "output": " ZIHF "
+    },
+    {
+        "input": "ZIFFS ",
+        "output": " ZIHFS "
+    },
+    {
+        "input": "ZIG ",
+        "output": " ZIHG "
+    },
+    {
+        "input": "ZIGAMORPH ",
+        "output": " ZIHGAEMAORF "
+    },
+    {
+        "input": "ZIGAN ",
+        "output": " ZIHGAEN "
+    },
+    {
+        "input": "ZIGANKA ",
+        "output": " ZIHGAENXKAH "
+    },
+    {
+        "input": "ZIGGED ",
+        "output": " ZIHGD "
+    },
+    {
+        "input": "ZIGGER ",
+        "output": " ZIHGER "
+    },
+    {
+        "input": "ZIGGING ",
+        "output": " ZIHGIHNX "
+    },
+    {
+        "input": "ZIGGURAT ",
+        "output": " ZIHGYUH4RAET "
+    },
+    {
+        "input": "ZIGGURATS ",
+        "output": " ZIHGYUH4RAETS "
+    },
+    {
+        "input": "ZIGS ",
+        "output": " ZIHGZ "
+    },
+    {
+        "input": "ZIGZAG ",
+        "output": " ZIHGZAEG "
+    },
+    {
+        "input": "ZIGZAGGED ",
+        "output": " ZIHGZAEGD "
+    },
+    {
+        "input": "ZIGZAGGEDLY ",
+        "output": " ZIHGZAEGEHDLIY "
+    },
+    {
+        "input": "ZIGZAGGEDNESS ",
+        "output": " ZIHGZAEGEHDNEHS "
+    },
+    {
+        "input": "ZIGZAGGER ",
+        "output": " ZIHGZAEGER "
+    },
+    {
+        "input": "ZIGZAGGERY ",
+        "output": " ZIHGZAEGERIY "
+    },
+    {
+        "input": "ZIGZAGGING ",
+        "output": " ZIHGZAEGIHNX "
+    },
+    {
+        "input": "ZIGZAGGY ",
+        "output": " ZIHGZAEGIY "
+    },
+    {
+        "input": "ZIGZAGS ",
+        "output": " ZIHGZAEGZ "
+    },
+    {
+        "input": "ZIGZAGWAYS ",
+        "output": " ZIHGZAEGWEY5Z "
+    },
+    {
+        "input": "ZIGZAGWISE ",
+        "output": " ZIHGZAEGWAYZ "
+    },
+    {
+        "input": "ZIHAR ",
+        "output": " ZIH/HAA5R "
+    },
+    {
+        "input": "ZIKKURAT ",
+        "output": " ZIHKKYUH4RAET "
+    },
+    {
+        "input": "ZIKKURATS ",
+        "output": " ZIHKKYUH4RAETS "
+    },
+    {
+        "input": "ZIKURAT ",
+        "output": " ZIHKYUH4RAET "
+    },
+    {
+        "input": "ZIKURATS ",
+        "output": " ZIHKYUH4RAETS "
+    },
+    {
+        "input": "ZILA ",
+        "output": " ZIHLAH "
+    },
+    {
+        "input": "ZILCH ",
+        "output": " ZIHLCH "
+    },
+    {
+        "input": "ZILCHES ",
+        "output": " ZIHLCHIHZ "
+    },
+    {
+        "input": "ZILCHVITICETUM ",
+        "output": " ZIHLCHVIHTIHSEHTAHM "
+    },
+    {
+        "input": "ZILL ",
+        "output": " ZIHL "
+    },
+    {
+        "input": "ZILLAH ",
+        "output": " ZIHLAE "
+    },
+    {
+        "input": "ZILLAHS ",
+        "output": " ZIHLAES "
+    },
+    {
+        "input": "ZILLION ",
+        "output": " ZIHLIHUN "
+    },
+    {
+        "input": "ZILLIONS ",
+        "output": " ZIHLIHUNZ "
+    },
+    {
+        "input": "ZILLIONTH ",
+        "output": " ZIHLIHUNTH "
+    },
+    {
+        "input": "ZILLIONTHS ",
+        "output": " ZIHLIHUNTHS "
+    },
+    {
+        "input": "ZILLS ",
+        "output": " ZIHLZ "
+    },
+    {
+        "input": "ZILPAH ",
+        "output": " ZIHLPAE "
+    },
+    {
+        "input": "ZIMARRA ",
+        "output": " ZIHMAE4RAH "
+    },
+    {
+        "input": "ZIMB ",
+        "output": " ZIHMB "
+    },
+    {
+        "input": "ZIMBABWE ",
+        "output": " ZIHMBAEBW "
+    },
+    {
+        "input": "ZIMBALON ",
+        "output": " ZIHMBAELUN "
+    },
+    {
+        "input": "ZIMBALOON ",
+        "output": " ZIHMBAELUW5N "
+    },
+    {
+        "input": "ZIMBI ",
+        "output": " ZIHMBAY "
+    },
+    {
+        "input": "ZIMENTWATER ",
+        "output": " ZIHMEHNTWAATER "
+    },
+    {
+        "input": "ZIMME ",
+        "output": " ZIHM "
+    },
+    {
+        "input": "ZIMMI ",
+        "output": " ZIHMAY "
+    },
+    {
+        "input": "ZIMMIS ",
+        "output": " ZIHMIHS "
+    },
+    {
+        "input": "ZIMMY ",
+        "output": " ZIHMIY "
+    },
+    {
+        "input": "ZIMOCCA ",
+        "output": " ZIHMAAKKAH "
+    },
+    {
+        "input": "ZINC ",
+        "output": " ZIHNK "
+    },
+    {
+        "input": "ZINCALO ",
+        "output": " ZIHNKAELOW "
+    },
+    {
+        "input": "ZINCATE ",
+        "output": " ZIHNKEYT "
+    },
+    {
+        "input": "ZINCATES ",
+        "output": " ZIHNKEYTS "
+    },
+    {
+        "input": "ZINCED ",
+        "output": " ZIHNST "
+    },
+    {
+        "input": "ZINCENITE ",
+        "output": " ZIHNSEHNAYT "
+    },
+    {
+        "input": "ZINCIC ",
+        "output": " ZIHNSIHK "
+    },
+    {
+        "input": "ZINCID ",
+        "output": " ZIHNSIHD "
+    },
+    {
+        "input": "ZINCIDE ",
+        "output": " ZIHNSIHD "
+    },
+    {
+        "input": "ZINCIFEROUS ",
+        "output": " ZIHNSIHFERAXS "
+    },
+    {
+        "input": "ZINCIFICATION ",
+        "output": " ZIHNSIHFIHKEY5SHUN "
+    },
+    {
+        "input": "ZINCIFIED ",
+        "output": " ZIHNSIHFAY5D "
+    },
+    {
+        "input": "ZINCIFIES ",
+        "output": " ZIHNSIHFIYZ "
+    },
+    {
+        "input": "ZINCIFY ",
+        "output": " ZIHNSIHFAY "
+    },
+    {
+        "input": "ZINCIFYING ",
+        "output": " ZIHNSIHFAYIHNX "
+    },
+    {
+        "input": "ZINCING ",
+        "output": " ZIHNSIHNX "
+    },
+    {
+        "input": "ZINCITE ",
+        "output": " ZIHNSIHT "
+    },
+    {
+        "input": "ZINCITES ",
+        "output": " ZIHNSIHTS "
+    },
+    {
+        "input": "ZINCIZE ",
+        "output": " ZIHNSAYZ "
+    },
+    {
+        "input": "ZINCKE ",
+        "output": " ZIHNK "
+    },
+    {
+        "input": "ZINCKED ",
+        "output": " ZIHNKT "
+    },
+    {
+        "input": "ZINCKENITE ",
+        "output": " ZIHNKEHNAYT "
+    },
+    {
+        "input": "ZINCKING ",
+        "output": " ZIHNKIHNX "
+    },
+    {
+        "input": "ZINCKY ",
+        "output": " ZIHNKIY "
+    },
+    {
+        "input": "ZINCO ",
+        "output": " ZIHNKOW "
+    },
+    {
+        "input": "ZINCODE ",
+        "output": " ZIHNKOW5D "
+    },
+    {
+        "input": "ZINCOGRAPH ",
+        "output": " ZIHNKAAGRAEF "
+    },
+    {
+        "input": "ZINCOGRAPHER ",
+        "output": " ZIHNKAAGRAEFER "
+    },
+    {
+        "input": "ZINCOGRAPHIC ",
+        "output": " ZIHNKAAGRAEFIHK "
+    },
+    {
+        "input": "ZINCOGRAPHICAL ",
+        "output": " ZIHNKAAGRAEFIHKUL "
+    },
+    {
+        "input": "ZINCOGRAPHY ",
+        "output": " ZIHNKAAGRAEFIY "
+    },
+    {
+        "input": "ZINCOID ",
+        "output": " ZIHNKOY5D "
+    },
+    {
+        "input": "ZINCOLYSIS ",
+        "output": " ZIHNKAALIYZIHS "
+    },
+    {
+        "input": "ZINCOTYPE ",
+        "output": " ZIHNKAATIYP "
+    },
+    {
+        "input": "ZINCOUS ",
+        "output": " ZIHNKAXS "
+    },
+    {
+        "input": "ZINCS ",
+        "output": " ZIHNKS "
+    },
+    {
+        "input": "ZINCUM ",
+        "output": " ZIHNKAHM "
+    },
+    {
+        "input": "ZINCURET ",
+        "output": " ZIHNKYUH4REHT "
+    },
+    {
+        "input": "ZINCY ",
+        "output": " ZIHNSIY "
+    },
+    {
+        "input": "ZINDABAD ",
+        "output": " ZAY5NDAEBAED "
+    },
+    {
+        "input": "ZINDIQ ",
+        "output": " ZAY5NDIHK "
+    },
+    {
+        "input": "ZINEB ",
+        "output": " ZAYNEHB "
+    },
+    {
+        "input": "ZINEBS ",
+        "output": " ZAYNEHBZ "
+    },
+    {
+        "input": "ZINFANDEL ",
+        "output": " ZIHNFAENDEHL "
+    },
+    {
+        "input": "ZING ",
+        "output": " ZIHNX "
+    },
+    {
+        "input": "ZINGANA ",
+        "output": " ZIHNXGAENAH "
+    },
+    {
+        "input": "ZINGANI ",
+        "output": " ZIHNXGAENAY "
+    },
+    {
+        "input": "ZINGANO ",
+        "output": " ZIHNXGAENOW "
+    },
+    {
+        "input": "ZINGARA ",
+        "output": " ZIHNXGEH4RAH "
+    },
+    {
+        "input": "ZINGARE ",
+        "output": " ZIHNXGEH4R "
+    },
+    {
+        "input": "ZINGARESCA ",
+        "output": " ZIHNXGEH4REHSKAH "
+    },
+    {
+        "input": "ZINGARI ",
+        "output": " ZIHNXGEH4RAY "
+    },
+    {
+        "input": "ZINGARO ",
+        "output": " ZIHNXGEH4ROW "
+    },
+    {
+        "input": "ZINGED ",
+        "output": " ZIHNXGD "
+    },
+    {
+        "input": "ZINGEL ",
+        "output": " ZIHNXGEHL "
+    },
+    {
+        "input": "ZINGER ",
+        "output": " ZIHNXGER "
+    },
+    {
+        "input": "ZINGERONE ",
+        "output": " ZIHNXGEROW5N "
+    },
+    {
+        "input": "ZINGERS ",
+        "output": " ZIHNXGERZ "
+    },
+    {
+        "input": "ZINGIBERACEOUS ",
+        "output": " ZIHNXGIHBEREY5SIYAXS "
+    },
+    {
+        "input": "ZINGIBERENE ",
+        "output": " ZIHNXGIHBERIY4N "
+    },
+    {
+        "input": "ZINGIBEROL ",
+        "output": " ZIHNXGIHBERAAL "
+    },
+    {
+        "input": "ZINGIBERONE ",
+        "output": " ZIHNXGIHBEROW5N "
+    },
+    {
+        "input": "ZINGIER ",
+        "output": " ZIHNXGIYER "
+    },
+    {
+        "input": "ZINGIEST ",
+        "output": " ZIHNXGIYEHST "
+    },
+    {
+        "input": "ZINGING ",
+        "output": " ZIHNXGIHNX "
+    },
+    {
+        "input": "ZINGS ",
+        "output": " ZIHNXZ "
+    },
+    {
+        "input": "ZINGY ",
+        "output": " ZIHNXGIY "
+    },
+    {
+        "input": "ZINJANTHROPI ",
+        "output": " ZIHNJAENTHROW5PAY "
+    },
+    {
+        "input": "ZINJANTHROPUS ",
+        "output": " ZIHNJAENTHROW5PAHS "
+    },
+    {
+        "input": "ZINK ",
+        "output": " ZIHNXK "
+    },
+    {
+        "input": "ZINKE ",
+        "output": " ZIHNXK "
+    },
+    {
+        "input": "ZINKED ",
+        "output": " ZIHNXKT "
+    },
+    {
+        "input": "ZINKENITE ",
+        "output": " ZIHNXKEHNAYT "
+    },
+    {
+        "input": "ZINKIFEROUS ",
+        "output": " ZIHNXKIHFERAXS "
+    },
+    {
+        "input": "ZINKIFIED ",
+        "output": " ZIHNXKIHFAY5D "
+    },
+    {
+        "input": "ZINKIFIES ",
+        "output": " ZIHNXKIHFIYZ "
+    },
+    {
+        "input": "ZINKIFY ",
+        "output": " ZIHNXKIHFAY "
+    },
+    {
+        "input": "ZINKIFYING ",
+        "output": " ZIHNXKIHFAYIHNX "
+    },
+    {
+        "input": "ZINKY ",
+        "output": " ZIHNXKIY "
+    },
+    {
+        "input": "ZINNIA ",
+        "output": " ZIHNIHAH "
+    },
+    {
+        "input": "ZINNIAS ",
+        "output": " ZIHNIHAEZ "
+    },
+    {
+        "input": "ZINNWALDITE ",
+        "output": " ZIHNWAOLDIHT "
+    },
+    {
+        "input": "ZINOBER ",
+        "output": " ZIHNOW5BER "
+    },
+    {
+        "input": "ZINSANG ",
+        "output": " ZIHNSAENX "
+    },
+    {
+        "input": "ZINYAMUNGA ",
+        "output": " ZIHNIYAEMAH5NXGAH "
+    },
+    {
+        "input": "ZINZIBERACEOUS ",
+        "output": " ZIHNZIHBEREY5SIYAXS "
+    },
+    {
+        "input": "ZION ",
+        "output": " ZIHUN "
+    },
+    {
+        "input": "ZIONISM ",
+        "output": " ZIHUNIHZUM "
+    },
+    {
+        "input": "ZIONIST ",
+        "output": " ZIHUNIHST "
+    },
+    {
+        "input": "ZIONISTS ",
+        "output": " ZIHUNIHSTS "
+    },
+    {
+        "input": "ZIP ",
+        "output": " ZIHP "
+    },
+    {
+        "input": "ZIPHIAN ",
+        "output": " ZIHFIHAEN "
+    },
+    {
+        "input": "ZIPHIOID ",
+        "output": " ZIHFIHOY5D "
+    },
+    {
+        "input": "ZIPLESS ",
+        "output": " ZIHPULEHS "
+    },
+    {
+        "input": "ZIPPED ",
+        "output": " ZIHPT "
+    },
+    {
+        "input": "ZIPPEITE ",
+        "output": " ZIHPIY4T "
+    },
+    {
+        "input": "ZIPPER ",
+        "output": " ZIHPER "
+    },
+    {
+        "input": "ZIPPERED ",
+        "output": " ZIHPIY4RD "
+    },
+    {
+        "input": "ZIPPERING ",
+        "output": " ZIHPIY4RIHNX "
+    },
+    {
+        "input": "ZIPPERS ",
+        "output": " ZIHPERZ "
+    },
+    {
+        "input": "ZIPPIER ",
+        "output": " ZIHPIYER "
+    },
+    {
+        "input": "ZIPPIEST ",
+        "output": " ZIHPIYEHST "
+    },
+    {
+        "input": "ZIPPING ",
+        "output": " ZIHPIHNX "
+    },
+    {
+        "input": "ZIPPINGLY ",
+        "output": " ZIHPIHNXLIY "
+    },
+    {
+        "input": "ZIPPPIER ",
+        "output": " ZIHPIYER "
+    },
+    {
+        "input": "ZIPPPIEST ",
+        "output": " ZIHPIYEHST "
+    },
+    {
+        "input": "ZIPPY ",
+        "output": " ZIHPIY "
+    },
+    {
+        "input": "ZIPS ",
+        "output": " ZIHS "
+    },
+    {
+        "input": "ZIRA ",
+        "output": " ZAYRAH "
+    },
+    {
+        "input": "ZIRAI ",
+        "output": " ZAYREY4 "
+    },
+    {
+        "input": "ZIRAM ",
+        "output": " ZAYRAEM "
+    },
+    {
+        "input": "ZIRAMS ",
+        "output": " ZAYRAEMZ "
+    },
+    {
+        "input": "ZIRCALLOY ",
+        "output": " ZERKAOLOY "
+    },
+    {
+        "input": "ZIRCALOY ",
+        "output": " ZERKAELOY "
+    },
+    {
+        "input": "ZIRCITE ",
+        "output": " ZERSIHT "
+    },
+    {
+        "input": "ZIRCOFLUORIDE ",
+        "output": " ZERKAO4FLUWAORIHD "
+    },
+    {
+        "input": "ZIRCON ",
+        "output": " ZERKAAN "
+    },
+    {
+        "input": "ZIRCONATE ",
+        "output": " ZERKAANEYT "
+    },
+    {
+        "input": "ZIRCONIA ",
+        "output": " ZERKOW5NIHAH "
+    },
+    {
+        "input": "ZIRCONIAN ",
+        "output": " ZERKOW5NIHAEN "
+    },
+    {
+        "input": "ZIRCONIAS ",
+        "output": " ZERKOW5NIHAEZ "
+    },
+    {
+        "input": "ZIRCONIC ",
+        "output": " ZERKAANIHK "
+    },
+    {
+        "input": "ZIRCONIFEROUS ",
+        "output": " ZERKAANIHFERAXS "
+    },
+    {
+        "input": "ZIRCONIFLUORIDE ",
+        "output": " ZERKAANIHFLUWAORIHD "
+    },
+    {
+        "input": "ZIRCONIUM ",
+        "output": " ZERKOW5NIHAHM "
+    },
+    {
+        "input": "ZIRCONOFLUORIDE ",
+        "output": " ZERKAANAO4FLUWAORIHD "
+    },
+    {
+        "input": "ZIRCONOID ",
+        "output": " ZERKAANOY5D "
+    },
+    {
+        "input": "ZIRCONS ",
+        "output": " ZERKAANZ "
+    },
+    {
+        "input": "ZIRCONYL ",
+        "output": " ZERKAANIYL "
+    },
+    {
+        "input": "ZIRKELITE ",
+        "output": " ZERKEHLAYT "
+    },
+    {
+        "input": "ZIRKITE ",
+        "output": " ZERKIHT "
+    },
+    {
+        "input": "ZIT ",
+        "output": " ZIHT "
+    },
+    {
+        "input": "ZITHER ",
+        "output": " ZIHDHER "
+    },
+    {
+        "input": "ZITHERIST ",
+        "output": " ZIHDHERIHST "
+    },
+    {
+        "input": "ZITHERISTS ",
+        "output": " ZIHDHERIHSTS "
+    },
+    {
+        "input": "ZITHERN ",
+        "output": " ZIHDHERN "
+    },
+    {
+        "input": "ZITHERNS ",
+        "output": " ZIHDHERNZ "
+    },
+    {
+        "input": "ZITHERS ",
+        "output": " ZIHDHERZ "
+    },
+    {
+        "input": "ZITI ",
+        "output": " ZAYTAY "
+    },
+    {
+        "input": "ZITIS ",
+        "output": " ZAYTIHS "
+    },
+    {
+        "input": "ZITS ",
+        "output": " ZIHTS "
+    },
+    {
+        "input": "ZITTER ",
+        "output": " ZIHTTER "
+    },
+    {
+        "input": "ZITTERN ",
+        "output": " ZIHTTERN "
+    },
+    {
+        "input": "ZITZIT ",
+        "output": " ZIHTZIHT "
+    },
+    {
+        "input": "ZITZITH ",
+        "output": " ZIHTZIHTH "
+    },
+    {
+        "input": "ZIZANIA ",
+        "output": " ZIHZEY5NIHAH "
+    },
+    {
+        "input": "ZIZANY ",
+        "output": " ZIHZAENIY "
+    },
+    {
+        "input": "ZIZEL ",
+        "output": " ZAYZEHL "
+    },
+    {
+        "input": "ZIZIT ",
+        "output": " ZAYZIHT "
+    },
+    {
+        "input": "ZIZITH ",
+        "output": " ZAYZIHTH "
+    },
+    {
+        "input": "ZIZYPHUS ",
+        "output": " ZIHZIYFAHS "
+    },
+    {
+        "input": "ZIZZ ",
+        "output": " ZIHZZ "
+    },
+    {
+        "input": "ZIZZLE ",
+        "output": " ZIHZZUL "
+    },
+    {
+        "input": "ZIZZLED ",
+        "output": " ZIHZZULD "
+    },
+    {
+        "input": "ZIZZLES ",
+        "output": " ZIHZZULZ "
+    },
+    {
+        "input": "ZIZZLING ",
+        "output": " ZIHZZULIHNX "
+    },
+    {
+        "input": "ZLOTE ",
+        "output": " ZLOW5T "
+    },
+    {
+        "input": "ZLOTIES ",
+        "output": " ZLOW5TIYZ "
+    },
+    {
+        "input": "ZLOTY ",
+        "output": " ZLAATIY "
+    },
+    {
+        "input": "ZLOTYCH ",
+        "output": " ZLAATIYCH "
+    },
+    {
+        "input": "ZLOTYS ",
+        "output": " ZLAATIYS "
+    },
+    {
+        "input": "ZN ",
+        "output": " ZN "
+    },
+    {
+        "input": "ZO ",
+        "output": " ZOW "
+    },
+    {
+        "input": "ZOA ",
+        "output": " ZOW4 "
+    },
+    {
+        "input": "ZOACUM ",
+        "output": " ZOW4KAHM "
+    },
+    {
+        "input": "ZOAEA ",
+        "output": " ZOW4IYAX "
+    },
+    {
+        "input": "ZOANTHACEAN ",
+        "output": " ZOW4NTHEY5SIY5N "
+    },
+    {
+        "input": "ZOANTHARIAN ",
+        "output": " ZOW4NTHEH4RIHAEN "
+    },
+    {
+        "input": "ZOANTHID ",
+        "output": " ZOW4NTHIHD "
+    },
+    {
+        "input": "ZOANTHODEME ",
+        "output": " ZOW4NTHAADIY4M "
+    },
+    {
+        "input": "ZOANTHODEMIC ",
+        "output": " ZOW4NTHAADEHMIHK "
+    },
+    {
+        "input": "ZOANTHOID ",
+        "output": " ZOW4NTHOY5D "
+    },
+    {
+        "input": "ZOANTHROPY ",
+        "output": " ZOW4NTHROW5PIY "
+    },
+    {
+        "input": "ZOARCIDAE ",
+        "output": " ZOW4RSIHDAE "
+    },
+    {
+        "input": "ZOARIA ",
+        "output": " ZOW4RIHAH "
+    },
+    {
+        "input": "ZOARIAL ",
+        "output": " ZOW4RIHUL "
+    },
+    {
+        "input": "ZOARIUM ",
+        "output": " ZOW4RIHAHM "
+    },
+    {
+        "input": "ZOBO ",
+        "output": " ZAABOW "
+    },
+    {
+        "input": "ZOBTENITE ",
+        "output": " ZAABTEHNAYT "
+    },
+    {
+        "input": "ZOCALO ",
+        "output": " ZAAKAELOW "
+    },
+    {
+        "input": "ZOCCO ",
+        "output": " ZAAKKOW "
+    },
+    {
+        "input": "ZOCCOLO ",
+        "output": " ZAAKKAALOW "
+    },
+    {
+        "input": "ZOD ",
+        "output": " ZAAD "
+    },
+    {
+        "input": "ZODIAC ",
+        "output": " ZOW5DIHAEK "
+    },
+    {
+        "input": "ZODIACAL ",
+        "output": " ZOW5DIHAEKUL "
+    },
+    {
+        "input": "ZODIACS ",
+        "output": " ZOW5DIHAEKS "
+    },
+    {
+        "input": "ZODIOPHILOUS ",
+        "output": " ZOW5DIHAAFIHLAXS "
+    },
+    {
+        "input": "ZOEA ",
+        "output": " ZOWIYAX "
+    },
+    {
+        "input": "ZOEAE ",
+        "output": " ZOWIY5 "
+    },
+    {
+        "input": "ZOEAFORM ",
+        "output": " ZOWIY5FAORM "
+    },
+    {
+        "input": "ZOEAL ",
+        "output": " ZOWIY5L "
+    },
+    {
+        "input": "ZOEAS ",
+        "output": " ZOWIY5Z "
+    },
+    {
+        "input": "ZOEFORM ",
+        "output": " ZOWEHFAORM "
+    },
+    {
+        "input": "ZOEHEMERA ",
+        "output": " ZOWEH/HIY4MERAH "
+    },
+    {
+        "input": "ZOEHEMERAE ",
+        "output": " ZOWEH/HIY4MERAE "
+    },
+    {
+        "input": "ZOETIC ",
+        "output": " ZOWEHTIHK "
+    },
+    {
+        "input": "ZOETROPE ",
+        "output": " ZOWEHTROW5P "
+    },
+    {
+        "input": "ZOETROPIC ",
+        "output": " ZOWEHTROW5PIHK "
+    },
+    {
+        "input": "ZOFTIG ",
+        "output": " ZAO4FTIHG "
+    },
+    {
+        "input": "ZOGAN ",
+        "output": " ZAAGAEN "
+    },
+    {
+        "input": "ZOGO ",
+        "output": " ZAAGOW "
+    },
+    {
+        "input": "ZOIATRIA ",
+        "output": " ZOY5AETRIHAH "
+    },
+    {
+        "input": "ZOIATRICS ",
+        "output": " ZOY5AETRIHKS "
+    },
+    {
+        "input": "ZOIC ",
+        "output": " ZOY5K "
+    },
+    {
+        "input": "ZOID ",
+        "output": " ZOY5D "
+    },
+    {
+        "input": "ZOIDIOPHILOUS ",
+        "output": " ZOY5DIHAAFIHLAXS "
+    },
+    {
+        "input": "ZOIDOGAMOUS ",
+        "output": " ZOY5DAAGAEMAXS "
+    },
+    {
+        "input": "ZOILUS ",
+        "output": " ZOY5LAHS "
+    },
+    {
+        "input": "ZOISITE ",
+        "output": " ZOY5ZIHT "
+    },
+    {
+        "input": "ZOISITES ",
+        "output": " ZOY5ZIHTS "
+    },
+    {
+        "input": "ZOISITIZATION ",
+        "output": " ZOY5ZIHTIHZEY5SHUN "
+    },
+    {
+        "input": "ZOISM ",
+        "output": " ZOY5ZUM "
+    },
+    {
+        "input": "ZOIST ",
+        "output": " ZOY5ST "
+    },
+    {
+        "input": "ZOISTIC ",
+        "output": " ZOY5STIHK "
+    },
+    {
+        "input": "ZOKOR ",
+        "output": " ZAAKER "
+    },
+    {
+        "input": "ZOLAESQUE ",
+        "output": " ZAALAEEHSKW "
+    },
+    {
+        "input": "ZOLAISM ",
+        "output": " ZAALEY4ZUM "
+    },
+    {
+        "input": "ZOLL ",
+        "output": " ZAAL "
+    },
+    {
+        "input": "ZOLLE ",
+        "output": " ZAAL "
+    },
+    {
+        "input": "ZOLLPFUND ",
+        "output": " ZAALPFAH5ND "
+    },
+    {
+        "input": "ZOLLVEREIN ",
+        "output": " ZAALVERIY4N "
+    },
+    {
+        "input": "ZOLOTINK ",
+        "output": " ZAALAATIHNXK "
+    },
+    {
+        "input": "ZOLOTNIK ",
+        "output": " ZAALAATNIHK "
+    },
+    {
+        "input": "ZOMBI ",
+        "output": " ZAAMBAY "
+    },
+    {
+        "input": "ZOMBIE ",
+        "output": " ZAAMBIY "
+    },
+    {
+        "input": "ZOMBIELIKE ",
+        "output": " ZAAMBIY4LAYK "
+    },
+    {
+        "input": "ZOMBIES ",
+        "output": " ZAAMBIYZ "
+    },
+    {
+        "input": "ZOMBIISM ",
+        "output": " ZAAMBIHIHZUM "
+    },
+    {
+        "input": "ZOMBIISMS ",
+        "output": " ZAAMBIHIHZUMZ "
+    },
+    {
+        "input": "ZOMBIS ",
+        "output": " ZAAMBIHS "
+    },
+    {
+        "input": "ZOMOTHERAPEUTIC ",
+        "output": " ZAAMAH5DHEREY5PYUW5TIHK "
+    },
+    {
+        "input": "ZOMOTHERAPY ",
+        "output": " ZAAMAH5DHERAEPIY "
+    },
+    {
+        "input": "ZONA ",
+        "output": " ZAHNAH "
+    },
+    {
+        "input": "ZONAESTHESIA ",
+        "output": " ZAHNAEEHSTHEHZIHAH "
+    },
+    {
+        "input": "ZONAL ",
+        "output": " ZAHNUL "
+    },
+    {
+        "input": "ZONALITY ",
+        "output": " ZAHNAELIHTIY "
+    },
+    {
+        "input": "ZONALLY ",
+        "output": " ZAHNULIY "
+    },
+    {
+        "input": "ZONAR ",
+        "output": " ZAHNAA5R "
+    },
+    {
+        "input": "ZONARY ",
+        "output": " ZAHNEH4RIY "
+    },
+    {
+        "input": "ZONATE ",
+        "output": " ZAHNEYT "
+    },
+    {
+        "input": "ZONATED ",
+        "output": " ZAHNEYTIXD "
+    },
+    {
+        "input": "ZONATION ",
+        "output": " ZAHNEY5SHUN "
+    },
+    {
+        "input": "ZONATIONS ",
+        "output": " ZAHNEY5SHUNZ "
+    },
+    {
+        "input": "ZONDA ",
+        "output": " ZAHNDAH "
+    },
+    {
+        "input": "ZONE ",
+        "output": " ZOW5N "
+    },
+    {
+        "input": "ZONED ",
+        "output": " ZOW5ND "
+    },
+    {
+        "input": "ZONELESS ",
+        "output": " ZAHNIY4LEHS "
+    },
+    {
+        "input": "ZONELET ",
+        "output": " ZAHNEHLEHT "
+    },
+    {
+        "input": "ZONELIKE ",
+        "output": " ZAHNEHLAYK "
+    },
+    {
+        "input": "ZONER ",
+        "output": " ZOW5NER "
+    },
+    {
+        "input": "ZONERS ",
+        "output": " ZOW5NERZ "
+    },
+    {
+        "input": "ZONES ",
+        "output": " ZOW5NZ "
+    },
+    {
+        "input": "ZONESTHESIA ",
+        "output": " ZOW5NEHSTHEHZIHAH "
+    },
+    {
+        "input": "ZONETIME ",
+        "output": " ZAHNEHTAYM "
+    },
+    {
+        "input": "ZONETIMES ",
+        "output": " ZAHNEHTAYMZ "
+    },
+    {
+        "input": "ZONIC ",
+        "output": " ZAHNIHK "
+    },
+    {
+        "input": "ZONIFEROUS ",
+        "output": " ZAHNIHFERAXS "
+    },
+    {
+        "input": "ZONING ",
+        "output": " ZOW5NIHNX "
+    },
+    {
+        "input": "ZONITE ",
+        "output": " ZAHNIHT "
+    },
+    {
+        "input": "ZONITID ",
+        "output": " ZAHNIHTIHD "
+    },
+    {
+        "input": "ZONKED ",
+        "output": " ZAHNXKT "
+    },
+    {
+        "input": "ZONNAR ",
+        "output": " ZAHNAA5R "
+    },
+    {
+        "input": "ZONOCHLORITE ",
+        "output": " ZAHNAACHLAORIHT "
+    },
+    {
+        "input": "ZONOCILIATE ",
+        "output": " ZAHNAASIHLIHEYT "
+    },
+    {
+        "input": "ZONOID ",
+        "output": " ZAHNOY5D "
+    },
+    {
+        "input": "ZONOLIMNETIC ",
+        "output": " ZAHNAALIHMNEHTIHK "
+    },
+    {
+        "input": "ZONOPLACENTAL ",
+        "output": " ZAHNAAPLAESEHNTUL "
+    },
+    {
+        "input": "ZONOSKELETON ",
+        "output": " ZAHNAASKEHLEHTUN "
+    },
+    {
+        "input": "ZONTA ",
+        "output": " ZAHNTAH "
+    },
+    {
+        "input": "ZONULA ",
+        "output": " ZAHNYUWLAH "
+    },
+    {
+        "input": "ZONULAE ",
+        "output": " ZAHNYUWLAE "
+    },
+    {
+        "input": "ZONULAR ",
+        "output": " ZAHNYUWLAA5R "
+    },
+    {
+        "input": "ZONULAS ",
+        "output": " ZAHNYUWLAES "
+    },
+    {
+        "input": "ZONULE ",
+        "output": " ZAHNYUWL "
+    },
+    {
+        "input": "ZONULES ",
+        "output": " ZAHNYUWLZ "
+    },
+    {
+        "input": "ZONULET ",
+        "output": " ZAHNYUWLEHT "
+    },
+    {
+        "input": "ZONURE ",
+        "output": " ZAHNUH4R "
+    },
+    {
+        "input": "ZONURID ",
+        "output": " ZAHNUH4RIHD "
+    },
+    {
+        "input": "ZONUROID ",
+        "output": " ZAHNUH4ROY5D "
+    },
+    {
+        "input": "ZOO ",
+        "output": " ZUW5 "
+    },
+    {
+        "input": "ZOO'S ",
+        "output": " ZUW5S "
+    },
+    {
+        "input": "ZOOBENTHOIC ",
+        "output": " ZUW5BEHNTHOY5K "
+    },
+    {
+        "input": "ZOOBENTHOS ",
+        "output": " ZUW5BEHNTHAAS "
+    },
+    {
+        "input": "ZOOBLAST ",
+        "output": " ZUW5BLAEST "
+    },
+    {
+        "input": "ZOOCARP ",
+        "output": " ZUW5KAA5RP "
+    },
+    {
+        "input": "ZOOCECIDIUM ",
+        "output": " ZUW5SEHSIHDIHAHM "
+    },
+    {
+        "input": "ZOOCHEM ",
+        "output": " ZUW5CHEHM "
+    },
+    {
+        "input": "ZOOCHEMICAL ",
+        "output": " ZUW5CHEHMIHKUL "
+    },
+    {
+        "input": "ZOOCHEMISTRY ",
+        "output": " ZUW5CHEHMIHSTRIY "
+    },
+    {
+        "input": "ZOOCHEMY ",
+        "output": " ZUW5CHEHMIY "
+    },
+    {
+        "input": "ZOOCHORE ",
+        "output": " ZUW5CHAOR "
+    },
+    {
+        "input": "ZOOCHORES ",
+        "output": " ZUW5CHAORZ "
+    },
+    {
+        "input": "ZOOCOENOCYTE ",
+        "output": " ZUW5KOWEHNAASIYT "
+    },
+    {
+        "input": "ZOOCULTURAL ",
+        "output": " ZUW5KAH5LCHERUL "
+    },
+    {
+        "input": "ZOOCULTURE ",
+        "output": " ZUW5KAH5LCHER "
+    },
+    {
+        "input": "ZOOCURRENT ",
+        "output": " ZUW5KERREHNT "
+    },
+    {
+        "input": "ZOOCYST ",
+        "output": " ZUW5SIYST "
+    },
+    {
+        "input": "ZOOCYSTIC ",
+        "output": " ZUW5SIYSTIHK "
+    },
+    {
+        "input": "ZOOCYTIAL ",
+        "output": " ZUW5SIYSHUL "
+    },
+    {
+        "input": "ZOOCYTIUM ",
+        "output": " ZUW5SIYTIHAHM "
+    },
+    {
+        "input": "ZOODENDRIA ",
+        "output": " ZUH5DEHNDRIHAH "
+    },
+    {
+        "input": "ZOODENDRIUM ",
+        "output": " ZUH5DEHNDRIHAHM "
+    },
+    {
+        "input": "ZOODYNAMIC ",
+        "output": " ZUH5DIYNAEMIHK "
+    },
+    {
+        "input": "ZOODYNAMICS ",
+        "output": " ZUH5DIYNAEMIHKS "
+    },
+    {
+        "input": "ZOOECIA ",
+        "output": " ZUW5EHSHAH "
+    },
+    {
+        "input": "ZOOECIAL ",
+        "output": " ZUW5EHSHUL "
+    },
+    {
+        "input": "ZOOECIUM ",
+        "output": " ZUW5EHSIHAHM "
+    },
+    {
+        "input": "ZOOERASTIA ",
+        "output": " ZUW5ERAESSHAH "
+    },
+    {
+        "input": "ZOOERYTHRIN ",
+        "output": " ZUW5ERIYTHRIHN "
+    },
+    {
+        "input": "ZOOFLAGELLATE ",
+        "output": " ZUW5FLIHJEHLEYT "
+    },
+    {
+        "input": "ZOOFULVIN ",
+        "output": " ZUW5FUHLVIHN "
+    },
+    {
+        "input": "ZOOGAMETE ",
+        "output": " ZUW5GAEMIY4T "
+    },
+    {
+        "input": "ZOOGAMOUS ",
+        "output": " ZUW5GAEMAXS "
+    },
+    {
+        "input": "ZOOGAMY ",
+        "output": " ZUW5GAEMIY "
+    },
+    {
+        "input": "ZOOGENE ",
+        "output": " ZUW5JIY4N "
+    },
+    {
+        "input": "ZOOGENESIS ",
+        "output": " ZUW5JIY4NEHZIHS "
+    },
+    {
+        "input": "ZOOGENIC ",
+        "output": " ZUW5JEHNIHK "
+    },
+    {
+        "input": "ZOOGENOUS ",
+        "output": " ZUW5JEHNAXS "
+    },
+    {
+        "input": "ZOOGENY ",
+        "output": " ZUW5JEHNIY "
+    },
+    {
+        "input": "ZOOGEOG ",
+        "output": " ZUW5JIYAAG "
+    },
+    {
+        "input": "ZOOGEOGRAPHER ",
+        "output": " ZUW5JIYAAGRAEFER "
+    },
+    {
+        "input": "ZOOGEOGRAPHIC ",
+        "output": " ZUW5JIYAAGRAEFIHK "
+    },
+    {
+        "input": "ZOOGEOGRAPHICAL ",
+        "output": " ZUW5JIYAAGRAEFIHKUL "
+    },
+    {
+        "input": "ZOOGEOGRAPHICALLY ",
+        "output": " ZUW5JIYAAGRAEFIHKULIY "
+    },
+    {
+        "input": "ZOOGEOGRAPHIES ",
+        "output": " ZUW5JIYAAGRAEFIYZ "
+    },
+    {
+        "input": "ZOOGEOGRAPHY ",
+        "output": " ZUW5JIYAAGRAEFIY "
+    },
+    {
+        "input": "ZOOGEOLOGICAL ",
+        "output": " ZUW5JIYAALAAJIHKUL "
+    },
+    {
+        "input": "ZOOGEOLOGIST ",
+        "output": " ZUW5JIYAALAAJIHST "
+    },
+    {
+        "input": "ZOOGEOLOGY ",
+        "output": " ZUW5JIYAALAAJIY "
+    },
+    {
+        "input": "ZOOGLEA ",
+        "output": " ZUW5GLIYAX "
+    },
+    {
+        "input": "ZOOGLEAE ",
+        "output": " ZUW5GLIY5 "
+    },
+    {
+        "input": "ZOOGLEAL ",
+        "output": " ZUW5GLIY5L "
+    },
+    {
+        "input": "ZOOGLEAS ",
+        "output": " ZUW5GLIY5Z "
+    },
+    {
+        "input": "ZOOGLER ",
+        "output": " ZUW5GULER "
+    },
+    {
+        "input": "ZOOGLOEA ",
+        "output": " ZUW5GLOWIYAX "
+    },
+    {
+        "input": "ZOOGLOEAE ",
+        "output": " ZUW5GLOWIY5 "
+    },
+    {
+        "input": "ZOOGLOEAL ",
+        "output": " ZUW5GLOWIY5L "
+    },
+    {
+        "input": "ZOOGLOEAS ",
+        "output": " ZUW5GLOWIY5Z "
+    },
+    {
+        "input": "ZOOGLOEIC ",
+        "output": " ZUW5GLOWIY4K "
+    },
+    {
+        "input": "ZOOGONIC ",
+        "output": " ZUW5GUNIHK "
+    },
+    {
+        "input": "ZOOGONIDIUM ",
+        "output": " ZUW5GUNIHDIHAHM "
+    },
+    {
+        "input": "ZOOGONOUS ",
+        "output": " ZUW5GUNAXS "
+    },
+    {
+        "input": "ZOOGONY ",
+        "output": " ZUW5GUNIY "
+    },
+    {
+        "input": "ZOOGRAFT ",
+        "output": " ZUW5GRAEFT "
+    },
+    {
+        "input": "ZOOGRAFTING ",
+        "output": " ZUW5GRAEFTIHNX "
+    },
+    {
+        "input": "ZOOGRAPHER ",
+        "output": " ZUW5GRAEFER "
+    },
+    {
+        "input": "ZOOGRAPHIC ",
+        "output": " ZUW5GRAEFIHK "
+    },
+    {
+        "input": "ZOOGRAPHICAL ",
+        "output": " ZUW5GRAEFIHKUL "
+    },
+    {
+        "input": "ZOOGRAPHICALLY ",
+        "output": " ZUW5GRAEFIHKULIY "
+    },
+    {
+        "input": "ZOOGRAPHIST ",
+        "output": " ZUW5GRAEFIHST "
+    },
+    {
+        "input": "ZOOGRAPHY ",
+        "output": " ZUW5GRAEFIY "
+    },
+    {
+        "input": "ZOOGRPAHY ",
+        "output": " ZUW5GRPAE/HIY "
+    },
+    {
+        "input": "ZOOID ",
+        "output": " ZUW5IHD "
+    },
+    {
+        "input": "ZOOIDAL ",
+        "output": " ZUW5IHDUL "
+    },
+    {
+        "input": "ZOOIDIOPHILOUS ",
+        "output": " ZUW5IHDIHAAFIHLAXS "
+    },
+    {
+        "input": "ZOOIDS ",
+        "output": " ZUW5IHDZ "
+    },
+    {
+        "input": "ZOOKERS ",
+        "output": " ZUH5KERZ "
+    },
+    {
+        "input": "ZOOKS ",
+        "output": " ZUH5KS "
+    },
+    {
+        "input": "ZOOL ",
+        "output": " ZUW5L "
+    },
+    {
+        "input": "ZOOLATER ",
+        "output": " ZUW5LEYTER "
+    },
+    {
+        "input": "ZOOLATERS ",
+        "output": " ZUW5LEYTERZ "
+    },
+    {
+        "input": "ZOOLATRIA ",
+        "output": " ZUW5LAETRIHAH "
+    },
+    {
+        "input": "ZOOLATRIES ",
+        "output": " ZUW5LAETRIYZ "
+    },
+    {
+        "input": "ZOOLATROUS ",
+        "output": " ZUW5LAETRAXS "
+    },
+    {
+        "input": "ZOOLATRY ",
+        "output": " ZUW5LAETRIY "
+    },
+    {
+        "input": "ZOOLITE ",
+        "output": " ZUW5LIHT "
+    },
+    {
+        "input": "ZOOLITH ",
+        "output": " ZUW5LIHTH "
+    },
+    {
+        "input": "ZOOLITHIC ",
+        "output": " ZUW5LIHTHIHK "
+    },
+    {
+        "input": "ZOOLITIC ",
+        "output": " ZUW5LIHTIHK "
+    },
+    {
+        "input": "ZOOLOGER ",
+        "output": " ZUW5LOW5JER "
+    },
+    {
+        "input": "ZOOLOGIC ",
+        "output": " ZUW5LAAJIHK "
+    },
+    {
+        "input": "ZOOLOGICAL ",
+        "output": " ZUW5LAAJIHKUL "
+    },
+    {
+        "input": "ZOOLOGICALLY ",
+        "output": " ZUW5LAAJIHKULIY "
+    },
+    {
+        "input": "ZOOLOGICOARCHAEOLOGIST ",
+        "output": " ZUW5LAAJIHKOW4RCHAEIYAALAAJIHST "
+    },
+    {
+        "input": "ZOOLOGICOBOTANICAL ",
+        "output": " ZUW5LAAJIHKAABAATAENIHKUL "
+    },
+    {
+        "input": "ZOOLOGIES ",
+        "output": " ZUW5LOW5JIYZ "
+    },
+    {
+        "input": "ZOOLOGIST ",
+        "output": " ZUW5LAAJIHST "
+    },
+    {
+        "input": "ZOOLOGISTS ",
+        "output": " ZUW5LAAJIHSTS "
+    },
+    {
+        "input": "ZOOLOGIZE ",
+        "output": " ZUW5LAAJAYZ "
+    },
+    {
+        "input": "ZOOLOGIZED ",
+        "output": " ZUW5LAAJAYZD "
+    },
+    {
+        "input": "ZOOLOGIZING ",
+        "output": " ZUW5LAAJAYZIHNX "
+    },
+    {
+        "input": "ZOOLOGY ",
+        "output": " ZUW5LAAJIY "
+    },
+    {
+        "input": "ZOOM ",
+        "output": " ZUW5M "
+    },
+    {
+        "input": "ZOOMAGNETIC ",
+        "output": " ZUW5MAEGNEHTIHK "
+    },
+    {
+        "input": "ZOOMAGNETISM ",
+        "output": " ZUW5MAEGNEHTIHZUM "
+    },
+    {
+        "input": "ZOOMANCY ",
+        "output": " ZUW5MAENSIY "
+    },
+    {
+        "input": "ZOOMANIA ",
+        "output": " ZUW5MEY5NIHAH "
+    },
+    {
+        "input": "ZOOMANIAS ",
+        "output": " ZUW5MEY5NIHAEZ "
+    },
+    {
+        "input": "ZOOMANTIC ",
+        "output": " ZUW5MAENTIHK "
+    },
+    {
+        "input": "ZOOMANTIST ",
+        "output": " ZUW5MAENTIHST "
+    },
+    {
+        "input": "ZOOMECHANICAL ",
+        "output": " ZUW5MEHKAENIHKUL "
+    },
+    {
+        "input": "ZOOMECHANICS ",
+        "output": " ZUW5MEHKAENIHKS "
+    },
+    {
+        "input": "ZOOMED ",
+        "output": " ZUW5MD "
+    },
+    {
+        "input": "ZOOMELANIN ",
+        "output": " ZUW5MEHLAENIHN "
+    },
+    {
+        "input": "ZOOMETRIC ",
+        "output": " ZUW5MEHTRIHK "
+    },
+    {
+        "input": "ZOOMETRICAL ",
+        "output": " ZUW5MEHTRIHKUL "
+    },
+    {
+        "input": "ZOOMETRIES ",
+        "output": " ZUW5MEHTRIYZ "
+    },
+    {
+        "input": "ZOOMETRY ",
+        "output": " ZUW5MEHTRIY "
+    },
+    {
+        "input": "ZOOMIMETIC ",
+        "output": " ZUW5MIHMEHTIHK "
+    },
+    {
+        "input": "ZOOMIMIC ",
+        "output": " ZUW5MIHMIHK "
+    },
+    {
+        "input": "ZOOMING ",
+        "output": " ZUW5MIHNX "
+    },
+    {
+        "input": "ZOOMORPH ",
+        "output": " ZUW5MAORF "
+    },
+    {
+        "input": "ZOOMORPHIC ",
+        "output": " ZUW5MAORFIHK "
+    },
+    {
+        "input": "ZOOMORPHISM ",
+        "output": " ZUW5MAORFIHZUM "
+    },
+    {
+        "input": "ZOOMORPHIZE ",
+        "output": " ZUW5MAORFAYZ "
+    },
+    {
+        "input": "ZOOMORPHS ",
+        "output": " ZUW5MAORFS "
+    },
+    {
+        "input": "ZOOMORPHY ",
+        "output": " ZUW5MAORFIY "
+    },
+    {
+        "input": "ZOOMS ",
+        "output": " ZUW5MZ "
+    },
+    {
+        "input": "ZOON ",
+        "output": " ZUW5N "
+    },
+    {
+        "input": "ZOONA ",
+        "output": " ZUW5NAH "
+    },
+    {
+        "input": "ZOONAL ",
+        "output": " ZUW5NUL "
+    },
+    {
+        "input": "ZOONERYTHRIN ",
+        "output": " ZUW5NERIYTHRIHN "
+    },
+    {
+        "input": "ZOONIC ",
+        "output": " ZUW5NIHK "
+    },
+    {
+        "input": "ZOONIST ",
+        "output": " ZUW5NIHST "
+    },
+    {
+        "input": "ZOONITE ",
+        "output": " ZUW5NIHT "
+    },
+    {
+        "input": "ZOONITIC ",
+        "output": " ZUW5NIHTIHK "
+    },
+    {
+        "input": "ZOONOMIA ",
+        "output": " ZUW5NOW5MIHAH "
+    },
+    {
+        "input": "ZOONOMIC ",
+        "output": " ZUW5NAHMIHK "
+    },
+    {
+        "input": "ZOONOMICAL ",
+        "output": " ZUW5NAHMIHKUL "
+    },
+    {
+        "input": "ZOONOMIST ",
+        "output": " ZUW5NAHMIHST "
+    },
+    {
+        "input": "ZOONOMY ",
+        "output": " ZUW5NAHMIY "
+    },
+    {
+        "input": "ZOONOSES ",
+        "output": " ZUW5NOW5ZIHZ "
+    },
+    {
+        "input": "ZOONOSIS ",
+        "output": " ZUW5NAAZIHS "
+    },
+    {
+        "input": "ZOONOSOLOGIST ",
+        "output": " ZUW5NAAZAALAAJIHST "
+    },
+    {
+        "input": "ZOONOSOLOGY ",
+        "output": " ZUW5NAAZAALAAJIY "
+    },
+    {
+        "input": "ZOONOTIC ",
+        "output": " ZUW5NAATIHK "
+    },
+    {
+        "input": "ZOONS ",
+        "output": " ZUW5NZ "
+    },
+    {
+        "input": "ZOONULE ",
+        "output": " ZUW5NYUWL "
+    },
+    {
+        "input": "ZOOPALEONTOLOGY ",
+        "output": " ZUW5PEY5LIYUNTAALAAJIY "
+    },
+    {
+        "input": "ZOOPANTHEON ",
+        "output": " ZUW5PAENTHIYUN "
+    },
+    {
+        "input": "ZOOPARASITE ",
+        "output": " ZUW5PEH4RAEZIHT "
+    },
+    {
+        "input": "ZOOPARASITIC ",
+        "output": " ZUW5PEH4RAEZIHTIHK "
+    },
+    {
+        "input": "ZOOPATHOLOGICAL ",
+        "output": " ZUW5PAETHAALAAJIHKUL "
+    },
+    {
+        "input": "ZOOPATHOLOGIES ",
+        "output": " ZUW5PAETHAALOW5JIYZ "
+    },
+    {
+        "input": "ZOOPATHOLOGIST ",
+        "output": " ZUW5PAETHAALAAJIHST "
+    },
+    {
+        "input": "ZOOPATHOLOGY ",
+        "output": " ZUW5PAETHAALAAJIY "
+    },
+    {
+        "input": "ZOOPATHY ",
+        "output": " ZUW5PAETHIY "
+    },
+    {
+        "input": "ZOOPERAL ",
+        "output": " ZUW5PERUL "
+    },
+    {
+        "input": "ZOOPERIST ",
+        "output": " ZUW5PEH4RIHST "
+    },
+    {
+        "input": "ZOOPERY ",
+        "output": " ZUW5PERIY "
+    },
+    {
+        "input": "ZOOPHAGAN ",
+        "output": " ZUW5FAEGAEN "
+    },
+    {
+        "input": "ZOOPHAGOUS ",
+        "output": " ZUW5FAEGAXS "
+    },
+    {
+        "input": "ZOOPHAGUS ",
+        "output": " ZUW5FAEGAHS "
+    },
+    {
+        "input": "ZOOPHARMACOLOGICAL ",
+        "output": " ZUW5FAA5RMAEKAALAAJIHKUL "
+    },
+    {
+        "input": "ZOOPHARMACY ",
+        "output": " ZUW5FAA5RMAESIY "
+    },
+    {
+        "input": "ZOOPHILE ",
+        "output": " ZUW5FIHL "
+    },
+    {
+        "input": "ZOOPHILES ",
+        "output": " ZUW5FIHLZ "
+    },
+    {
+        "input": "ZOOPHILIA ",
+        "output": " ZUW5FIHLIHAH "
+    },
+    {
+        "input": "ZOOPHILIAC ",
+        "output": " ZUW5FIHLIHAEK "
+    },
+    {
+        "input": "ZOOPHILIC ",
+        "output": " ZUW5FIHLIHK "
+    },
+    {
+        "input": "ZOOPHILIES ",
+        "output": " ZUW5FIHLIYZ "
+    },
+    {
+        "input": "ZOOPHILISM ",
+        "output": " ZUW5FIHLIHZUM "
+    },
+    {
+        "input": "ZOOPHILIST ",
+        "output": " ZUW5FIHLIHST "
+    },
+    {
+        "input": "ZOOPHILITE ",
+        "output": " ZUW5FIHLIHT "
+    },
+    {
+        "input": "ZOOPHILITIC ",
+        "output": " ZUW5FIHLIHTIHK "
+    },
+    {
+        "input": "ZOOPHILOUS ",
+        "output": " ZUW5FIHLAXS "
+    },
+    {
+        "input": "ZOOPHILY ",
+        "output": " ZUW5FIHLIY "
+    },
+    {
+        "input": "ZOOPHISM ",
+        "output": " ZUW5FIHZUM "
+    },
+    {
+        "input": "ZOOPHOBE ",
+        "output": " ZUW5FOW5B "
+    },
+    {
+        "input": "ZOOPHOBES ",
+        "output": " ZUW5FOW5BZ "
+    },
+    {
+        "input": "ZOOPHOBIA ",
+        "output": " ZUW5FOW5BIHAH "
+    },
+    {
+        "input": "ZOOPHOBOUS ",
+        "output": " ZUW5FAABAXS "
+    },
+    {
+        "input": "ZOOPHORI ",
+        "output": " ZUW5FAORAY "
+    },
+    {
+        "input": "ZOOPHORIC ",
+        "output": " ZUW5FAORIHK "
+    },
+    {
+        "input": "ZOOPHOROUS ",
+        "output": " ZUW5FAORAXS "
+    },
+    {
+        "input": "ZOOPHORUS ",
+        "output": " ZUW5FAORAHS "
+    },
+    {
+        "input": "ZOOPHYSICAL ",
+        "output": " ZUW5FIYZIHKUL "
+    },
+    {
+        "input": "ZOOPHYSICIST ",
+        "output": " ZUW5FIYZAYSIHST "
+    },
+    {
+        "input": "ZOOPHYSICS ",
+        "output": " ZUW5FIYZIHKS "
+    },
+    {
+        "input": "ZOOPHYSIOLOGY ",
+        "output": " ZUW5FIYZIHAALAAJIY "
+    },
+    {
+        "input": "ZOOPHYTAL ",
+        "output": " ZUW5FIYTUL "
+    },
+    {
+        "input": "ZOOPHYTE ",
+        "output": " ZUW5FIYT "
+    },
+    {
+        "input": "ZOOPHYTES ",
+        "output": " ZUW5FIYTS "
+    },
+    {
+        "input": "ZOOPHYTIC ",
+        "output": " ZUW5FIYTIHK "
+    },
+    {
+        "input": "ZOOPHYTICAL ",
+        "output": " ZUW5FIYTIHKUL "
+    },
+    {
+        "input": "ZOOPHYTISH ",
+        "output": " ZUW5FIYTIHSH "
+    },
+    {
+        "input": "ZOOPHYTOGRAPHY ",
+        "output": " ZUW5FIYTAAGRAEFIY "
+    },
+    {
+        "input": "ZOOPHYTOID ",
+        "output": " ZUW5FIYTOY5D "
+    },
+    {
+        "input": "ZOOPHYTOLOGICAL ",
+        "output": " ZUW5FIYTAALAAJIHKUL "
+    },
+    {
+        "input": "ZOOPHYTOLOGIST ",
+        "output": " ZUW5FIYTAALAAJIHST "
+    },
+    {
+        "input": "ZOOPHYTOLOGY ",
+        "output": " ZUW5FIYTAALAAJIY "
+    },
+    {
+        "input": "ZOOPLANKTON ",
+        "output": " ZUW5PLAENXKTUN "
+    },
+    {
+        "input": "ZOOPLANKTONIC ",
+        "output": " ZUW5PLAENXKTUNIHK "
+    },
+    {
+        "input": "ZOOPLASTIC ",
+        "output": " ZUW5PLAESTIHK "
+    },
+    {
+        "input": "ZOOPLASTY ",
+        "output": " ZUW5PLAESTIY "
+    },
+    {
+        "input": "ZOOPRAXISCOPE ",
+        "output": " ZUW5PRAEKSIHSKOW5P "
+    },
+    {
+        "input": "ZOOPSIA ",
+        "output": " ZUW5SIHAH "
+    },
+    {
+        "input": "ZOOPSYCHOLOGICAL ",
+        "output": " ZUW5SAYKAALAAJIHKUL "
+    },
+    {
+        "input": "ZOOPSYCHOLOGIST ",
+        "output": " ZUW5SAYKAALAAJIHST "
+    },
+    {
+        "input": "ZOOPSYCHOLOGY ",
+        "output": " ZUW5SAYKAALAAJIY "
+    },
+    {
+        "input": "ZOOS ",
+        "output": " ZUW5Z "
+    },
+    {
+        "input": "ZOOSCOPIC ",
+        "output": " ZUW5SKAAPIHK "
+    },
+    {
+        "input": "ZOOSCOPY ",
+        "output": " ZUW5SKAAPIY "
+    },
+    {
+        "input": "ZOOSIS ",
+        "output": " ZUW5ZIHS "
+    },
+    {
+        "input": "ZOOSMOSIS ",
+        "output": " ZUW5ZUMAAZIHS "
+    },
+    {
+        "input": "ZOOSPERM ",
+        "output": " ZUW5SPERM "
+    },
+    {
+        "input": "ZOOSPERMATIC ",
+        "output": " ZUW5SPERMAETIHK "
+    },
+    {
+        "input": "ZOOSPERMIA ",
+        "output": " ZUW5SPERMIHAH "
+    },
+    {
+        "input": "ZOOSPERMIUM ",
+        "output": " ZUW5SPERMIHAHM "
+    },
+    {
+        "input": "ZOOSPERMS ",
+        "output": " ZUW5SPERMZ "
+    },
+    {
+        "input": "ZOOSPGIA ",
+        "output": " ZUW5SPJIHAH "
+    },
+    {
+        "input": "ZOOSPHERE ",
+        "output": " ZUW5SFIY4R "
+    },
+    {
+        "input": "ZOOSPORANGE ",
+        "output": " ZUW5SPAOREY4NJ "
+    },
+    {
+        "input": "ZOOSPORANGIA ",
+        "output": " ZUW5SPAOREY4NJIHAH "
+    },
+    {
+        "input": "ZOOSPORANGIAL ",
+        "output": " ZUW5SPAOREY4NJIHUL "
+    },
+    {
+        "input": "ZOOSPORANGIOPHORE ",
+        "output": " ZUW5SPAOREY4NJIHAAFAOR "
+    },
+    {
+        "input": "ZOOSPORANGIUM ",
+        "output": " ZUW5SPAOREY4NJIHAHM "
+    },
+    {
+        "input": "ZOOSPORE ",
+        "output": " ZUW5SPAOR "
+    },
+    {
+        "input": "ZOOSPORES ",
+        "output": " ZUW5SPAORZ "
+    },
+    {
+        "input": "ZOOSPORIC ",
+        "output": " ZUW5SPAORIHK "
+    },
+    {
+        "input": "ZOOSPORIFEROUS ",
+        "output": " ZUW5SPAORIHFERAXS "
+    },
+    {
+        "input": "ZOOSPOROCYST ",
+        "output": " ZUW5SPAORAASIYST "
+    },
+    {
+        "input": "ZOOSPOROUS ",
+        "output": " ZUW5SPAORAXS "
+    },
+    {
+        "input": "ZOOSTEROL ",
+        "output": " ZUW5STERAAL "
+    },
+    {
+        "input": "ZOOTAXONOMIST ",
+        "output": " ZUW5TAEKSUNAHMIHST "
+    },
+    {
+        "input": "ZOOTAXY ",
+        "output": " ZUW5TAEKSIY "
+    },
+    {
+        "input": "ZOOTECHNIC ",
+        "output": " ZUW5TEHKNIHK "
+    },
+    {
+        "input": "ZOOTECHNICAL ",
+        "output": " ZUW5TEHKNIHKUL "
+    },
+    {
+        "input": "ZOOTECHNICIAN ",
+        "output": " ZUW5TEHKNIHSHAEN "
+    },
+    {
+        "input": "ZOOTECHNICS ",
+        "output": " ZUW5TEHKNIHKS "
+    },
+    {
+        "input": "ZOOTECHNY ",
+        "output": " ZUW5TEHKNIY "
+    },
+    {
+        "input": "ZOOTER ",
+        "output": " ZUW5TER "
+    },
+    {
+        "input": "ZOOTHECIA ",
+        "output": " ZUW5THEHSHAH "
+    },
+    {
+        "input": "ZOOTHECIAL ",
+        "output": " ZUW5THEHSHUL "
+    },
+    {
+        "input": "ZOOTHECIUM ",
+        "output": " ZUW5THEHSIHAHM "
+    },
+    {
+        "input": "ZOOTHEISM ",
+        "output": " ZUW5THIY4ZUM "
+    },
+    {
+        "input": "ZOOTHEIST ",
+        "output": " ZUW5THIY4ST "
+    },
+    {
+        "input": "ZOOTHEISTIC ",
+        "output": " ZUW5THIY4STIHK "
+    },
+    {
+        "input": "ZOOTHERAPY ",
+        "output": " ZUW5DHERAEPIY "
+    },
+    {
+        "input": "ZOOTHOME ",
+        "output": " ZUW5THOW5M "
+    },
+    {
+        "input": "ZOOTIC ",
+        "output": " ZUW5TIHK "
+    },
+    {
+        "input": "ZOOTOMIC ",
+        "output": " ZUW5TAHMIHK "
+    },
+    {
+        "input": "ZOOTOMICAL ",
+        "output": " ZUW5TAHMIHKUL "
+    },
+    {
+        "input": "ZOOTOMICALLY ",
+        "output": " ZUW5TAHMIHKULIY "
+    },
+    {
+        "input": "ZOOTOMIES ",
+        "output": " ZUW5TOW5MIYZ "
+    },
+    {
+        "input": "ZOOTOMIST ",
+        "output": " ZUW5TAHMIHST "
+    },
+    {
+        "input": "ZOOTOMY ",
+        "output": " ZUW5TAHMIY "
+    },
+    {
+        "input": "ZOOTOTEMISM ",
+        "output": " ZUW5TAATEHMIHZUM "
+    },
+    {
+        "input": "ZOOTOXIN ",
+        "output": " ZUW5TAAKSIHN "
+    },
+    {
+        "input": "ZOOTROPHIC ",
+        "output": " ZUW5TROW5FIHK "
+    },
+    {
+        "input": "ZOOTROPHY ",
+        "output": " ZUW5TROW5FIY "
+    },
+    {
+        "input": "ZOOTY ",
+        "output": " ZUW5TIY "
+    },
+    {
+        "input": "ZOOTYPE ",
+        "output": " ZUW5TIYP "
+    },
+    {
+        "input": "ZOOTYPIC ",
+        "output": " ZUW5TIYPIHK "
+    },
+    {
+        "input": "ZOOXANTHELLA ",
+        "output": " ZUW5KSAENTHEHLAH "
+    },
+    {
+        "input": "ZOOXANTHELLAE ",
+        "output": " ZUW5KSAENTHEHLAE "
+    },
+    {
+        "input": "ZOOXANTHIN ",
+        "output": " ZUW5KSAENTHIHN "
+    },
+    {
+        "input": "ZOOZOO ",
+        "output": " ZUW5ZUW5 "
+    },
+    {
+        "input": "ZOPHOPHORI ",
+        "output": " ZAAFAAFAORAY "
+    },
+    {
+        "input": "ZOPHORI ",
+        "output": " ZAAFAORAY "
+    },
+    {
+        "input": "ZOPHORUS ",
+        "output": " ZAAFAORAHS "
+    },
+    {
+        "input": "ZOPILOTE ",
+        "output": " ZAAPIHLOW5T "
+    },
+    {
+        "input": "ZORGITE ",
+        "output": " ZAORJIHT "
+    },
+    {
+        "input": "ZORI ",
+        "output": " ZAORAY "
+    },
+    {
+        "input": "ZORIL ",
+        "output": " ZAORIHL "
+    },
+    {
+        "input": "ZORILLA ",
+        "output": " ZAORIHLAH "
+    },
+    {
+        "input": "ZORILLAS ",
+        "output": " ZAORIHLAES "
+    },
+    {
+        "input": "ZORILLE ",
+        "output": " ZAORIHL "
+    },
+    {
+        "input": "ZORILLES ",
+        "output": " ZAORIHLZ "
+    },
+    {
+        "input": "ZORILLO ",
+        "output": " ZAORIHLOW "
+    },
+    {
+        "input": "ZORILLOS ",
+        "output": " ZAORIHLAAS "
+    },
+    {
+        "input": "ZORILS ",
+        "output": " ZAORIHLZ "
+    },
+    {
+        "input": "ZORIS ",
+        "output": " ZAORIHS "
+    },
+    {
+        "input": "ZOROASTER ",
+        "output": " ZAOROW4STER "
+    },
+    {
+        "input": "ZOROASTRA ",
+        "output": " ZAOROW4STRAH "
+    },
+    {
+        "input": "ZOROASTRIAN ",
+        "output": " ZAOROW4STRIHAEN "
+    },
+    {
+        "input": "ZOROASTRIANISM ",
+        "output": " ZAOROW4STRIHAENIHZUM "
+    },
+    {
+        "input": "ZOROASTRIANS ",
+        "output": " ZAOROW4STRIHAENZ "
+    },
+    {
+        "input": "ZORRILLO ",
+        "output": " ZAORRIHLOW "
+    },
+    {
+        "input": "ZORRO ",
+        "output": " ZAORROW "
+    },
+    {
+        "input": "ZORTZICO ",
+        "output": " ZAORTZIHKOW "
+    },
+    {
+        "input": "ZOSTER ",
+        "output": " ZOWSTER "
+    },
+    {
+        "input": "ZOSTERA ",
+        "output": " ZOWSTERAH "
+    },
+    {
+        "input": "ZOSTERIFORM ",
+        "output": " ZOWSTEH4RIHFAORM "
+    },
+    {
+        "input": "ZOSTEROPS ",
+        "output": " ZOWSTERAAS "
+    },
+    {
+        "input": "ZOSTERS ",
+        "output": " ZOWSTERZ "
+    },
+    {
+        "input": "ZOUAVE ",
+        "output": " ZAWEYV "
+    },
+    {
+        "input": "ZOUAVES ",
+        "output": " ZAWEYVZ "
+    },
+    {
+        "input": "ZOUNDS ",
+        "output": " ZAWNDZ "
+    },
+    {
+        "input": "ZOWIE ",
+        "output": " ZOWIY "
+    },
+    {
+        "input": "ZOYSIA ",
+        "output": " ZOYZIHAH "
+    },
+    {
+        "input": "ZOYSIAS ",
+        "output": " ZOYZIHAEZ "
+    },
+    {
+        "input": "ZS ",
+        "output": " ZZ "
+    },
+    {
+        "input": "ZUBR ",
+        "output": " ZAH5BR "
+    },
+    {
+        "input": "ZUCCARINO ",
+        "output": " ZAH5KKEH4RIHNOW "
+    },
+    {
+        "input": "ZUCCHETTI ",
+        "output": " ZAH5KCHEHTTAY "
+    },
+    {
+        "input": "ZUCCHETTO ",
+        "output": " ZAH5KCHEHTTUX "
+    },
+    {
+        "input": "ZUCCHETTOS ",
+        "output": " ZAH5KCHEHTTAAS "
+    },
+    {
+        "input": "ZUCCHINI ",
+        "output": " ZAH5KCHIHNAY "
+    },
+    {
+        "input": "ZUCCHINIS ",
+        "output": " ZAH5KCHIHNIHS "
+    },
+    {
+        "input": "ZUCCO ",
+        "output": " ZAH5KKOW "
+    },
+    {
+        "input": "ZUCHETTO ",
+        "output": " ZAH5CHEHTTUX "
+    },
+    {
+        "input": "ZUDDA ",
+        "output": " ZAH5DDAH "
+    },
+    {
+        "input": "ZUFFOLO ",
+        "output": " ZAH5FAALOW "
+    },
+    {
+        "input": "ZUFOLO ",
+        "output": " ZUWFAALOW "
+    },
+    {
+        "input": "ZUGTIERLAST ",
+        "output": " ZAH5GTIYERLAEST "
+    },
+    {
+        "input": "ZUGTIERLASTER ",
+        "output": " ZAH5GTIYERLAESTER "
+    },
+    {
+        "input": "ZUGZWANG ",
+        "output": " ZAH5GZWAENX "
+    },
+    {
+        "input": "ZUISIN ",
+        "output": " ZUWAYZIHN "
+    },
+    {
+        "input": "ZULU ",
+        "output": " ZUWLUW "
+    },
+    {
+        "input": "ZULUS ",
+        "output": " ZUWLAHS "
+    },
+    {
+        "input": "ZUMATIC ",
+        "output": " ZUWMAETIHK "
+    },
+    {
+        "input": "ZUMBOORUK ",
+        "output": " ZAH5MBOH5RAHK "
+    },
+    {
+        "input": "ZUNI ",
+        "output": " ZUWNAY "
+    },
+    {
+        "input": "ZUNIAN ",
+        "output": " ZUWNIHAEN "
+    },
+    {
+        "input": "ZUNIS ",
+        "output": " ZUWNIHS "
+    },
+    {
+        "input": "ZUNYITE ",
+        "output": " ZUWNIYAYT "
+    },
+    {
+        "input": "ZUPANATE ",
+        "output": " ZUWPAENEYT "
+    },
+    {
+        "input": "ZURICH ",
+        "output": " ZUH4RIHCH "
+    },
+    {
+        "input": "ZURLITE ",
+        "output": " ZERLIHT "
+    },
+    {
+        "input": "ZUURVELDT ",
+        "output": " ZUWERVEHLDT "
+    },
+    {
+        "input": "ZUZA ",
+        "output": " ZUWZAH "
+    },
+    {
+        "input": "ZWANZIGER ",
+        "output": " ZWAENZIHJER "
+    },
+    {
+        "input": "ZWIEBACK ",
+        "output": " ZWIY4BAEK "
+    },
+    {
+        "input": "ZWIEBACKS ",
+        "output": " ZWIY4BAEKS "
+    },
+    {
+        "input": "ZWIESELITE ",
+        "output": " ZWIYEHZEHLAYT "
+    },
+    {
+        "input": "ZWINGLIAN ",
+        "output": " ZWIHNXLIHAEN "
+    },
+    {
+        "input": "ZWITTER ",
+        "output": " ZWIHTTER "
+    },
+    {
+        "input": "ZWITTERION ",
+        "output": " ZWIHTTIY4RIYUN "
+    },
+    {
+        "input": "ZWITTERIONIC ",
+        "output": " ZWIHTTIY4RIYUNIHK "
+    },
+    {
+        "input": "ZYDECO ",
+        "output": " ZIHDEHKOW "
+    },
+    {
+        "input": "ZYDECOS ",
+        "output": " ZIHDEHKAAS "
+    },
+    {
+        "input": "ZYGA ",
+        "output": " ZAYGAH "
+    },
+    {
+        "input": "ZYGADENIN ",
+        "output": " ZAYGAEDEHNIHN "
+    },
+    {
+        "input": "ZYGADENINE ",
+        "output": " ZAYGAEDEHNAYN "
+    },
+    {
+        "input": "ZYGADITE ",
+        "output": " ZAYGAEDIHT "
+    },
+    {
+        "input": "ZYGAENA ",
+        "output": " ZAYGAEEHNAH "
+    },
+    {
+        "input": "ZYGAENID ",
+        "output": " ZAYGAEEHNIHD "
+    },
+    {
+        "input": "ZYGAL ",
+        "output": " ZAYGUL "
+    },
+    {
+        "input": "ZYGANTRA ",
+        "output": " ZAYGAENTRAH "
+    },
+    {
+        "input": "ZYGANTRUM ",
+        "output": " ZAYGAENTRAHM "
+    },
+    {
+        "input": "ZYGAPOPHYSEAL ",
+        "output": " ZAYGAEPAAFIYZIY5L "
+    },
+    {
+        "input": "ZYGAPOPHYSES ",
+        "output": " ZAYGAEPAAFIYZIHZ "
+    },
+    {
+        "input": "ZYGAPOPHYSIAL ",
+        "output": " ZAYGAEPAAFIYZIHUL "
+    },
+    {
+        "input": "ZYGAPOPHYSIS ",
+        "output": " ZAYGAEPAAFIYZIHS "
+    },
+    {
+        "input": "ZYGENID ",
+        "output": " ZIHJEHNIHD "
+    },
+    {
+        "input": "ZYGION ",
+        "output": " ZIHJIHUN "
+    },
+    {
+        "input": "ZYGITE ",
+        "output": " ZIHJAYT "
+    },
+    {
+        "input": "ZYGNEMACEOUS ",
+        "output": " ZIHGNEHMEY5SIYAXS "
+    },
+    {
+        "input": "ZYGNEMATACEOUS ",
+        "output": " ZIHGNEHMAETEY5SIYAXS "
+    },
+    {
+        "input": "ZYGOBRANCH ",
+        "output": " ZAYGAABRAENCH "
+    },
+    {
+        "input": "ZYGOBRANCHIATE ",
+        "output": " ZAYGAABRAENCHIHEYT "
+    },
+    {
+        "input": "ZYGODACTYL ",
+        "output": " ZAYGAADAEKTIYL "
+    },
+    {
+        "input": "ZYGODACTYLE ",
+        "output": " ZAYGAADAEKTIYL "
+    },
+    {
+        "input": "ZYGODACTYLIC ",
+        "output": " ZAYGAADAEKTIYLIHK "
+    },
+    {
+        "input": "ZYGODACTYLISM ",
+        "output": " ZAYGAADAEKTIYLIHZUM "
+    },
+    {
+        "input": "ZYGODACTYLOUS ",
+        "output": " ZAYGAADAEKTIYLAXS "
+    },
+    {
+        "input": "ZYGODONT ",
+        "output": " ZAYGAADUNT "
+    },
+    {
+        "input": "ZYGOGENESIS ",
+        "output": " ZAYGOWJIY4NEHZIHS "
+    },
+    {
+        "input": "ZYGOGENETIC ",
+        "output": " ZAYGOWJEHNEHTIHK "
+    },
+    {
+        "input": "ZYGOID ",
+        "output": " ZAYGOY5D "
+    },
+    {
+        "input": "ZYGOLABIALIS ",
+        "output": " ZAYGAALEY5BIHAELIHS "
+    },
+    {
+        "input": "ZYGOMA ",
+        "output": " ZAYGAHMAH "
+    },
+    {
+        "input": "ZYGOMAS ",
+        "output": " ZAYGAHMAES "
+    },
+    {
+        "input": "ZYGOMATA ",
+        "output": " ZAYGAHMAETAH "
+    },
+    {
+        "input": "ZYGOMATIC ",
+        "output": " ZAYGAHMAETIHK "
+    },
+    {
+        "input": "ZYGOMATICOAURICULAR ",
+        "output": " ZAYGAHMAETIHKOW4YUH4RIHKYUWLAA5R "
+    },
+    {
+        "input": "ZYGOMATICOAURICULARIS ",
+        "output": " ZAYGAHMAETIHKOW4YUH4RIHKYUWLEH4RIHS "
+    },
+    {
+        "input": "ZYGOMATICOFACIAL ",
+        "output": " ZAYGAHMAETIHKAAFEY5SHUL "
+    },
+    {
+        "input": "ZYGOMATICOFRONTAL ",
+        "output": " ZAYGAHMAETIHKAO4FRUNTUL "
+    },
+    {
+        "input": "ZYGOMATICOMAXILLARY ",
+        "output": " ZAYGAHMAETIHKAHMAEKSIHLEH4RIY "
+    },
+    {
+        "input": "ZYGOMATICOORBITAL ",
+        "output": " ZAYGAHMAETIHKOH5RBIHTUL "
+    },
+    {
+        "input": "ZYGOMATICOSPHENOID ",
+        "output": " ZAYGAHMAETIHKAASFEHNOY5D "
+    },
+    {
+        "input": "ZYGOMATICOTEMPORAL ",
+        "output": " ZAYGAHMAETIHKAATEHMPAORUL "
+    },
+    {
+        "input": "ZYGOMATICUM ",
+        "output": " ZAYGAHMAETIHKAHM "
+    },
+    {
+        "input": "ZYGOMATICUS ",
+        "output": " ZAYGAHMAETIHKAHS "
+    },
+    {
+        "input": "ZYGOMAXILLARE ",
+        "output": " ZAYGAHMAEKSIHLEH4R "
+    },
+    {
+        "input": "ZYGOMAXILLARY ",
+        "output": " ZAYGAHMAEKSIHLEH4RIY "
+    },
+    {
+        "input": "ZYGOMORPHIC ",
+        "output": " ZAYGAHMAORFIHK "
+    },
+    {
+        "input": "ZYGOMORPHISM ",
+        "output": " ZAYGAHMAORFIHZUM "
+    },
+    {
+        "input": "ZYGOMORPHOUS ",
+        "output": " ZAYGAHMAORFAXS "
+    },
+    {
+        "input": "ZYGOMORPHY ",
+        "output": " ZAYGAHMAORFIY "
+    },
+    {
+        "input": "ZYGOMYCETE ",
+        "output": " ZAYGAHMIYSIY4T "
+    },
+    {
+        "input": "ZYGOMYCETES ",
+        "output": " ZAYGAHMIYSIY4TS "
+    },
+    {
+        "input": "ZYGOMYCETOUS ",
+        "output": " ZAYGAHMIYSEHTAXS "
+    },
+    {
+        "input": "ZYGON ",
+        "output": " ZAYGUN "
+    },
+    {
+        "input": "ZYGONEURE ",
+        "output": " ZAYGAO5NYUW5R "
+    },
+    {
+        "input": "ZYGOPHORE ",
+        "output": " ZAYGAAFAOR "
+    },
+    {
+        "input": "ZYGOPHORIC ",
+        "output": " ZAYGAAFAORIHK "
+    },
+    {
+        "input": "ZYGOPHYCEOUS ",
+        "output": " ZAYGAAFIYSIYAXS "
+    },
+    {
+        "input": "ZYGOPHYLLACEOUS ",
+        "output": " ZAYGAAFIYLEY5SIYAXS "
+    },
+    {
+        "input": "ZYGOPHYTE ",
+        "output": " ZAYGAAFIYT "
+    },
+    {
+        "input": "ZYGOPLEURAL ",
+        "output": " ZAYGAAPLYUW5RUL "
+    },
+    {
+        "input": "ZYGOPTERAN ",
+        "output": " ZAYGAAPTERAEN "
+    },
+    {
+        "input": "ZYGOPTERID ",
+        "output": " ZAYGAAPTEH4RIHD "
+    },
+    {
+        "input": "ZYGOPTERON ",
+        "output": " ZAYGAAPTERUN "
+    },
+    {
+        "input": "ZYGOPTEROUS ",
+        "output": " ZAYGAAPTERAXS "
+    },
+    {
+        "input": "ZYGOSE ",
+        "output": " ZAYGOW5Z "
+    },
+    {
+        "input": "ZYGOSES ",
+        "output": " ZAYGOW5ZIHZ "
+    },
+    {
+        "input": "ZYGOSIS ",
+        "output": " ZAYGAAZIHS "
+    },
+    {
+        "input": "ZYGOSITIES ",
+        "output": " ZAYGAAZIHTIYZ "
+    },
+    {
+        "input": "ZYGOSITY ",
+        "output": " ZAYGAAZIHTIY "
+    },
+    {
+        "input": "ZYGOSPERM ",
+        "output": " ZAYGAASPERM "
+    },
+    {
+        "input": "ZYGOSPHENAL ",
+        "output": " ZAYGAASFEHNUL "
+    },
+    {
+        "input": "ZYGOSPHENE ",
+        "output": " ZAYGAASFIY4N "
+    },
+    {
+        "input": "ZYGOSPHERE ",
+        "output": " ZAYGAASFIY4R "
+    },
+    {
+        "input": "ZYGOSPORANGE ",
+        "output": " ZAYGAASPAOREY4NJ "
+    },
+    {
+        "input": "ZYGOSPORANGIUM ",
+        "output": " ZAYGAASPAOREY4NJIHAHM "
+    },
+    {
+        "input": "ZYGOSPORE ",
+        "output": " ZAYGAASPAOR "
+    },
+    {
+        "input": "ZYGOSPORIC ",
+        "output": " ZAYGAASPAORIHK "
+    },
+    {
+        "input": "ZYGOSPOROPHORE ",
+        "output": " ZAYGAASPAORAAFAOR "
+    },
+    {
+        "input": "ZYGOSTYLE ",
+        "output": " ZAYGOWSTIYL "
+    },
+    {
+        "input": "ZYGOTACTIC ",
+        "output": " ZAYGAATAEKTIHK "
+    },
+    {
+        "input": "ZYGOTAXIS ",
+        "output": " ZAYGAATAEKSIHS "
+    },
+    {
+        "input": "ZYGOTE ",
+        "output": " ZAYGOW5T "
+    },
+    {
+        "input": "ZYGOTENE ",
+        "output": " ZAYGOWTIY4N "
+    },
+    {
+        "input": "ZYGOTENES ",
+        "output": " ZAYGOWTIY4NZ "
+    },
+    {
+        "input": "ZYGOTES ",
+        "output": " ZAYGOW5TS "
+    },
+    {
+        "input": "ZYGOTIC ",
+        "output": " ZAYGAATIHK "
+    },
+    {
+        "input": "ZYGOTICALLY ",
+        "output": " ZAYGAATIHKULIY "
+    },
+    {
+        "input": "ZYGOTOBLAST ",
+        "output": " ZAYGAATAABLAEST "
+    },
+    {
+        "input": "ZYGOTOID ",
+        "output": " ZAYGAATOY5D "
+    },
+    {
+        "input": "ZYGOTOMERE ",
+        "output": " ZAYGAATOW5MIY4R "
+    },
+    {
+        "input": "ZYGOUS ",
+        "output": " ZAYGAXS "
+    },
+    {
+        "input": "ZYGOZOOSPORE ",
+        "output": " ZAYGAAZUW5SPAOR "
+    },
+    {
+        "input": "ZYMASE ",
+        "output": " ZAYMEYZ "
+    },
+    {
+        "input": "ZYMASES ",
+        "output": " ZAYMEYZIHZ "
+    },
+    {
+        "input": "ZYME ",
+        "output": " ZAYM "
+    },
+    {
+        "input": "ZYMES ",
+        "output": " ZAYMZ "
+    },
+    {
+        "input": "ZYMIC ",
+        "output": " ZAYMIHK "
+    },
+    {
+        "input": "ZYMIN ",
+        "output": " ZAYMIHN "
+    },
+    {
+        "input": "ZYMITE ",
+        "output": " ZIHMAYT "
+    },
+    {
+        "input": "ZYMOCHEMISTRY ",
+        "output": " ZAYMAACHEHMIHSTRIY "
+    },
+    {
+        "input": "ZYMOGEN ",
+        "output": " ZAYMOWJEHN "
+    },
+    {
+        "input": "ZYMOGENE ",
+        "output": " ZAYMOWJIY4N "
+    },
+    {
+        "input": "ZYMOGENES ",
+        "output": " ZAYMOWJIY4NZ "
+    },
+    {
+        "input": "ZYMOGENESIS ",
+        "output": " ZAYMOWJIY4NEHZIHS "
+    },
+    {
+        "input": "ZYMOGENIC ",
+        "output": " ZAYMOWJEHNIHK "
+    },
+    {
+        "input": "ZYMOGENOUS ",
+        "output": " ZAYMOWJEHNAXS "
+    },
+    {
+        "input": "ZYMOGENS ",
+        "output": " ZAYMOWJEHNZ "
+    },
+    {
+        "input": "ZYMOGRAM ",
+        "output": " ZAYMAAGRAEM "
+    },
+    {
+        "input": "ZYMOGRAMS ",
+        "output": " ZAYMAAGRAEMZ "
+    },
+    {
+        "input": "ZYMOID ",
+        "output": " ZAYMOY5D "
+    },
+    {
+        "input": "ZYMOLOGIC ",
+        "output": " ZAYMAALAAJIHK "
+    },
+    {
+        "input": "ZYMOLOGICAL ",
+        "output": " ZAYMAALAAJIHKUL "
+    },
+    {
+        "input": "ZYMOLOGIES ",
+        "output": " ZAYMAALOW5JIYZ "
+    },
+    {
+        "input": "ZYMOLOGIST ",
+        "output": " ZAYMAALAAJIHST "
+    },
+    {
+        "input": "ZYMOLOGY ",
+        "output": " ZAYMAALAAJIY "
+    },
+    {
+        "input": "ZYMOLYIS ",
+        "output": " ZAYMAALIYIHZ "
+    },
+    {
+        "input": "ZYMOLYSIS ",
+        "output": " ZAYMAALIYZIHS "
+    },
+    {
+        "input": "ZYMOLYTIC ",
+        "output": " ZAYMAALIYTIHK "
+    },
+    {
+        "input": "ZYMOME ",
+        "output": " ZAYMOW5M "
+    },
+    {
+        "input": "ZYMOMETER ",
+        "output": " ZAYMAHMIY4TER "
+    },
+    {
+        "input": "ZYMOMIN ",
+        "output": " ZAYMAHMIHN "
+    },
+    {
+        "input": "ZYMOPHORE ",
+        "output": " ZAYMAAFAOR "
+    },
+    {
+        "input": "ZYMOPHORIC ",
+        "output": " ZAYMAAFAORIHK "
+    },
+    {
+        "input": "ZYMOPHOSPHATE ",
+        "output": " ZAYMAAFAASFEYT "
+    },
+    {
+        "input": "ZYMOPHYTE ",
+        "output": " ZAYMAAFIYT "
+    },
+    {
+        "input": "ZYMOPLASTIC ",
+        "output": " ZAYMAAPLAESTIHK "
+    },
+    {
+        "input": "ZYMOSAN ",
+        "output": " ZAYMAAZAEN "
+    },
+    {
+        "input": "ZYMOSANS ",
+        "output": " ZAYMAAZAENZ "
+    },
+    {
+        "input": "ZYMOSCOPE ",
+        "output": " ZAYMAASKOW5P "
+    },
+    {
+        "input": "ZYMOSES ",
+        "output": " ZAYMOW5ZIHZ "
+    },
+    {
+        "input": "ZYMOSIMETER ",
+        "output": " ZAYMAAZIHMIY4TER "
+    },
+    {
+        "input": "ZYMOSIS ",
+        "output": " ZAYMAAZIHS "
+    },
+    {
+        "input": "ZYMOSTEROL ",
+        "output": " ZAYMOWSTERAAL "
+    },
+    {
+        "input": "ZYMOSTHENIC ",
+        "output": " ZAYMOWSTHEHNIHK "
+    },
+    {
+        "input": "ZYMOTECHNIC ",
+        "output": " ZAYMAATEHKNIHK "
+    },
+    {
+        "input": "ZYMOTECHNICAL ",
+        "output": " ZAYMAATEHKNIHKUL "
+    },
+    {
+        "input": "ZYMOTECHNICS ",
+        "output": " ZAYMAATEHKNIHKS "
+    },
+    {
+        "input": "ZYMOTECHNY ",
+        "output": " ZAYMAATEHKNIY "
+    },
+    {
+        "input": "ZYMOTIC ",
+        "output": " ZAYMAATIHK "
+    },
+    {
+        "input": "ZYMOTICALLY ",
+        "output": " ZAYMAATIHKULIY "
+    },
+    {
+        "input": "ZYMOTIZE ",
+        "output": " ZAYMAATAYZ "
+    },
+    {
+        "input": "ZYMOTOXIC ",
+        "output": " ZAYMAATAAKSIHK "
+    },
+    {
+        "input": "ZYMURGIES ",
+        "output": " ZAYMERJIYZ "
+    },
+    {
+        "input": "ZYMURGY ",
+        "output": " ZAYMERJIY "
+    },
+    {
+        "input": "ZYTHEM ",
+        "output": " ZIHTHEHM "
+    },
+    {
+        "input": "ZYTHUM ",
+        "output": " ZIHTHAHM "
+    },
+    {
+        "input": "ZYZZYVA ",
+        "output": " ZIHZZIYVAH "
+    }
+]

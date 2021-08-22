@@ -1,0 +1,4170 @@
+[
+    {
+        "input": "Y ",
+        "output": " WAY4 "
+    },
+    {
+        "input": "Y'S ",
+        "output": " YS "
+    },
+    {
+        "input": "YA ",
+        "output": " YAH "
+    },
+    {
+        "input": "YABA ",
+        "output": " YAEBAH "
+    },
+    {
+        "input": "YABBER ",
+        "output": " YAEBBER "
+    },
+    {
+        "input": "YABBERED ",
+        "output": " YAEBBIY4RD "
+    },
+    {
+        "input": "YABBERING ",
+        "output": " YAEBBIY4RIHNX "
+    },
+    {
+        "input": "YABBERS ",
+        "output": " YAEBBERZ "
+    },
+    {
+        "input": "YABBI ",
+        "output": " YAEBBAY "
+    },
+    {
+        "input": "YABBIE ",
+        "output": " YAEBBIY "
+    },
+    {
+        "input": "YABBLE ",
+        "output": " YAEBBUL "
+    },
+    {
+        "input": "YABBY ",
+        "output": " YAEBBIY "
+    },
+    {
+        "input": "YABOO ",
+        "output": " YAEBUW5 "
+    },
+    {
+        "input": "YABU ",
+        "output": " YAEBYUW "
+    },
+    {
+        "input": "YACAL ",
+        "output": " YAEKUL "
+    },
+    {
+        "input": "YACARE ",
+        "output": " YAEKEH4R "
+    },
+    {
+        "input": "YACATA ",
+        "output": " YAEKAETAH "
+    },
+    {
+        "input": "YACCA ",
+        "output": " YAEKKAH "
+    },
+    {
+        "input": "YACHAN ",
+        "output": " YAECHAEN "
+    },
+    {
+        "input": "YACHT ",
+        "output": " YAECHT "
+    },
+    {
+        "input": "YACHTDOM ",
+        "output": " YAECHTDAHM "
+    },
+    {
+        "input": "YACHTED ",
+        "output": " YAECHTIXD "
+    },
+    {
+        "input": "YACHTER ",
+        "output": " YAECHTER "
+    },
+    {
+        "input": "YACHTERS ",
+        "output": " YAECHTERZ "
+    },
+    {
+        "input": "YACHTING ",
+        "output": " YAECHTIHNX "
+    },
+    {
+        "input": "YACHTINGS ",
+        "output": " YAECHTIHNXZ "
+    },
+    {
+        "input": "YACHTIST ",
+        "output": " YAECHTIHST "
+    },
+    {
+        "input": "YACHTMAN ",
+        "output": " YAECHTMAEN "
+    },
+    {
+        "input": "YACHTMANSHIP ",
+        "output": " YAECHTMAENSHIHP "
+    },
+    {
+        "input": "YACHTMEN ",
+        "output": " YAECHTMEHN "
+    },
+    {
+        "input": "YACHTS ",
+        "output": " YAECHTS "
+    },
+    {
+        "input": "YACHTSMAN ",
+        "output": " YAECHTSMAEN "
+    },
+    {
+        "input": "YACHTSMANLIKE ",
+        "output": " YAECHTSMAENLIHK "
+    },
+    {
+        "input": "YACHTSMANSHIP ",
+        "output": " YAECHTSMAENSHIHP "
+    },
+    {
+        "input": "YACHTSMEN ",
+        "output": " YAECHTSMEHN "
+    },
+    {
+        "input": "YACHTSWOMAN ",
+        "output": " YAECHTSWUHMAEN "
+    },
+    {
+        "input": "YACHTSWOMEN ",
+        "output": " YAECHTSWIHMEHN "
+    },
+    {
+        "input": "YACHTY ",
+        "output": " YAECHTIY "
+    },
+    {
+        "input": "YACK ",
+        "output": " YAEK "
+    },
+    {
+        "input": "YACKED ",
+        "output": " YAEKT "
+    },
+    {
+        "input": "YACKING ",
+        "output": " YAEKIHNX "
+    },
+    {
+        "input": "YACKS ",
+        "output": " YAEKS "
+    },
+    {
+        "input": "YAD ",
+        "output": " YAED "
+    },
+    {
+        "input": "YADAYIM ",
+        "output": " YAEDEY5IHM "
+    },
+    {
+        "input": "YADE ",
+        "output": " YEYD "
+    },
+    {
+        "input": "YADIM ",
+        "output": " YAEDIHM "
+    },
+    {
+        "input": "YAFF ",
+        "output": " YAEF "
+    },
+    {
+        "input": "YAFFED ",
+        "output": " YAEFT "
+    },
+    {
+        "input": "YAFFIL ",
+        "output": " YAEFIHL "
+    },
+    {
+        "input": "YAFFING ",
+        "output": " YAEFIHNX "
+    },
+    {
+        "input": "YAFFINGALE ",
+        "output": " YAEFIHNXGEYL "
+    },
+    {
+        "input": "YAFFLE ",
+        "output": " YAEFUL "
+    },
+    {
+        "input": "YAFFLER ",
+        "output": " YAEFULER "
+    },
+    {
+        "input": "YAFFS ",
+        "output": " YAEFS "
+    },
+    {
+        "input": "YAGER ",
+        "output": " YIHJER "
+    },
+    {
+        "input": "YAGERS ",
+        "output": " YIHJERZ "
+    },
+    {
+        "input": "YAGGER ",
+        "output": " YAEGER "
+    },
+    {
+        "input": "YAGHOURT ",
+        "output": " YAEOHRT "
+    },
+    {
+        "input": "YAGI ",
+        "output": " YAEJAY "
+    },
+    {
+        "input": "YAGIS ",
+        "output": " YAEJIHS "
+    },
+    {
+        "input": "YAGOURUNDI ",
+        "output": " YAEGOHRAH5NDAY "
+    },
+    {
+        "input": "YAGUA ",
+        "output": " YAEGWAH "
+    },
+    {
+        "input": "YAGUARUNDI ",
+        "output": " YAEGWEH4RAH5NDAY "
+    },
+    {
+        "input": "YAGUAS ",
+        "output": " YAEGWAEZ "
+    },
+    {
+        "input": "YAGUAZA ",
+        "output": " YAEGWAEZAH "
+    },
+    {
+        "input": "YAH ",
+        "output": " YAE "
+    },
+    {
+        "input": "YAHAN ",
+        "output": " YAE/HAEN "
+    },
+    {
+        "input": "YAHOO ",
+        "output": " YAE/HUW5 "
+    },
+    {
+        "input": "YAHOOISM ",
+        "output": " YAE/HUW5IHZUM "
+    },
+    {
+        "input": "YAHOOISMS ",
+        "output": " YAE/HUW5IHZUMZ "
+    },
+    {
+        "input": "YAHOOS ",
+        "output": " YAE/HUW5Z "
+    },
+    {
+        "input": "YAHRZEIT ",
+        "output": " YAERZIY4T "
+    },
+    {
+        "input": "YAHRZEITS ",
+        "output": " YAERZIY4TS "
+    },
+    {
+        "input": "YAHVEH ",
+        "output": " YAEVEH "
+    },
+    {
+        "input": "YAHWEH ",
+        "output": " YAEWEH "
+    },
+    {
+        "input": "YAHWISM ",
+        "output": " YAEWIHZUM "
+    },
+    {
+        "input": "YAHWISTIC ",
+        "output": " YAEWIHSTIHK "
+    },
+    {
+        "input": "YAIR ",
+        "output": " YEH4R "
+    },
+    {
+        "input": "YAIRD ",
+        "output": " YEH4RD "
+    },
+    {
+        "input": "YAIRDS ",
+        "output": " YEH4RDZ "
+    },
+    {
+        "input": "YAJE ",
+        "output": " YEYJ "
+    },
+    {
+        "input": "YAJEIN ",
+        "output": " YEY5JIY4N "
+    },
+    {
+        "input": "YAJEINE ",
+        "output": " YEY5JIY4N "
+    },
+    {
+        "input": "YAJENIN ",
+        "output": " YAEJEHNIHN "
+    },
+    {
+        "input": "YAJENINE ",
+        "output": " YAEJEHNAYN "
+    },
+    {
+        "input": "YAJNOPAVITA ",
+        "output": " YAEJNAAPAEVIHTAH "
+    },
+    {
+        "input": "YAK ",
+        "output": " YAEK "
+    },
+    {
+        "input": "YAKALO ",
+        "output": " YAEKAELOW "
+    },
+    {
+        "input": "YAKAMIK ",
+        "output": " YAEKAEMIHK "
+    },
+    {
+        "input": "YAKATTALO ",
+        "output": " YAEKAETTAELOW "
+    },
+    {
+        "input": "YAKIMA ",
+        "output": " YAEKIHMAH "
+    },
+    {
+        "input": "YAKIN ",
+        "output": " YAEKIHN "
+    },
+    {
+        "input": "YAKITORI ",
+        "output": " YAEKIHTAORAY "
+    },
+    {
+        "input": "YAKITORIS ",
+        "output": " YAEKIHTAORIHS "
+    },
+    {
+        "input": "YAKKA ",
+        "output": " YAEKKAH "
+    },
+    {
+        "input": "YAKKED ",
+        "output": " YAEKKT "
+    },
+    {
+        "input": "YAKKER ",
+        "output": " YAEKKER "
+    },
+    {
+        "input": "YAKKERS ",
+        "output": " YAEKKERZ "
+    },
+    {
+        "input": "YAKKING ",
+        "output": " YAEKKIHNX "
+    },
+    {
+        "input": "YAKMAK ",
+        "output": " YAEKMAEK "
+    },
+    {
+        "input": "YAKMAN ",
+        "output": " YAEKMAEN "
+    },
+    {
+        "input": "YAKS ",
+        "output": " YAEKS "
+    },
+    {
+        "input": "YAKSHA ",
+        "output": " YAEKSHAH "
+    },
+    {
+        "input": "YAKSHI ",
+        "output": " YAEKSHAY "
+    },
+    {
+        "input": "YALB ",
+        "output": " YAOLB "
+    },
+    {
+        "input": "YALD ",
+        "output": " YAOLD "
+    },
+    {
+        "input": "YALE ",
+        "output": " YEYL "
+    },
+    {
+        "input": "YALI ",
+        "output": " YAELAY "
+    },
+    {
+        "input": "YALLA ",
+        "output": " YAOLAH "
+    },
+    {
+        "input": "YALLAER ",
+        "output": " YAOLAEER "
+    },
+    {
+        "input": "YALLOCK ",
+        "output": " YAOLAAK "
+    },
+    {
+        "input": "YALLOW ",
+        "output": " YAOLOW "
+    },
+    {
+        "input": "YAM ",
+        "output": " YAEM "
+    },
+    {
+        "input": "YAMALKA ",
+        "output": " YAEMAO4KAH "
+    },
+    {
+        "input": "YAMALKAS ",
+        "output": " YAEMAO4KAES "
+    },
+    {
+        "input": "YAMAMAI ",
+        "output": " YAEMAEMEY4 "
+    },
+    {
+        "input": "YAMANAI ",
+        "output": " YAEMAENEY4 "
+    },
+    {
+        "input": "YAMASKITE ",
+        "output": " YAEMAESKIHT "
+    },
+    {
+        "input": "YAMEN ",
+        "output": " YAEMEHN "
+    },
+    {
+        "input": "YAMENS ",
+        "output": " YAEMEHNZ "
+    },
+    {
+        "input": "YAMILKE ",
+        "output": " YAEMIHLK "
+    },
+    {
+        "input": "YAMMADJI ",
+        "output": " YAEMAEDJAY "
+    },
+    {
+        "input": "YAMMER ",
+        "output": " YAEMER "
+    },
+    {
+        "input": "YAMMERED ",
+        "output": " YAEMIY4RD "
+    },
+    {
+        "input": "YAMMERER ",
+        "output": " YAEMIY4RER "
+    },
+    {
+        "input": "YAMMERERS ",
+        "output": " YAEMIY4RERZ "
+    },
+    {
+        "input": "YAMMERING ",
+        "output": " YAEMIY4RIHNX "
+    },
+    {
+        "input": "YAMMERLY ",
+        "output": " YAEMERLIY "
+    },
+    {
+        "input": "YAMMERS ",
+        "output": " YAEMERZ "
+    },
+    {
+        "input": "YAMP ",
+        "output": " YAEMP "
+    },
+    {
+        "input": "YAMPA ",
+        "output": " YAEMPAH "
+    },
+    {
+        "input": "YAMPEE ",
+        "output": " YAEMPIY4 "
+    },
+    {
+        "input": "YAMPH ",
+        "output": " YAEMF "
+    },
+    {
+        "input": "YAMS ",
+        "output": " YAEMZ "
+    },
+    {
+        "input": "YAMSHIK ",
+        "output": " YAEMSHIHK "
+    },
+    {
+        "input": "YAMSTCHICK ",
+        "output": " YAEMSTCHIHK "
+    },
+    {
+        "input": "YAMSTCHIK ",
+        "output": " YAEMSTCHIHK "
+    },
+    {
+        "input": "YAMULKA ",
+        "output": " YAEMAH5LKAH "
+    },
+    {
+        "input": "YAMULKAS ",
+        "output": " YAEMAH5LKAES "
+    },
+    {
+        "input": "YAMUN ",
+        "output": " YAEMAHN "
+    },
+    {
+        "input": "YAMUNS ",
+        "output": " YAEMAH5NZ "
+    },
+    {
+        "input": "YAN ",
+        "output": " YAEN "
+    },
+    {
+        "input": "YANACONA ",
+        "output": " YAENAEKAANAH "
+    },
+    {
+        "input": "YANCOPIN ",
+        "output": " YAENKAAPIHN "
+    },
+    {
+        "input": "YANDER ",
+        "output": " YAENDER "
+    },
+    {
+        "input": "YANG ",
+        "output": " YAENX "
+    },
+    {
+        "input": "YANGGONA ",
+        "output": " YAENXGUNAH "
+    },
+    {
+        "input": "YANGS ",
+        "output": " YAENXZ "
+    },
+    {
+        "input": "YANGTAO ",
+        "output": " YAENXTAEOW "
+    },
+    {
+        "input": "YANGTZE ",
+        "output": " YAENXTZ "
+    },
+    {
+        "input": "YANK ",
+        "output": " YAENXK "
+    },
+    {
+        "input": "YANKED ",
+        "output": " YAENXKT "
+    },
+    {
+        "input": "YANKEE ",
+        "output": " YAENXKIY4 "
+    },
+    {
+        "input": "YANKEES ",
+        "output": " YAENXKIY4Z "
+    },
+    {
+        "input": "YANKER ",
+        "output": " YAENXKER "
+    },
+    {
+        "input": "YANKING ",
+        "output": " YAENXKIHNX "
+    },
+    {
+        "input": "YANKS ",
+        "output": " YAENXKS "
+    },
+    {
+        "input": "YANKY ",
+        "output": " YAENXKIY "
+    },
+    {
+        "input": "YANNAM ",
+        "output": " YAENAEM "
+    },
+    {
+        "input": "YANOLITE ",
+        "output": " YAENAALIHT "
+    },
+    {
+        "input": "YANQUI ",
+        "output": " YAENKWAY "
+    },
+    {
+        "input": "YANQUIS ",
+        "output": " YAENKWIHZ "
+    },
+    {
+        "input": "YANTRA ",
+        "output": " YAENTRAH "
+    },
+    {
+        "input": "YANTRAS ",
+        "output": " YAENTRAES "
+    },
+    {
+        "input": "YAOORT ",
+        "output": " YAEOH5RT "
+    },
+    {
+        "input": "YAOURT ",
+        "output": " YAEOHRT "
+    },
+    {
+        "input": "YAOURTI ",
+        "output": " YAEOHRTAY "
+    },
+    {
+        "input": "YAP ",
+        "output": " YAEP "
+    },
+    {
+        "input": "YAPA ",
+        "output": " YAEPAH "
+    },
+    {
+        "input": "YAPLY ",
+        "output": " YAEPLIY "
+    },
+    {
+        "input": "YAPNESS ",
+        "output": " YAENEHS "
+    },
+    {
+        "input": "YAPOCK ",
+        "output": " YAEPAAK "
+    },
+    {
+        "input": "YAPOCKS ",
+        "output": " YAEPAAKS "
+    },
+    {
+        "input": "YAPOK ",
+        "output": " YAEPAAK "
+    },
+    {
+        "input": "YAPOKS ",
+        "output": " YAEPAAKS "
+    },
+    {
+        "input": "YAPON ",
+        "output": " YAEPUN "
+    },
+    {
+        "input": "YAPONS ",
+        "output": " YAEPUNZ "
+    },
+    {
+        "input": "YAPP ",
+        "output": " YAEP "
+    },
+    {
+        "input": "YAPPED ",
+        "output": " YAEPT "
+    },
+    {
+        "input": "YAPPER ",
+        "output": " YAEPER "
+    },
+    {
+        "input": "YAPPERS ",
+        "output": " YAEPERZ "
+    },
+    {
+        "input": "YAPPINESS ",
+        "output": " YAEPIHNEHS "
+    },
+    {
+        "input": "YAPPING ",
+        "output": " YAEPIHNX "
+    },
+    {
+        "input": "YAPPINGLY ",
+        "output": " YAEPIHNXLIY "
+    },
+    {
+        "input": "YAPPISH ",
+        "output": " YAEPIHSH "
+    },
+    {
+        "input": "YAPPY ",
+        "output": " YAEPIY "
+    },
+    {
+        "input": "YAPS ",
+        "output": " YAES "
+    },
+    {
+        "input": "YAPSTER ",
+        "output": " YAESTER "
+    },
+    {
+        "input": "YAQONA ",
+        "output": " YAEKUNAH "
+    },
+    {
+        "input": "YAR ",
+        "output": " YAA5R "
+    },
+    {
+        "input": "YARAK ",
+        "output": " YEH4RAEK "
+    },
+    {
+        "input": "YARAY ",
+        "output": " YEH4REY5 "
+    },
+    {
+        "input": "YARB ",
+        "output": " YAA5RB "
+    },
+    {
+        "input": "YARBOROUGH ",
+        "output": " YAA5RBER4OW "
+    },
+    {
+        "input": "YARD ",
+        "output": " YAA5RD "
+    },
+    {
+        "input": "YARD'S ",
+        "output": " YAA5RDS "
+    },
+    {
+        "input": "YARDAGE ",
+        "output": " YAA5RDIHJ "
+    },
+    {
+        "input": "YARDAGES ",
+        "output": " YAA5RDIHJIHZ "
+    },
+    {
+        "input": "YARDANG ",
+        "output": " YAA5RDAENX "
+    },
+    {
+        "input": "YARDARM ",
+        "output": " YAA5RDAA5RM "
+    },
+    {
+        "input": "YARDARMS ",
+        "output": " YAA5RDAA5RMZ "
+    },
+    {
+        "input": "YARDBIRD ",
+        "output": " YAA5RDBERD "
+    },
+    {
+        "input": "YARDBIRDS ",
+        "output": " YAA5RDBERDZ "
+    },
+    {
+        "input": "YARDED ",
+        "output": " YAA5RDIHD "
+    },
+    {
+        "input": "YARDER ",
+        "output": " YAA5RDER "
+    },
+    {
+        "input": "YARDFUL ",
+        "output": " YAA5RDFUHL "
+    },
+    {
+        "input": "YARDGRASS ",
+        "output": " YAA5RDGRAES "
+    },
+    {
+        "input": "YARDING ",
+        "output": " YAA5RDIHNX "
+    },
+    {
+        "input": "YARDKEEP ",
+        "output": " YAA5RDKIY4P "
+    },
+    {
+        "input": "YARDLAND ",
+        "output": " YAA5RDLAEND "
+    },
+    {
+        "input": "YARDLANDS ",
+        "output": " YAA5RDLAENDZ "
+    },
+    {
+        "input": "YARDMAN ",
+        "output": " YAA5RDMAEN "
+    },
+    {
+        "input": "YARDMASTER ",
+        "output": " YAA5RDMAESTER "
+    },
+    {
+        "input": "YARDMASTERS ",
+        "output": " YAA5RDMAESTERZ "
+    },
+    {
+        "input": "YARDMEN ",
+        "output": " YAA5RDMEHN "
+    },
+    {
+        "input": "YARDS ",
+        "output": " YAA5RDZ "
+    },
+    {
+        "input": "YARDSMAN ",
+        "output": " YAA5RDSMAEN "
+    },
+    {
+        "input": "YARDSTICK ",
+        "output": " YAA5RDSTIHK "
+    },
+    {
+        "input": "YARDSTICK'S ",
+        "output": " YAA5RDSTIHKS "
+    },
+    {
+        "input": "YARDSTICKS ",
+        "output": " YAA5RDSTIHKS "
+    },
+    {
+        "input": "YARDWAND ",
+        "output": " YAA5RDWAEND "
+    },
+    {
+        "input": "YARDWANDS ",
+        "output": " YAA5RDWAENDZ "
+    },
+    {
+        "input": "YARDWORK ",
+        "output": " YAA5RDWERK "
+    },
+    {
+        "input": "YARDWORKS ",
+        "output": " YAA5RDWERKS "
+    },
+    {
+        "input": "YARE ",
+        "output": " YEH4R "
+    },
+    {
+        "input": "YARELY ",
+        "output": " YEH4RLIY "
+    },
+    {
+        "input": "YARER ",
+        "output": " YEH4RER "
+    },
+    {
+        "input": "YAREST ",
+        "output": " YEH4REHST "
+    },
+    {
+        "input": "YARETA ",
+        "output": " YEH4REHTAH "
+    },
+    {
+        "input": "YARIYARI ",
+        "output": " YEH4RIHIHEH4RAY "
+    },
+    {
+        "input": "YARK ",
+        "output": " YAA5RK "
+    },
+    {
+        "input": "YARKE ",
+        "output": " YAA5RK "
+    },
+    {
+        "input": "YARKEE ",
+        "output": " YAA5RKIY4 "
+    },
+    {
+        "input": "YARL ",
+        "output": " YAA5RL "
+    },
+    {
+        "input": "YARLY ",
+        "output": " YAA5RLIY "
+    },
+    {
+        "input": "YARM ",
+        "output": " YAA5RM "
+    },
+    {
+        "input": "YARMALKE ",
+        "output": " YAA5RMAO4K "
+    },
+    {
+        "input": "YARMELKE ",
+        "output": " YAA5RMEHLK "
+    },
+    {
+        "input": "YARMELKES ",
+        "output": " YAA5RMEHLKS "
+    },
+    {
+        "input": "YARMOUTH ",
+        "output": " YAA5RMAWTH "
+    },
+    {
+        "input": "YARMULKA ",
+        "output": " YAA5RMAH5LKAH "
+    },
+    {
+        "input": "YARMULKE ",
+        "output": " YAA5RMAH5LK "
+    },
+    {
+        "input": "YARMULKES ",
+        "output": " YAA5RMAH5LKS "
+    },
+    {
+        "input": "YARN ",
+        "output": " YAA5RN "
+    },
+    {
+        "input": "YARN'S ",
+        "output": " YAA5RNS "
+    },
+    {
+        "input": "YARNED ",
+        "output": " YAA5RND "
+    },
+    {
+        "input": "YARNEN ",
+        "output": " YAA5RNEHN "
+    },
+    {
+        "input": "YARNER ",
+        "output": " YAA5RNER "
+    },
+    {
+        "input": "YARNERS ",
+        "output": " YAA5RNERZ "
+    },
+    {
+        "input": "YARNING ",
+        "output": " YAA5RNIHNX "
+    },
+    {
+        "input": "YARNS ",
+        "output": " YAA5RNZ "
+    },
+    {
+        "input": "YARNWINDLE ",
+        "output": " YAA5RNWAY5NDUL "
+    },
+    {
+        "input": "YAROVIZATION ",
+        "output": " YEH4RAH4VIHZEY5SHUN "
+    },
+    {
+        "input": "YAROVIZE ",
+        "output": " YEH4RAH4VAYZ "
+    },
+    {
+        "input": "YAROVIZED ",
+        "output": " YEH4RAH4VAYZD "
+    },
+    {
+        "input": "YAROVIZING ",
+        "output": " YEH4RAH4VAYZIHNX "
+    },
+    {
+        "input": "YARPHA ",
+        "output": " YAA5RFAH "
+    },
+    {
+        "input": "YARR ",
+        "output": " YAE4R "
+    },
+    {
+        "input": "YARRAMAN ",
+        "output": " YAE4RAEMAEN "
+    },
+    {
+        "input": "YARRAMEN ",
+        "output": " YAE4RAEMEHN "
+    },
+    {
+        "input": "YARRAN ",
+        "output": " YAE4RAEN "
+    },
+    {
+        "input": "YARRINGLE ",
+        "output": " YAE4RIHNXGUL "
+    },
+    {
+        "input": "YARROW ",
+        "output": " YAE4ROW "
+    },
+    {
+        "input": "YARROWS ",
+        "output": " YAE4ROWZ "
+    },
+    {
+        "input": "YARRY ",
+        "output": " YAE4RIY "
+    },
+    {
+        "input": "YARTH ",
+        "output": " YAA5RTH "
+    },
+    {
+        "input": "YARTHEN ",
+        "output": " YAA5RTHEHN "
+    },
+    {
+        "input": "YARWHELP ",
+        "output": " YAA5RWHEHLP "
+    },
+    {
+        "input": "YARWHIP ",
+        "output": " YAA5RWHIHP "
+    },
+    {
+        "input": "YAS ",
+        "output": " YAEZ "
+    },
+    {
+        "input": "YASHIRO ",
+        "output": " YAESHAYROW "
+    },
+    {
+        "input": "YASHMAC ",
+        "output": " YAESHMAEK "
+    },
+    {
+        "input": "YASHMACS ",
+        "output": " YAESHMAEKS "
+    },
+    {
+        "input": "YASHMAK ",
+        "output": " YAESHMAEK "
+    },
+    {
+        "input": "YASHMAKS ",
+        "output": " YAESHMAEKS "
+    },
+    {
+        "input": "YASMAK ",
+        "output": " YAEZUMAEK "
+    },
+    {
+        "input": "YASMAKS ",
+        "output": " YAEZUMAEKS "
+    },
+    {
+        "input": "YAT ",
+        "output": " YAET "
+    },
+    {
+        "input": "YATAGAN ",
+        "output": " YAETAEGAEN "
+    },
+    {
+        "input": "YATAGANS ",
+        "output": " YAETAEGAENZ "
+    },
+    {
+        "input": "YATAGHAN ",
+        "output": " YAETAEAEN "
+    },
+    {
+        "input": "YATAGHANS ",
+        "output": " YAETAEAENZ "
+    },
+    {
+        "input": "YATALITE ",
+        "output": " YAETAELIHT "
+    },
+    {
+        "input": "YATE ",
+        "output": " YEYT "
+    },
+    {
+        "input": "YATI ",
+        "output": " YAETAY "
+    },
+    {
+        "input": "YATTER ",
+        "output": " YAETTER "
+    },
+    {
+        "input": "YATTERED ",
+        "output": " YAETTIY4RD "
+    },
+    {
+        "input": "YATTERING ",
+        "output": " YAETTIY4RIHNX "
+    },
+    {
+        "input": "YATTERS ",
+        "output": " YAETTERZ "
+    },
+    {
+        "input": "YAUD ",
+        "output": " YAO4D "
+    },
+    {
+        "input": "YAUDS ",
+        "output": " YAO4DZ "
+    },
+    {
+        "input": "YAULD ",
+        "output": " YAO4LD "
+    },
+    {
+        "input": "YAUP ",
+        "output": " YAO4P "
+    },
+    {
+        "input": "YAUPED ",
+        "output": " YAO4PT "
+    },
+    {
+        "input": "YAUPER ",
+        "output": " YAO4PER "
+    },
+    {
+        "input": "YAUPERS ",
+        "output": " YAO4PERZ "
+    },
+    {
+        "input": "YAUPING ",
+        "output": " YAO4PIHNX "
+    },
+    {
+        "input": "YAUPON ",
+        "output": " YAO4PUN "
+    },
+    {
+        "input": "YAUPONS ",
+        "output": " YAO4PUNZ "
+    },
+    {
+        "input": "YAUPS ",
+        "output": " YAO4S "
+    },
+    {
+        "input": "YAUTIA ",
+        "output": " YAO4SHAH "
+    },
+    {
+        "input": "YAUTIAS ",
+        "output": " YAO4SHAEZ "
+    },
+    {
+        "input": "YAVA ",
+        "output": " YAEVAH "
+    },
+    {
+        "input": "YAW ",
+        "output": " YAO5 "
+    },
+    {
+        "input": "YAWED ",
+        "output": " YAO5D "
+    },
+    {
+        "input": "YAWEY ",
+        "output": " YAO5IY "
+    },
+    {
+        "input": "YAWING ",
+        "output": " YAO5IHNX "
+    },
+    {
+        "input": "YAWL ",
+        "output": " YAO5L "
+    },
+    {
+        "input": "YAWLED ",
+        "output": " YAO5ULD "
+    },
+    {
+        "input": "YAWLER ",
+        "output": " YAO5ULER "
+    },
+    {
+        "input": "YAWLING ",
+        "output": " YAO5ULIHNX "
+    },
+    {
+        "input": "YAWLS ",
+        "output": " YAO5LZ "
+    },
+    {
+        "input": "YAWLSMAN ",
+        "output": " YAO5LSMAEN "
+    },
+    {
+        "input": "YAWMETER ",
+        "output": " YAO5MIY4TER "
+    },
+    {
+        "input": "YAWMETERS ",
+        "output": " YAO5MIY4TERZ "
+    },
+    {
+        "input": "YAWN ",
+        "output": " YAO5N "
+    },
+    {
+        "input": "YAWNED ",
+        "output": " YAO5ND "
+    },
+    {
+        "input": "YAWNER ",
+        "output": " YAO5NER "
+    },
+    {
+        "input": "YAWNERS ",
+        "output": " YAO5NERZ "
+    },
+    {
+        "input": "YAWNEY ",
+        "output": " YAO5NIY "
+    },
+    {
+        "input": "YAWNFUL ",
+        "output": " YAO5NFUHL "
+    },
+    {
+        "input": "YAWNFULLY ",
+        "output": " YAO5NFUHLIY "
+    },
+    {
+        "input": "YAWNILY ",
+        "output": " YAO5NIHLIY "
+    },
+    {
+        "input": "YAWNINESS ",
+        "output": " YAO5NIHNEHS "
+    },
+    {
+        "input": "YAWNING ",
+        "output": " YAO5NIHNX "
+    },
+    {
+        "input": "YAWNINGLY ",
+        "output": " YAO5NIHNXLIY "
+    },
+    {
+        "input": "YAWNPROOF ",
+        "output": " YAO5NPRUW5F "
+    },
+    {
+        "input": "YAWNS ",
+        "output": " YAO5NZ "
+    },
+    {
+        "input": "YAWNUPS ",
+        "output": " YAO5NAH5S "
+    },
+    {
+        "input": "YAWNY ",
+        "output": " YAO5NIY "
+    },
+    {
+        "input": "YAWP ",
+        "output": " YAO5P "
+    },
+    {
+        "input": "YAWPED ",
+        "output": " YAO5PT "
+    },
+    {
+        "input": "YAWPER ",
+        "output": " YAO5PER "
+    },
+    {
+        "input": "YAWPERS ",
+        "output": " YAO5PERZ "
+    },
+    {
+        "input": "YAWPING ",
+        "output": " YAO5PIHNX "
+    },
+    {
+        "input": "YAWPINGS ",
+        "output": " YAO5PIHNXZ "
+    },
+    {
+        "input": "YAWPS ",
+        "output": " YAO5S "
+    },
+    {
+        "input": "YAWROOT ",
+        "output": " YAO5RUW5T "
+    },
+    {
+        "input": "YAWS ",
+        "output": " YAO5Z "
+    },
+    {
+        "input": "YAWSHRUB ",
+        "output": " YAO5SHRAHB "
+    },
+    {
+        "input": "YAWWEED ",
+        "output": " YAO5WIY4D "
+    },
+    {
+        "input": "YAWY ",
+        "output": " YAO5IY "
+    },
+    {
+        "input": "YAXCHE ",
+        "output": " YAEKSCH "
+    },
+    {
+        "input": "YAY ",
+        "output": " YEY5 "
+    },
+    {
+        "input": "YAYA ",
+        "output": " YEY5AH "
+    },
+    {
+        "input": "YAZATA ",
+        "output": " YAEZAETAH "
+    },
+    {
+        "input": "YBLENT ",
+        "output": " YBLEHNT "
+    },
+    {
+        "input": "YCIE ",
+        "output": " YSIY "
+    },
+    {
+        "input": "YCLAD ",
+        "output": " YKLAED "
+    },
+    {
+        "input": "YCLEPED ",
+        "output": " YKLIY4PT "
+    },
+    {
+        "input": "YCLEPING ",
+        "output": " YKLIY4PIHNX "
+    },
+    {
+        "input": "YCLEPT ",
+        "output": " YKLEHPT "
+    },
+    {
+        "input": "YD ",
+        "output": " YD "
+    },
+    {
+        "input": "YDS ",
+        "output": " YDZ "
+    },
+    {
+        "input": "YE ",
+        "output": " Y "
+    },
+    {
+        "input": "YE'SE ",
+        "output": " YEHS "
+    },
+    {
+        "input": "YEA ",
+        "output": " YIYAX "
+    },
+    {
+        "input": "YEAH ",
+        "output": " YIY5 "
+    },
+    {
+        "input": "YEALING ",
+        "output": " YIY5LIHNX "
+    },
+    {
+        "input": "YEALINGS ",
+        "output": " YIY5LIHNXZ "
+    },
+    {
+        "input": "YEAN ",
+        "output": " YIY5N "
+    },
+    {
+        "input": "YEANED ",
+        "output": " YIY5ND "
+    },
+    {
+        "input": "YEANING ",
+        "output": " YIY5NIHNX "
+    },
+    {
+        "input": "YEANLING ",
+        "output": " YIY5NULIHNX "
+    },
+    {
+        "input": "YEANLINGS ",
+        "output": " YIY5NULIHNXZ "
+    },
+    {
+        "input": "YEANS ",
+        "output": " YIY5NZ "
+    },
+    {
+        "input": "YEAOMAN ",
+        "output": " YIY5AAMAEN "
+    },
+    {
+        "input": "YEAR ",
+        "output": " YIY5R "
+    },
+    {
+        "input": "YEAR'S ",
+        "output": " YIY5RS "
+    },
+    {
+        "input": "YEARA ",
+        "output": " YIY5RAH "
+    },
+    {
+        "input": "YEARBIRD ",
+        "output": " YIY5RBERD "
+    },
+    {
+        "input": "YEARBOOK ",
+        "output": " YIY5RBUH5K "
+    },
+    {
+        "input": "YEARBOOKS ",
+        "output": " YIY5RBUH5KS "
+    },
+    {
+        "input": "YEARD ",
+        "output": " YIY5RD "
+    },
+    {
+        "input": "YEARDAY ",
+        "output": " YIY5RDEY5 "
+    },
+    {
+        "input": "YEARED ",
+        "output": " YIY5RD "
+    },
+    {
+        "input": "YEAREND ",
+        "output": " YIY5REHND "
+    },
+    {
+        "input": "YEARENDS ",
+        "output": " YIY5REHNDZ "
+    },
+    {
+        "input": "YEARFUL ",
+        "output": " YIY5RFUHL "
+    },
+    {
+        "input": "YEARLIES ",
+        "output": " YIY5RLIYZ "
+    },
+    {
+        "input": "YEARLING ",
+        "output": " YIY5RULIHNX "
+    },
+    {
+        "input": "YEARLINGS ",
+        "output": " YIY5RULIHNXZ "
+    },
+    {
+        "input": "YEARLONG ",
+        "output": " YIY5RLAONX "
+    },
+    {
+        "input": "YEARLY ",
+        "output": " YIY5RLIY "
+    },
+    {
+        "input": "YEARN ",
+        "output": " YER5N "
+    },
+    {
+        "input": "YEARNED ",
+        "output": " YER5ND "
+    },
+    {
+        "input": "YEARNER ",
+        "output": " YER5NER "
+    },
+    {
+        "input": "YEARNERS ",
+        "output": " YER5NERZ "
+    },
+    {
+        "input": "YEARNFUL ",
+        "output": " YER5NFUHL "
+    },
+    {
+        "input": "YEARNFULLY ",
+        "output": " YER5NFUHLIY "
+    },
+    {
+        "input": "YEARNFULNESS ",
+        "output": " YER5NFUHLNEHS "
+    },
+    {
+        "input": "YEARNING ",
+        "output": " YER5NIHNX "
+    },
+    {
+        "input": "YEARNINGLY ",
+        "output": " YER5NIHNXLIY "
+    },
+    {
+        "input": "YEARNINGS ",
+        "output": " YER5NIHNXZ "
+    },
+    {
+        "input": "YEARNLING ",
+        "output": " YER5NULIHNX "
+    },
+    {
+        "input": "YEARNS ",
+        "output": " YER5NZ "
+    },
+    {
+        "input": "YEAROCK ",
+        "output": " YIY5RAAK "
+    },
+    {
+        "input": "YEARS ",
+        "output": " YIY5RZ "
+    },
+    {
+        "input": "YEARTH ",
+        "output": " YIY5RTH "
+    },
+    {
+        "input": "YEAS ",
+        "output": " YIY5Z "
+    },
+    {
+        "input": "YEASAYER ",
+        "output": " YIY5ZEY5ER "
+    },
+    {
+        "input": "YEASAYERS ",
+        "output": " YIY5ZEY5ERZ "
+    },
+    {
+        "input": "YEAST ",
+        "output": " YIY5ST "
+    },
+    {
+        "input": "YEAST'S ",
+        "output": " YIY5STS "
+    },
+    {
+        "input": "YEASTED ",
+        "output": " YIY5STIXD "
+    },
+    {
+        "input": "YEASTIER ",
+        "output": " YIY5STIYER "
+    },
+    {
+        "input": "YEASTIEST ",
+        "output": " YIY5STIYEHST "
+    },
+    {
+        "input": "YEASTILY ",
+        "output": " YIY5STIHLIY "
+    },
+    {
+        "input": "YEASTINESS ",
+        "output": " YIY5STIHNEHS "
+    },
+    {
+        "input": "YEASTING ",
+        "output": " YIY5STIHNX "
+    },
+    {
+        "input": "YEASTLESS ",
+        "output": " YIY5SULS "
+    },
+    {
+        "input": "YEASTLIKE ",
+        "output": " YIY5STLIHK "
+    },
+    {
+        "input": "YEASTS ",
+        "output": " YIY5STS "
+    },
+    {
+        "input": "YEASTY ",
+        "output": " YIY5STIY "
+    },
+    {
+        "input": "YEAT ",
+        "output": " YIY5T "
+    },
+    {
+        "input": "YEATHER ",
+        "output": " YIY5DHER "
+    },
+    {
+        "input": "YECCH ",
+        "output": " YEHKCH "
+    },
+    {
+        "input": "YECCHS ",
+        "output": " YEHKCHS "
+    },
+    {
+        "input": "YECCHY ",
+        "output": " YEHKCHIY "
+    },
+    {
+        "input": "YECH ",
+        "output": " YEHCH "
+    },
+    {
+        "input": "YECHS ",
+        "output": " YEHCHS "
+    },
+    {
+        "input": "YECHY ",
+        "output": " YEHCHIY "
+    },
+    {
+        "input": "YED ",
+        "output": " YD "
+    },
+    {
+        "input": "YEDDING ",
+        "output": " YEHDDIHNX "
+    },
+    {
+        "input": "YEDE ",
+        "output": " YIY4D "
+    },
+    {
+        "input": "YEDERLY ",
+        "output": " YIY4DERLIY "
+    },
+    {
+        "input": "YEE ",
+        "output": " YIY4 "
+    },
+    {
+        "input": "YEECH ",
+        "output": " YIY4CH "
+    },
+    {
+        "input": "YEEL ",
+        "output": " YIY4L "
+    },
+    {
+        "input": "YEELAMAN ",
+        "output": " YIY4LAEMAEN "
+    },
+    {
+        "input": "YEELIN ",
+        "output": " YIY4LIHN "
+    },
+    {
+        "input": "YEELINS ",
+        "output": " YIY4LIHNZ "
+    },
+    {
+        "input": "YEES ",
+        "output": " YIY4Z "
+    },
+    {
+        "input": "YEEUCH ",
+        "output": " YIY4AH5CH "
+    },
+    {
+        "input": "YEEUCK ",
+        "output": " YIY4AH5K "
+    },
+    {
+        "input": "YEGG ",
+        "output": " YEHG "
+    },
+    {
+        "input": "YEGGMAN ",
+        "output": " YEHGMAEN "
+    },
+    {
+        "input": "YEGGMEN ",
+        "output": " YEHGMEHN "
+    },
+    {
+        "input": "YEGGS ",
+        "output": " YEHGZ "
+    },
+    {
+        "input": "YEGUITA ",
+        "output": " YEHGWIHTAH "
+    },
+    {
+        "input": "YEH ",
+        "output": " YEH "
+    },
+    {
+        "input": "YELD ",
+        "output": " YEHLD "
+    },
+    {
+        "input": "YELDRIN ",
+        "output": " YEHLDRIHN "
+    },
+    {
+        "input": "YELDRINE ",
+        "output": " YEHLDRIHN "
+    },
+    {
+        "input": "YELDRING ",
+        "output": " YEHLDRIHNX "
+    },
+    {
+        "input": "YELDROCK ",
+        "output": " YEHLDRAAK "
+    },
+    {
+        "input": "YELEK ",
+        "output": " YEHLEHK "
+    },
+    {
+        "input": "YELK ",
+        "output": " YEHLK "
+    },
+    {
+        "input": "YELKS ",
+        "output": " YEHLKS "
+    },
+    {
+        "input": "YELL ",
+        "output": " YEHL "
+    },
+    {
+        "input": "YELLED ",
+        "output": " YEHLD "
+    },
+    {
+        "input": "YELLER ",
+        "output": " YEHLER "
+    },
+    {
+        "input": "YELLERS ",
+        "output": " YEHLERZ "
+    },
+    {
+        "input": "YELLING ",
+        "output": " YEHLIHNX "
+    },
+    {
+        "input": "YELLOCH ",
+        "output": " YEHLAACH "
+    },
+    {
+        "input": "YELLOW ",
+        "output": " YEHLOW "
+    },
+    {
+        "input": "YELLOWAMMER ",
+        "output": " YEHLOWAEMER "
+    },
+    {
+        "input": "YELLOWBACK ",
+        "output": " YEHLOWBAEK "
+    },
+    {
+        "input": "YELLOWBARK ",
+        "output": " YEHLOWBAA5RK "
+    },
+    {
+        "input": "YELLOWBELLIED ",
+        "output": " YEHLOWBEHLAY5D "
+    },
+    {
+        "input": "YELLOWBELLIES ",
+        "output": " YEHLOWBEHLIYZ "
+    },
+    {
+        "input": "YELLOWBELLY ",
+        "output": " YEHLOWBEHLIY "
+    },
+    {
+        "input": "YELLOWBERRIES ",
+        "output": " YEHLOWBERRIYZ "
+    },
+    {
+        "input": "YELLOWBERRY ",
+        "output": " YEHLOWBERRIY "
+    },
+    {
+        "input": "YELLOWBILL ",
+        "output": " YEHLOWBIHL "
+    },
+    {
+        "input": "YELLOWBIRD ",
+        "output": " YEHLOWBERD "
+    },
+    {
+        "input": "YELLOWCAKE ",
+        "output": " YEHLOWKEYK "
+    },
+    {
+        "input": "YELLOWCROWN ",
+        "output": " YEHLOWKROWN "
+    },
+    {
+        "input": "YELLOWCUP ",
+        "output": " YEHLOWKAHP "
+    },
+    {
+        "input": "YELLOWED ",
+        "output": " YEHLOWD "
+    },
+    {
+        "input": "YELLOWER ",
+        "output": " YEHLOWER "
+    },
+    {
+        "input": "YELLOWEST ",
+        "output": " YEHLOWEHST "
+    },
+    {
+        "input": "YELLOWFIN ",
+        "output": " YEHLOWFIHN "
+    },
+    {
+        "input": "YELLOWFISH ",
+        "output": " YEHLOWFIHSH "
+    },
+    {
+        "input": "YELLOWHAMMER ",
+        "output": " YEHLOW/HAEMER "
+    },
+    {
+        "input": "YELLOWHEAD ",
+        "output": " YEHLOW/HEHD "
+    },
+    {
+        "input": "YELLOWING ",
+        "output": " YEHLOWIHNX "
+    },
+    {
+        "input": "YELLOWISH ",
+        "output": " YEHLOWIHSH "
+    },
+    {
+        "input": "YELLOWISHNESS ",
+        "output": " YEHLOWIHSHNEHS "
+    },
+    {
+        "input": "YELLOWKNIFE ",
+        "output": " YEHLOWKNIHF "
+    },
+    {
+        "input": "YELLOWLEGS ",
+        "output": " YEHLOWLEHGZ "
+    },
+    {
+        "input": "YELLOWLY ",
+        "output": " YEHLOWLIY "
+    },
+    {
+        "input": "YELLOWMAN ",
+        "output": " YEHLOWMAEN "
+    },
+    {
+        "input": "YELLOWNESS ",
+        "output": " YEHLOWNEHS "
+    },
+    {
+        "input": "YELLOWROOT ",
+        "output": " YEHLOWRUW5T "
+    },
+    {
+        "input": "YELLOWRUMP ",
+        "output": " YEHLOWRAH5MP "
+    },
+    {
+        "input": "YELLOWS ",
+        "output": " YEHLOWZ "
+    },
+    {
+        "input": "YELLOWSEED ",
+        "output": " YEHLOWSIY4D "
+    },
+    {
+        "input": "YELLOWSHANK ",
+        "output": " YEHLOWSHAENXK "
+    },
+    {
+        "input": "YELLOWSHANKS ",
+        "output": " YEHLOWSHAENXKS "
+    },
+    {
+        "input": "YELLOWSHINS ",
+        "output": " YEHLOWSHIHNZ "
+    },
+    {
+        "input": "YELLOWSTONE ",
+        "output": " YEHLOWSTOW5N "
+    },
+    {
+        "input": "YELLOWTAIL ",
+        "output": " YEHLOWTEY4L "
+    },
+    {
+        "input": "YELLOWTAILS ",
+        "output": " YEHLOWTEY4LZ "
+    },
+    {
+        "input": "YELLOWTHORN ",
+        "output": " YEHLOWTHAORN "
+    },
+    {
+        "input": "YELLOWTHROAT ",
+        "output": " YEHLOWTHROW4T "
+    },
+    {
+        "input": "YELLOWTOP ",
+        "output": " YEHLOWTAAP "
+    },
+    {
+        "input": "YELLOWWARE ",
+        "output": " YEHLOWWEHR "
+    },
+    {
+        "input": "YELLOWWEED ",
+        "output": " YEHLOWWIY4D "
+    },
+    {
+        "input": "YELLOWWOOD ",
+        "output": " YEHLOWWUH5D "
+    },
+    {
+        "input": "YELLOWWORT ",
+        "output": " YEHLOWWERT "
+    },
+    {
+        "input": "YELLOWY ",
+        "output": " YEHLOWIY "
+    },
+    {
+        "input": "YELLS ",
+        "output": " YEHLZ "
+    },
+    {
+        "input": "YELM ",
+        "output": " YEHLM "
+    },
+    {
+        "input": "YELMER ",
+        "output": " YEHLMER "
+    },
+    {
+        "input": "YELP ",
+        "output": " YEHLP "
+    },
+    {
+        "input": "YELPED ",
+        "output": " YEHLPT "
+    },
+    {
+        "input": "YELPER ",
+        "output": " YEHLPER "
+    },
+    {
+        "input": "YELPERS ",
+        "output": " YEHLPERZ "
+    },
+    {
+        "input": "YELPING ",
+        "output": " YEHLPIHNX "
+    },
+    {
+        "input": "YELPS ",
+        "output": " YEHLS "
+    },
+    {
+        "input": "YELT ",
+        "output": " YEHLT "
+    },
+    {
+        "input": "YELVER ",
+        "output": " YEHLVER "
+    },
+    {
+        "input": "YEMELESS ",
+        "output": " YEHMIY4LEHS "
+    },
+    {
+        "input": "YEMEN ",
+        "output": " YEHMEHN "
+    },
+    {
+        "input": "YEMENITE ",
+        "output": " YEHMEHNAYT "
+    },
+    {
+        "input": "YEMENITES ",
+        "output": " YEHMEHNAYTS "
+    },
+    {
+        "input": "YEMING ",
+        "output": " YIY4MIHNX "
+    },
+    {
+        "input": "YEMSCHIK ",
+        "output": " YEHMSCHIHK "
+    },
+    {
+        "input": "YEMSEL ",
+        "output": " YEHMSEHL "
+    },
+    {
+        "input": "YEN ",
+        "output": " YEHN "
+    },
+    {
+        "input": "YENDER ",
+        "output": " YEHNDER "
+    },
+    {
+        "input": "YENGEES ",
+        "output": " YEHNJIY4Z "
+    },
+    {
+        "input": "YENI ",
+        "output": " YEHNAY "
+    },
+    {
+        "input": "YENITE ",
+        "output": " YEHNAYT "
+    },
+    {
+        "input": "YENNED ",
+        "output": " YEHND "
+    },
+    {
+        "input": "YENNING ",
+        "output": " YEHNIHNX "
+    },
+    {
+        "input": "YENS ",
+        "output": " YEHNZ "
+    },
+    {
+        "input": "YENTA ",
+        "output": " YEHNTAH "
+    },
+    {
+        "input": "YENTAS ",
+        "output": " YEHNTAES "
+    },
+    {
+        "input": "YENTE ",
+        "output": " YEHNT "
+    },
+    {
+        "input": "YENTES ",
+        "output": " YEHNTS "
+    },
+    {
+        "input": "YENTNITE ",
+        "output": " YEHNTNIHT "
+    },
+    {
+        "input": "YEO ",
+        "output": " YIYOW "
+    },
+    {
+        "input": "YEOM ",
+        "output": " YIYAAM "
+    },
+    {
+        "input": "YEOMAN ",
+        "output": " YIYAAMAEN "
+    },
+    {
+        "input": "YEOMANESS ",
+        "output": " YIYAAMEYNEHS "
+    },
+    {
+        "input": "YEOMANETTE ",
+        "output": " YIYAAMAENEHTT "
+    },
+    {
+        "input": "YEOMANHOOD ",
+        "output": " YIYAAMAEN/HUH5D "
+    },
+    {
+        "input": "YEOMANLIKE ",
+        "output": " YIYAAMAENLIHK "
+    },
+    {
+        "input": "YEOMANLY ",
+        "output": " YIYAAMAENLIY "
+    },
+    {
+        "input": "YEOMANRIES ",
+        "output": " YIYAAMAENRIYZ "
+    },
+    {
+        "input": "YEOMANRY ",
+        "output": " YIYAAMAENRIY "
+    },
+    {
+        "input": "YEOMANWISE ",
+        "output": " YIYAAMAENWAYZ "
+    },
+    {
+        "input": "YEOMEN ",
+        "output": " YIYOWMEHN "
+    },
+    {
+        "input": "YEORLING ",
+        "output": " YIYAORULIHNX "
+    },
+    {
+        "input": "YEOWOMAN ",
+        "output": " YIYOWAHMAEN "
+    },
+    {
+        "input": "YEOWOMEN ",
+        "output": " YIYOWOWMEHN "
+    },
+    {
+        "input": "YEP ",
+        "output": " YEHP "
+    },
+    {
+        "input": "YEPELEIC ",
+        "output": " YEHPEHLIY4K "
+    },
+    {
+        "input": "YEPELY ",
+        "output": " YIY4PLIY "
+    },
+    {
+        "input": "YEPHEDE ",
+        "output": " YEHFIY4D "
+    },
+    {
+        "input": "YEPLY ",
+        "output": " YEHPLIY "
+    },
+    {
+        "input": "YER ",
+        "output": " YER "
+    },
+    {
+        "input": "YERB ",
+        "output": " YERB "
+    },
+    {
+        "input": "YERBA ",
+        "output": " YERBAH "
+    },
+    {
+        "input": "YERBAL ",
+        "output": " YERBUL "
+    },
+    {
+        "input": "YERBALES ",
+        "output": " YERBEYLZ "
+    },
+    {
+        "input": "YERBAS ",
+        "output": " YERBAES "
+    },
+    {
+        "input": "YERCUM ",
+        "output": " YERKAHM "
+    },
+    {
+        "input": "YERD ",
+        "output": " YERD "
+    },
+    {
+        "input": "YERE ",
+        "output": " YIY4R "
+    },
+    {
+        "input": "YERGA ",
+        "output": " YERGAH "
+    },
+    {
+        "input": "YERK ",
+        "output": " YERK "
+    },
+    {
+        "input": "YERKED ",
+        "output": " YERKT "
+    },
+    {
+        "input": "YERKING ",
+        "output": " YERKIHNX "
+    },
+    {
+        "input": "YERKS ",
+        "output": " YERKS "
+    },
+    {
+        "input": "YERN ",
+        "output": " YERN "
+    },
+    {
+        "input": "YERTCHUK ",
+        "output": " YERTCHAHK "
+    },
+    {
+        "input": "YERTH ",
+        "output": " YERTH "
+    },
+    {
+        "input": "YERVA ",
+        "output": " YERVAH "
+    },
+    {
+        "input": "YES ",
+        "output": " YEHS "
+    },
+    {
+        "input": "YESE ",
+        "output": " YEHS "
+    },
+    {
+        "input": "YESES ",
+        "output": " YEHSIHZ "
+    },
+    {
+        "input": "YESHIVA ",
+        "output": " YEHS/HIHVAH "
+    },
+    {
+        "input": "YESHIVAH ",
+        "output": " YEHS/HIHVAE "
+    },
+    {
+        "input": "YESHIVAHS ",
+        "output": " YEHS/HIHVAES "
+    },
+    {
+        "input": "YESHIVAS ",
+        "output": " YEHS/HIHVAES "
+    },
+    {
+        "input": "YESHIVOT ",
+        "output": " YEHS/HIHVAAT "
+    },
+    {
+        "input": "YESHIVOTH ",
+        "output": " YEHS/HIHVAATH "
+    },
+    {
+        "input": "YESO ",
+        "output": " YEHSOW "
+    },
+    {
+        "input": "YESSED ",
+        "output": " YEHSST "
+    },
+    {
+        "input": "YESSES ",
+        "output": " YEHSSIHZ "
+    },
+    {
+        "input": "YESSING ",
+        "output": " YEHSSIHNX "
+    },
+    {
+        "input": "YESSO ",
+        "output": " YEHSSOW "
+    },
+    {
+        "input": "YEST ",
+        "output": " YEHST "
+    },
+    {
+        "input": "YESTER ",
+        "output": " YEHSTER "
+    },
+    {
+        "input": "YESTERDAY ",
+        "output": " YEHSTERDEY5 "
+    },
+    {
+        "input": "YESTERDAYNESS ",
+        "output": " YEHSTERDEY5NEHS "
+    },
+    {
+        "input": "YESTERDAYS ",
+        "output": " YEHSTERDEY5Z "
+    },
+    {
+        "input": "YESTEREVE ",
+        "output": " YEHSTERIY4V "
+    },
+    {
+        "input": "YESTEREVEN ",
+        "output": " YEHSTEREHVEHN "
+    },
+    {
+        "input": "YESTEREVENING ",
+        "output": " YEHSTEREHVIY4NIHNX "
+    },
+    {
+        "input": "YESTERMORN ",
+        "output": " YEHSTERMAORN "
+    },
+    {
+        "input": "YESTERMORNING ",
+        "output": " YEHSTERMAORNIHNX "
+    },
+    {
+        "input": "YESTERN ",
+        "output": " YEHSTERN "
+    },
+    {
+        "input": "YESTERNIGHT ",
+        "output": " YEHSTERNAY4T "
+    },
+    {
+        "input": "YESTERNOON ",
+        "output": " YEHSTERNUW5N "
+    },
+    {
+        "input": "YESTERWEEK ",
+        "output": " YEHSTERWIY4K "
+    },
+    {
+        "input": "YESTERYEAR ",
+        "output": " YEHSTERIYIY5R "
+    },
+    {
+        "input": "YESTERYEARS ",
+        "output": " YEHSTERIYIY5RZ "
+    },
+    {
+        "input": "YESTREEN ",
+        "output": " YEHSTRIY4N "
+    },
+    {
+        "input": "YESTREENS ",
+        "output": " YEHSTRIY4NZ "
+    },
+    {
+        "input": "YESTY ",
+        "output": " YEHSTIY "
+    },
+    {
+        "input": "YET ",
+        "output": " YEHT "
+    },
+    {
+        "input": "YETA ",
+        "output": " YEHTAH "
+    },
+    {
+        "input": "YETAPA ",
+        "output": " YEHTAEPAH "
+    },
+    {
+        "input": "YETH ",
+        "output": " YEHTH "
+    },
+    {
+        "input": "YETHER ",
+        "output": " YEHDHER "
+    },
+    {
+        "input": "YETHHOUNDS ",
+        "output": " YEHTH/HAWNDZ "
+    },
+    {
+        "input": "YETI ",
+        "output": " YEHTAY "
+    },
+    {
+        "input": "YETIS ",
+        "output": " YEHTIHS "
+    },
+    {
+        "input": "YETLIN ",
+        "output": " YEHTLIHN "
+    },
+    {
+        "input": "YETLING ",
+        "output": " YEHTULIHNX "
+    },
+    {
+        "input": "YETT ",
+        "output": " YEHTT "
+    },
+    {
+        "input": "YETTER ",
+        "output": " YEHTTER "
+    },
+    {
+        "input": "YETTS ",
+        "output": " YEHTTS "
+    },
+    {
+        "input": "YETZER ",
+        "output": " YEHTZER "
+    },
+    {
+        "input": "YEUK ",
+        "output": " YYUW5K "
+    },
+    {
+        "input": "YEUKED ",
+        "output": " YYUW5KT "
+    },
+    {
+        "input": "YEUKIENESS ",
+        "output": " YYUW5KIYEHNEHS "
+    },
+    {
+        "input": "YEUKING ",
+        "output": " YYUW5KIHNX "
+    },
+    {
+        "input": "YEUKS ",
+        "output": " YYUW5KS "
+    },
+    {
+        "input": "YEUKY ",
+        "output": " YYUW5KIY "
+    },
+    {
+        "input": "YEVEN ",
+        "output": " YEHVEHN "
+    },
+    {
+        "input": "YEW ",
+        "output": " YW "
+    },
+    {
+        "input": "YEWS ",
+        "output": " YWZ "
+    },
+    {
+        "input": "YEZIDI ",
+        "output": " YEHZAYDAY "
+    },
+    {
+        "input": "YEZZY ",
+        "output": " YEHZZIY "
+    },
+    {
+        "input": "YFACKS ",
+        "output": " YFAEKS "
+    },
+    {
+        "input": "YFERE ",
+        "output": " YFIY4R "
+    },
+    {
+        "input": "YFERRE ",
+        "output": " YFERR "
+    },
+    {
+        "input": "YGAPO ",
+        "output": " YGAEPOW "
+    },
+    {
+        "input": "YGERNE ",
+        "output": " YJERN "
+    },
+    {
+        "input": "YGGDRASIL ",
+        "output": " YGDRAEZIHL "
+    },
+    {
+        "input": "YHWH ",
+        "output": " YWH "
+    },
+    {
+        "input": "YI ",
+        "output": " YAY "
+    },
+    {
+        "input": "YID ",
+        "output": " YIHD "
+    },
+    {
+        "input": "YIDDISH ",
+        "output": " YIHDDIHSH "
+    },
+    {
+        "input": "YIDS ",
+        "output": " YIHDZ "
+    },
+    {
+        "input": "YIELD ",
+        "output": " YIY4LD "
+    },
+    {
+        "input": "YIELDABLE ",
+        "output": " YIY4LDAXBUL "
+    },
+    {
+        "input": "YIELDABLENESS ",
+        "output": " YIY4LDAXBULNEHS "
+    },
+    {
+        "input": "YIELDANCE ",
+        "output": " YIY4LDAENS "
+    },
+    {
+        "input": "YIELDED ",
+        "output": " YIY4LDIHD "
+    },
+    {
+        "input": "YIELDEN ",
+        "output": " YIY4LDEHN "
+    },
+    {
+        "input": "YIELDER ",
+        "output": " YIY4LDER "
+    },
+    {
+        "input": "YIELDERS ",
+        "output": " YIY4LDERZ "
+    },
+    {
+        "input": "YIELDING ",
+        "output": " YIY4LDIHNX "
+    },
+    {
+        "input": "YIELDINGLY ",
+        "output": " YIY4LDIHNXLIY "
+    },
+    {
+        "input": "YIELDINGNESS ",
+        "output": " YIY4LDIHNXNEHS "
+    },
+    {
+        "input": "YIELDS ",
+        "output": " YIY4LDZ "
+    },
+    {
+        "input": "YIELDY ",
+        "output": " YIY4LDIY "
+    },
+    {
+        "input": "YIGH ",
+        "output": " YAY4 "
+    },
+    {
+        "input": "YIKE ",
+        "output": " YAYK "
+    },
+    {
+        "input": "YIKES ",
+        "output": " YAYKS "
+    },
+    {
+        "input": "YILL ",
+        "output": " YIHL "
+    },
+    {
+        "input": "YILLS ",
+        "output": " YIHLZ "
+    },
+    {
+        "input": "YILT ",
+        "output": " YIHLT "
+    },
+    {
+        "input": "YIN ",
+        "output": " YIHN "
+    },
+    {
+        "input": "YINCE ",
+        "output": " YIHNS "
+    },
+    {
+        "input": "YINS ",
+        "output": " YIHNZ "
+    },
+    {
+        "input": "YINST ",
+        "output": " YIHNST "
+    },
+    {
+        "input": "YIP ",
+        "output": " YIHP "
+    },
+    {
+        "input": "YIPE ",
+        "output": " YAYP "
+    },
+    {
+        "input": "YIPES ",
+        "output": " YAYPS "
+    },
+    {
+        "input": "YIPPED ",
+        "output": " YIHPT "
+    },
+    {
+        "input": "YIPPEE ",
+        "output": " YIHPIY4 "
+    },
+    {
+        "input": "YIPPIE ",
+        "output": " YIHPIY "
+    },
+    {
+        "input": "YIPPIES ",
+        "output": " YIHPIYZ "
+    },
+    {
+        "input": "YIPPING ",
+        "output": " YIHPIHNX "
+    },
+    {
+        "input": "YIPS ",
+        "output": " YIHS "
+    },
+    {
+        "input": "YIRD ",
+        "output": " YERD "
+    },
+    {
+        "input": "YIRDS ",
+        "output": " YERDZ "
+    },
+    {
+        "input": "YIRK ",
+        "output": " YERK "
+    },
+    {
+        "input": "YIRM ",
+        "output": " YERM "
+    },
+    {
+        "input": "YIRMILIK ",
+        "output": " YERMIHLIHK "
+    },
+    {
+        "input": "YIRN ",
+        "output": " YERN "
+    },
+    {
+        "input": "YIRR ",
+        "output": " YERR "
+    },
+    {
+        "input": "YIRRED ",
+        "output": " YERRD "
+    },
+    {
+        "input": "YIRRING ",
+        "output": " YERRIHNX "
+    },
+    {
+        "input": "YIRRS ",
+        "output": " YERRZ "
+    },
+    {
+        "input": "YIRTH ",
+        "output": " YERTH "
+    },
+    {
+        "input": "YIRTHS ",
+        "output": " YERTHS "
+    },
+    {
+        "input": "YIS ",
+        "output": " YIHZ "
+    },
+    {
+        "input": "YITE ",
+        "output": " YAYT "
+    },
+    {
+        "input": "YIZKOR ",
+        "output": " YIHZKER "
+    },
+    {
+        "input": "YLAHAYLL ",
+        "output": " YLAE/HEY5L "
+    },
+    {
+        "input": "YLEM ",
+        "output": " YLEHM "
+    },
+    {
+        "input": "YLEMS ",
+        "output": " YLEHMZ "
+    },
+    {
+        "input": "YM ",
+        "output": " YM "
+    },
+    {
+        "input": "YMCA ",
+        "output": " YMKAH "
+    },
+    {
+        "input": "YN ",
+        "output": " YN "
+    },
+    {
+        "input": "YO ",
+        "output": " YOW "
+    },
+    {
+        "input": "YOB ",
+        "output": " YAAB "
+    },
+    {
+        "input": "YOBBO ",
+        "output": " YAABBOW "
+    },
+    {
+        "input": "YOBBOES ",
+        "output": " YAABBOWZ "
+    },
+    {
+        "input": "YOBBOS ",
+        "output": " YAABBAAS "
+    },
+    {
+        "input": "YOBI ",
+        "output": " YAABAY "
+    },
+    {
+        "input": "YOBS ",
+        "output": " YAABZ "
+    },
+    {
+        "input": "YOCCO ",
+        "output": " YAAKKOW "
+    },
+    {
+        "input": "YOCHEL ",
+        "output": " YAACHEHL "
+    },
+    {
+        "input": "YOCK ",
+        "output": " YAAK "
+    },
+    {
+        "input": "YOCKED ",
+        "output": " YAAKT "
+    },
+    {
+        "input": "YOCKEL ",
+        "output": " YAAKEHL "
+    },
+    {
+        "input": "YOCKERNUT ",
+        "output": " YAAKERNAHT "
+    },
+    {
+        "input": "YOCKING ",
+        "output": " YAAKIHNX "
+    },
+    {
+        "input": "YOCKS ",
+        "output": " YAAKS "
+    },
+    {
+        "input": "YOD ",
+        "output": " YAAD "
+    },
+    {
+        "input": "YODE ",
+        "output": " YOW5D "
+    },
+    {
+        "input": "YODEL ",
+        "output": " YAADEHL "
+    },
+    {
+        "input": "YODELED ",
+        "output": " YAADIY4LD "
+    },
+    {
+        "input": "YODELER ",
+        "output": " YAADIY4LER "
+    },
+    {
+        "input": "YODELERS ",
+        "output": " YAADIY4LERZ "
+    },
+    {
+        "input": "YODELING ",
+        "output": " YAADIY4LIHNX "
+    },
+    {
+        "input": "YODELIST ",
+        "output": " YAADEHLIHST "
+    },
+    {
+        "input": "YODELLED ",
+        "output": " YAADEHLD "
+    },
+    {
+        "input": "YODELLER ",
+        "output": " YAADEHLER "
+    },
+    {
+        "input": "YODELLERS ",
+        "output": " YAADEHLERZ "
+    },
+    {
+        "input": "YODELLING ",
+        "output": " YAADEHLIHNX "
+    },
+    {
+        "input": "YODELS ",
+        "output": " YAADEHLZ "
+    },
+    {
+        "input": "YODH ",
+        "output": " YAAD "
+    },
+    {
+        "input": "YODHS ",
+        "output": " YAADS "
+    },
+    {
+        "input": "YODLE ",
+        "output": " YAADUL "
+    },
+    {
+        "input": "YODLED ",
+        "output": " YAADULD "
+    },
+    {
+        "input": "YODLER ",
+        "output": " YAADULER "
+    },
+    {
+        "input": "YODLERS ",
+        "output": " YAADULERZ "
+    },
+    {
+        "input": "YODLES ",
+        "output": " YAADULZ "
+    },
+    {
+        "input": "YODLING ",
+        "output": " YAADULIHNX "
+    },
+    {
+        "input": "YODS ",
+        "output": " YAADZ "
+    },
+    {
+        "input": "YOE ",
+        "output": " YOW "
+    },
+    {
+        "input": "YOGA ",
+        "output": " YAAGAH "
+    },
+    {
+        "input": "YOGAS ",
+        "output": " YAAGAES "
+    },
+    {
+        "input": "YOGASANA ",
+        "output": " YAAGAEZAENAH "
+    },
+    {
+        "input": "YOGEE ",
+        "output": " YAAJIY4 "
+    },
+    {
+        "input": "YOGEEISM ",
+        "output": " YAAJIY4IHZUM "
+    },
+    {
+        "input": "YOGEES ",
+        "output": " YAAJIY4Z "
+    },
+    {
+        "input": "YOGH ",
+        "output": " YAA "
+    },
+    {
+        "input": "YOGHOURT ",
+        "output": " YAAOHRT "
+    },
+    {
+        "input": "YOGHOURTS ",
+        "output": " YAAOHRTS "
+    },
+    {
+        "input": "YOGHS ",
+        "output": " YAAS "
+    },
+    {
+        "input": "YOGHURT ",
+        "output": " YAAERT "
+    },
+    {
+        "input": "YOGHURTS ",
+        "output": " YAAERTS "
+    },
+    {
+        "input": "YOGI ",
+        "output": " YAAJAY "
+    },
+    {
+        "input": "YOGIC ",
+        "output": " YAAJIHK "
+    },
+    {
+        "input": "YOGIN ",
+        "output": " YAAJIHN "
+    },
+    {
+        "input": "YOGINI ",
+        "output": " YAAJIHNAY "
+    },
+    {
+        "input": "YOGINIS ",
+        "output": " YAAJIHNIHS "
+    },
+    {
+        "input": "YOGINS ",
+        "output": " YAAJIHNZ "
+    },
+    {
+        "input": "YOGIS ",
+        "output": " YAAJIHS "
+    },
+    {
+        "input": "YOGISM ",
+        "output": " YAAJIHZUM "
+    },
+    {
+        "input": "YOGIST ",
+        "output": " YAAJIHST "
+    },
+    {
+        "input": "YOGOITE ",
+        "output": " YAAGOY5T "
+    },
+    {
+        "input": "YOGURT ",
+        "output": " YAAGERT "
+    },
+    {
+        "input": "YOGURTS ",
+        "output": " YAAGERTS "
+    },
+    {
+        "input": "YOHIMBE ",
+        "output": " YAA/HIHMB "
+    },
+    {
+        "input": "YOHIMBENINE ",
+        "output": " YAA/HIHMBEHNAYN "
+    },
+    {
+        "input": "YOHIMBI ",
+        "output": " YAA/HIHMBAY "
+    },
+    {
+        "input": "YOHIMBIN ",
+        "output": " YAA/HIHMBIHN "
+    },
+    {
+        "input": "YOHIMBINE ",
+        "output": " YAA/HIHMBIHN "
+    },
+    {
+        "input": "YOHIMBINIZATION ",
+        "output": " YAA/HIHMBIHNIHZEY5SHUN "
+    },
+    {
+        "input": "YOHIMBINIZE ",
+        "output": " YAA/HIHMBIHNAYZ "
+    },
+    {
+        "input": "YOHO ",
+        "output": " YAA/HOW "
+    },
+    {
+        "input": "YOHOURT ",
+        "output": " YAA/HOHRT "
+    },
+    {
+        "input": "YOI ",
+        "output": " YOY5 "
+    },
+    {
+        "input": "YOICK ",
+        "output": " YOY5K "
+    },
+    {
+        "input": "YOICKS ",
+        "output": " YOY5KS "
+    },
+    {
+        "input": "YOJAN ",
+        "output": " YAAJAEN "
+    },
+    {
+        "input": "YOJANA ",
+        "output": " YAAJAENAH "
+    },
+    {
+        "input": "YOK ",
+        "output": " YAAK "
+    },
+    {
+        "input": "YOKAGE ",
+        "output": " YAAKIHJ "
+    },
+    {
+        "input": "YOKE ",
+        "output": " YOW5K "
+    },
+    {
+        "input": "YOKE'S ",
+        "output": " YAAKEHS "
+    },
+    {
+        "input": "YOKEABLE ",
+        "output": " YAAKIY5BUL "
+    },
+    {
+        "input": "YOKEABLENESS ",
+        "output": " YAAKIY5BLIY4NEHS "
+    },
+    {
+        "input": "YOKEAGE ",
+        "output": " YAAKIY5J "
+    },
+    {
+        "input": "YOKED ",
+        "output": " YOW5KT "
+    },
+    {
+        "input": "YOKEFELLOW ",
+        "output": " YAAKEHFEHLOW "
+    },
+    {
+        "input": "YOKEL ",
+        "output": " YAAKEHL "
+    },
+    {
+        "input": "YOKELDOM ",
+        "output": " YAAKEHLDAHM "
+    },
+    {
+        "input": "YOKELESS ",
+        "output": " YAAKIY4LEHS "
+    },
+    {
+        "input": "YOKELISH ",
+        "output": " YAAKEHLIHSH "
+    },
+    {
+        "input": "YOKELISM ",
+        "output": " YAAKEHLIHZUM "
+    },
+    {
+        "input": "YOKELRY ",
+        "output": " YAAKEHLRIY "
+    },
+    {
+        "input": "YOKELS ",
+        "output": " YAAKEHLZ "
+    },
+    {
+        "input": "YOKEMATE ",
+        "output": " YAAKEHMEYT "
+    },
+    {
+        "input": "YOKEMATES ",
+        "output": " YAAKEHMEYTS "
+    },
+    {
+        "input": "YOKEMATING ",
+        "output": " YAAKEHMEYTIHNX "
+    },
+    {
+        "input": "YOKER ",
+        "output": " YOW5KER "
+    },
+    {
+        "input": "YOKES ",
+        "output": " YOW5KS "
+    },
+    {
+        "input": "YOKEWISE ",
+        "output": " YAAKWAYZ "
+    },
+    {
+        "input": "YOKEWOOD ",
+        "output": " YAAKWUH5D "
+    },
+    {
+        "input": "YOKING ",
+        "output": " YOW5KIHNX "
+    },
+    {
+        "input": "YOKOHAMA ",
+        "output": " YAAKAA/HAEMAH "
+    },
+    {
+        "input": "YOKOZUNA ",
+        "output": " YAAKAAZUWNAH "
+    },
+    {
+        "input": "YOKOZUNAS ",
+        "output": " YAAKAAZUWNAES "
+    },
+    {
+        "input": "YOKS ",
+        "output": " YAAKS "
+    },
+    {
+        "input": "YOKY ",
+        "output": " YAAKIY "
+    },
+    {
+        "input": "YOLDEN ",
+        "output": " YOW4LDEHN "
+    },
+    {
+        "input": "YOLDRING ",
+        "output": " YOW4LDRIHNX "
+    },
+    {
+        "input": "YOLK ",
+        "output": " YAALK "
+    },
+    {
+        "input": "YOLKED ",
+        "output": " YAALKT "
+    },
+    {
+        "input": "YOLKIER ",
+        "output": " YAALKIYER "
+    },
+    {
+        "input": "YOLKIEST ",
+        "output": " YAALKIYEHST "
+    },
+    {
+        "input": "YOLKINESS ",
+        "output": " YAALKIHNEHS "
+    },
+    {
+        "input": "YOLKLESS ",
+        "output": " YAALKULEHS "
+    },
+    {
+        "input": "YOLKS ",
+        "output": " YAALKS "
+    },
+    {
+        "input": "YOLKY ",
+        "output": " YAALKIY "
+    },
+    {
+        "input": "YOM ",
+        "output": " YAAM "
+    },
+    {
+        "input": "YOMER ",
+        "output": " YOW5MER "
+    },
+    {
+        "input": "YOMIM ",
+        "output": " YAAMIHM "
+    },
+    {
+        "input": "YOMIN ",
+        "output": " YAAMIHN "
+    },
+    {
+        "input": "YON ",
+        "output": " YUN "
+    },
+    {
+        "input": "YONCOPIN ",
+        "output": " YUNKAAPIHN "
+    },
+    {
+        "input": "YOND ",
+        "output": " YUND "
+    },
+    {
+        "input": "YONDER ",
+        "output": " YUNDER "
+    },
+    {
+        "input": "YONDMOST ",
+        "output": " YUNDMOWST "
+    },
+    {
+        "input": "YONDWARD ",
+        "output": " YUNDWAORD "
+    },
+    {
+        "input": "YONI ",
+        "output": " YUNAY "
+    },
+    {
+        "input": "YONIC ",
+        "output": " YUNIHK "
+    },
+    {
+        "input": "YONIS ",
+        "output": " YUNIHS "
+    },
+    {
+        "input": "YONKER ",
+        "output": " YUNKER "
+    },
+    {
+        "input": "YONKERS ",
+        "output": " YUNKERZ "
+    },
+    {
+        "input": "YONNER ",
+        "output": " YUNER "
+    },
+    {
+        "input": "YONNIE ",
+        "output": " YUNIY "
+    },
+    {
+        "input": "YONSIDE ",
+        "output": " YUNSIHD "
+    },
+    {
+        "input": "YONT ",
+        "output": " YUNT "
+    },
+    {
+        "input": "YOOK ",
+        "output": " YUH5K "
+    },
+    {
+        "input": "YOOP ",
+        "output": " YUW5P "
+    },
+    {
+        "input": "YOR ",
+        "output": " YER "
+    },
+    {
+        "input": "YORE ",
+        "output": " YAOR "
+    },
+    {
+        "input": "YORES ",
+        "output": " YAORZ "
+    },
+    {
+        "input": "YORETIME ",
+        "output": " YAOREHTAYM "
+    },
+    {
+        "input": "YORK ",
+        "output": " YAORK "
+    },
+    {
+        "input": "YORKER ",
+        "output": " YAORKER "
+    },
+    {
+        "input": "YORKERS ",
+        "output": " YAORKERZ "
+    },
+    {
+        "input": "YORKISH ",
+        "output": " YAORKIHSH "
+    },
+    {
+        "input": "YORKIST ",
+        "output": " YAORKIHST "
+    },
+    {
+        "input": "YORKSHIRE ",
+        "output": " YAORKSHAYR "
+    },
+    {
+        "input": "YORLIN ",
+        "output": " YAORLIHN "
+    },
+    {
+        "input": "YORUBA ",
+        "output": " YAORUWBAH "
+    },
+    {
+        "input": "YOSEMITE ",
+        "output": " YAAZEHMIYT "
+    },
+    {
+        "input": "YOT ",
+        "output": " YAAT "
+    },
+    {
+        "input": "YOTACISM ",
+        "output": " YAATAESIHZUM "
+    },
+    {
+        "input": "YOTACIZE ",
+        "output": " YAATAESAYZ "
+    },
+    {
+        "input": "YOTE ",
+        "output": " YOW5T "
+    },
+    {
+        "input": "YOU ",
+        "output": " YUW "
+    },
+    {
+        "input": "YOU'D ",
+        "output": " YUWD "
+    },
+    {
+        "input": "YOU'LL ",
+        "output": " YUWL "
+    },
+    {
+        "input": "YOU'RE ",
+        "output": " YUWR "
+    },
+    {
+        "input": "YOU'VE ",
+        "output": " YUWV "
+    },
+    {
+        "input": "YOUD ",
+        "output": " YUWD "
+    },
+    {
+        "input": "YOUDEN ",
+        "output": " YUWDEHN "
+    },
+    {
+        "input": "YOUDITH ",
+        "output": " YUWDIHTH "
+    },
+    {
+        "input": "YOUFF ",
+        "output": " YUWF "
+    },
+    {
+        "input": "YOUNG ",
+        "output": " YAHNX "
+    },
+    {
+        "input": "YOUNGBERRIES ",
+        "output": " YAHNXBERRIYZ "
+    },
+    {
+        "input": "YOUNGBERRY ",
+        "output": " YAHNXBERRIY "
+    },
+    {
+        "input": "YOUNGER ",
+        "output": " YAHNXER "
+    },
+    {
+        "input": "YOUNGERS ",
+        "output": " YAHNXERZ "
+    },
+    {
+        "input": "YOUNGEST ",
+        "output": " YAHNXEHST "
+    },
+    {
+        "input": "YOUNGHEARTED ",
+        "output": " YAHNX/HIY5RTIXD "
+    },
+    {
+        "input": "YOUNGISH ",
+        "output": " YAHNXIHSH "
+    },
+    {
+        "input": "YOUNGLET ",
+        "output": " YAHNXLEHT "
+    },
+    {
+        "input": "YOUNGLING ",
+        "output": " YAHNXULIHNX "
+    },
+    {
+        "input": "YOUNGLINGS ",
+        "output": " YAHNXULIHNXZ "
+    },
+    {
+        "input": "YOUNGLY ",
+        "output": " YAHNXLIY "
+    },
+    {
+        "input": "YOUNGNESS ",
+        "output": " YAHNXNEHS "
+    },
+    {
+        "input": "YOUNGS ",
+        "output": " YAHNXZ "
+    },
+    {
+        "input": "YOUNGSTER ",
+        "output": " YAHNXSTER "
+    },
+    {
+        "input": "YOUNGSTER'S ",
+        "output": " YAHNXSTERS "
+    },
+    {
+        "input": "YOUNGSTERS ",
+        "output": " YAHNXSTERZ "
+    },
+    {
+        "input": "YOUNGSTOWN ",
+        "output": " YAHNXSTOWN "
+    },
+    {
+        "input": "YOUNGTH ",
+        "output": " YAHNXTH "
+    },
+    {
+        "input": "YOUNGUN ",
+        "output": " YAHNXAHN "
+    },
+    {
+        "input": "YOUNKER ",
+        "output": " YUWNXKER "
+    },
+    {
+        "input": "YOUNKERS ",
+        "output": " YUWNXKERZ "
+    },
+    {
+        "input": "YOUP ",
+        "output": " YUWP "
+    },
+    {
+        "input": "YOUPON ",
+        "output": " YUWPUN "
+    },
+    {
+        "input": "YOUPONS ",
+        "output": " YUWPUNZ "
+    },
+    {
+        "input": "YOUR ",
+        "output": " YOHR "
+    },
+    {
+        "input": "YOUR'N ",
+        "output": " YOHRN "
+    },
+    {
+        "input": "YOURE ",
+        "output": " YOHR "
+    },
+    {
+        "input": "YOURN ",
+        "output": " YOHRN "
+    },
+    {
+        "input": "YOURS ",
+        "output": " YOHRZ "
+    },
+    {
+        "input": "YOURSELF ",
+        "output": " YOHRSEHLF "
+    },
+    {
+        "input": "YOURSELVES ",
+        "output": " YOHRSEHLVZ "
+    },
+    {
+        "input": "YOURT ",
+        "output": " YOHRT "
+    },
+    {
+        "input": "YOUS ",
+        "output": " YUWS "
+    },
+    {
+        "input": "YOUSE ",
+        "output": " YUWZ "
+    },
+    {
+        "input": "YOUSTIR ",
+        "output": " YUWSTER "
+    },
+    {
+        "input": "YOUTH ",
+        "output": " YUWTH "
+    },
+    {
+        "input": "YOUTHEN ",
+        "output": " YUWTHEHN "
+    },
+    {
+        "input": "YOUTHENED ",
+        "output": " YUWTHIY4ND "
+    },
+    {
+        "input": "YOUTHENING ",
+        "output": " YUWTHIY4NIHNX "
+    },
+    {
+        "input": "YOUTHENS ",
+        "output": " YUWTHEHNZ "
+    },
+    {
+        "input": "YOUTHES ",
+        "output": " YUWTHS "
+    },
+    {
+        "input": "YOUTHFUL ",
+        "output": " YUWTHFUHL "
+    },
+    {
+        "input": "YOUTHFULLITY ",
+        "output": " YUWTHFUHLIHTIY "
+    },
+    {
+        "input": "YOUTHFULLY ",
+        "output": " YUWTHFUHLIY "
+    },
+    {
+        "input": "YOUTHFULNESS ",
+        "output": " YUWTHFUHLNEHS "
+    },
+    {
+        "input": "YOUTHHEAD ",
+        "output": " YUWTH/HEHD "
+    },
+    {
+        "input": "YOUTHHEID ",
+        "output": " YUWTH/HIY4D "
+    },
+    {
+        "input": "YOUTHHOOD ",
+        "output": " YUWTH/HUH5D "
+    },
+    {
+        "input": "YOUTHILY ",
+        "output": " YUWTHIHLIY "
+    },
+    {
+        "input": "YOUTHINESS ",
+        "output": " YUWTHIHNEHS "
+    },
+    {
+        "input": "YOUTHLESS ",
+        "output": " YUWTHULEHS "
+    },
+    {
+        "input": "YOUTHLESSNESS ",
+        "output": " YUWTHULEHSNEHS "
+    },
+    {
+        "input": "YOUTHLIKE ",
+        "output": " YUWTHLIHK "
+    },
+    {
+        "input": "YOUTHLIKENESS ",
+        "output": " YUWTHLIHKIY4NEHS "
+    },
+    {
+        "input": "YOUTHLY ",
+        "output": " YUWTHLIY "
+    },
+    {
+        "input": "YOUTHS ",
+        "output": " YUWTHS "
+    },
+    {
+        "input": "YOUTHSOME ",
+        "output": " YUWTHSAHM "
+    },
+    {
+        "input": "YOUTHTIDE ",
+        "output": " YUWTHTIHD "
+    },
+    {
+        "input": "YOUTHWORT ",
+        "output": " YUWTHWERT "
+    },
+    {
+        "input": "YOUTHY ",
+        "output": " YUWTHIY "
+    },
+    {
+        "input": "YOUVE ",
+        "output": " YUWV "
+    },
+    {
+        "input": "YOUWARD ",
+        "output": " YUWWAORD "
+    },
+    {
+        "input": "YOUWARDS ",
+        "output": " YUWWAORDZ "
+    },
+    {
+        "input": "YOUZE ",
+        "output": " YUWZ "
+    },
+    {
+        "input": "YOVEN ",
+        "output": " YAH4VEHN "
+    },
+    {
+        "input": "YOW ",
+        "output": " YOW "
+    },
+    {
+        "input": "YOWDEN ",
+        "output": " YOWDEHN "
+    },
+    {
+        "input": "YOWE ",
+        "output": " YOW "
+    },
+    {
+        "input": "YOWED ",
+        "output": " YOWD "
+    },
+    {
+        "input": "YOWES ",
+        "output": " YOWZ "
+    },
+    {
+        "input": "YOWIE ",
+        "output": " YOWIY "
+    },
+    {
+        "input": "YOWIES ",
+        "output": " YOWIYZ "
+    },
+    {
+        "input": "YOWING ",
+        "output": " YOWIHNX "
+    },
+    {
+        "input": "YOWL ",
+        "output": " YOWL "
+    },
+    {
+        "input": "YOWLED ",
+        "output": " YOWULD "
+    },
+    {
+        "input": "YOWLER ",
+        "output": " YOWULER "
+    },
+    {
+        "input": "YOWLERS ",
+        "output": " YOWULERZ "
+    },
+    {
+        "input": "YOWLEY ",
+        "output": " YOWLIY "
+    },
+    {
+        "input": "YOWLING ",
+        "output": " YOWULIHNX "
+    },
+    {
+        "input": "YOWLRING ",
+        "output": " YOWLRIHNX "
+    },
+    {
+        "input": "YOWLS ",
+        "output": " YOWLZ "
+    },
+    {
+        "input": "YOWS ",
+        "output": " YOWZ "
+    },
+    {
+        "input": "YOWT ",
+        "output": " YOWT "
+    },
+    {
+        "input": "YOX ",
+        "output": " YAAKS "
+    },
+    {
+        "input": "YOY ",
+        "output": " YOY "
+    },
+    {
+        "input": "YOYO ",
+        "output": " YOYOW "
+    },
+    {
+        "input": "YPERITE ",
+        "output": " YPEH4RIHT "
+    },
+    {
+        "input": "YPERITES ",
+        "output": " YPEH4RIHTS "
+    },
+    {
+        "input": "YPOCRAS ",
+        "output": " YPAAKRAES "
+    },
+    {
+        "input": "YPSILIFORM ",
+        "output": " YSIHLIHFAORM "
+    },
+    {
+        "input": "YPSILOID ",
+        "output": " YSIHLOY5D "
+    },
+    {
+        "input": "YR ",
+        "output": " YR "
+    },
+    {
+        "input": "YRBK ",
+        "output": " YRBK "
+    },
+    {
+        "input": "YRS ",
+        "output": " YRZ "
+    },
+    {
+        "input": "YS ",
+        "output": " YZ "
+    },
+    {
+        "input": "YT ",
+        "output": " YT "
+    },
+    {
+        "input": "YTTER ",
+        "output": " YTTER "
+    },
+    {
+        "input": "YTTERBIA ",
+        "output": " YTTERBIHAH "
+    },
+    {
+        "input": "YTTERBIAS ",
+        "output": " YTTERBIHAEZ "
+    },
+    {
+        "input": "YTTERBIC ",
+        "output": " YTTERBIHK "
+    },
+    {
+        "input": "YTTERBITE ",
+        "output": " YTTERBIHT "
+    },
+    {
+        "input": "YTTERBIUM ",
+        "output": " YTTERBIHAHM "
+    },
+    {
+        "input": "YTTERBOUS ",
+        "output": " YTTERBAXS "
+    },
+    {
+        "input": "YTTERITE ",
+        "output": " YTTEH4RIHT "
+    },
+    {
+        "input": "YTTRIA ",
+        "output": " YTTRIHAH "
+    },
+    {
+        "input": "YTTRIALITE ",
+        "output": " YTTRIHAELIHT "
+    },
+    {
+        "input": "YTTRIAS ",
+        "output": " YTTRIHAEZ "
+    },
+    {
+        "input": "YTTRIC ",
+        "output": " YTTRIHK "
+    },
+    {
+        "input": "YTTRIFEROUS ",
+        "output": " YTTRIHFERAXS "
+    },
+    {
+        "input": "YTTRIOUS ",
+        "output": " YTTRIHAXS "
+    },
+    {
+        "input": "YTTRIUM ",
+        "output": " YTTRIHAHM "
+    },
+    {
+        "input": "YTTRIUMS ",
+        "output": " YTTRIHAH5MZ "
+    },
+    {
+        "input": "YTTROCERITE ",
+        "output": " YTTROW5SEH4RIHT "
+    },
+    {
+        "input": "YTTROCOLUMBITE ",
+        "output": " YTTROW5KAALAH5MBIHT "
+    },
+    {
+        "input": "YTTROCRASITE ",
+        "output": " YTTROW5KRAEZIHT "
+    },
+    {
+        "input": "YTTROFLUORITE ",
+        "output": " YTTRAO4FLUWAORIHT "
+    },
+    {
+        "input": "YTTROGUMMITE ",
+        "output": " YTTROW5GAH5MIHT "
+    },
+    {
+        "input": "YTTROTANTALITE ",
+        "output": " YTTROW5TAENTAELIHT "
+    },
+    {
+        "input": "YUAN ",
+        "output": " YYUWAEN "
+    },
+    {
+        "input": "YUANS ",
+        "output": " YYUWAENZ "
+    },
+    {
+        "input": "YUCA ",
+        "output": " YYUWKAH "
+    },
+    {
+        "input": "YUCATEC ",
+        "output": " YYUWKAETEHK "
+    },
+    {
+        "input": "YUCCA ",
+        "output": " YAH5KKAH "
+    },
+    {
+        "input": "YUCCAS ",
+        "output": " YAH5KKAES "
+    },
+    {
+        "input": "YUCCH ",
+        "output": " YAH5KCH "
+    },
+    {
+        "input": "YUCH ",
+        "output": " YAH5CH "
+    },
+    {
+        "input": "YUCK ",
+        "output": " YAH5K "
+    },
+    {
+        "input": "YUCKED ",
+        "output": " YAH5KT "
+    },
+    {
+        "input": "YUCKEL ",
+        "output": " YAH5KEHL "
+    },
+    {
+        "input": "YUCKER ",
+        "output": " YAH5KER "
+    },
+    {
+        "input": "YUCKIER ",
+        "output": " YAH5KIYER "
+    },
+    {
+        "input": "YUCKIEST ",
+        "output": " YAH5KIYEHST "
+    },
+    {
+        "input": "YUCKING ",
+        "output": " YAH5KIHNX "
+    },
+    {
+        "input": "YUCKLE ",
+        "output": " YAH5KUL "
+    },
+    {
+        "input": "YUCKS ",
+        "output": " YAH5KS "
+    },
+    {
+        "input": "YUCKY ",
+        "output": " YAH5KIY "
+    },
+    {
+        "input": "YUFT ",
+        "output": " YAH5FT "
+    },
+    {
+        "input": "YUG ",
+        "output": " YAHG "
+    },
+    {
+        "input": "YUGA ",
+        "output": " YYUWGAH "
+    },
+    {
+        "input": "YUGADA ",
+        "output": " YYUWGAEDAH "
+    },
+    {
+        "input": "YUGAS ",
+        "output": " YYUWGAES "
+    },
+    {
+        "input": "YUGOSLAV ",
+        "output": " YYUWGAASLAEV "
+    },
+    {
+        "input": "YUGOSLAVIA ",
+        "output": " YYUWGAASLEY5VIHAH "
+    },
+    {
+        "input": "YUGOSLAVIAN ",
+        "output": " YYUWGAASLEY5VIHAEN "
+    },
+    {
+        "input": "YUGOSLAVIANS ",
+        "output": " YYUWGAASLEY5VIHAENZ "
+    },
+    {
+        "input": "YUGOSLAVS ",
+        "output": " YYUWGAASLAEVZ "
+    },
+    {
+        "input": "YUH ",
+        "output": " YAH "
+    },
+    {
+        "input": "YUK ",
+        "output": " YAHK "
+    },
+    {
+        "input": "YUKATA ",
+        "output": " YYUWKAETAH "
+    },
+    {
+        "input": "YUKE ",
+        "output": " YYUWK "
+    },
+    {
+        "input": "YUKKED ",
+        "output": " YAH5KKT "
+    },
+    {
+        "input": "YUKKEL ",
+        "output": " YAH5KKEHL "
+    },
+    {
+        "input": "YUKKING ",
+        "output": " YAH5KKIHNX "
+    },
+    {
+        "input": "YUKON ",
+        "output": " YYUWKUN "
+    },
+    {
+        "input": "YUKS ",
+        "output": " YAH5KS "
+    },
+    {
+        "input": "YULAN ",
+        "output": " YYUWLAEN "
+    },
+    {
+        "input": "YULANS ",
+        "output": " YYUWLAENZ "
+    },
+    {
+        "input": "YULE ",
+        "output": " YYUWL "
+    },
+    {
+        "input": "YULEBLOCK ",
+        "output": " YYUWLEHBLAAK "
+    },
+    {
+        "input": "YULES ",
+        "output": " YYUWLZ "
+    },
+    {
+        "input": "YULETIDE ",
+        "output": " YYUWLEHTAYD "
+    },
+    {
+        "input": "YULETIDES ",
+        "output": " YYUWLEHTAYDZ "
+    },
+    {
+        "input": "YUM ",
+        "output": " YAHM "
+    },
+    {
+        "input": "YUMAN ",
+        "output": " YYUWMAEN "
+    },
+    {
+        "input": "YUMMIER ",
+        "output": " YAH5MIYER "
+    },
+    {
+        "input": "YUMMIES ",
+        "output": " YAH5MIYZ "
+    },
+    {
+        "input": "YUMMIEST ",
+        "output": " YAH5MIYEHST "
+    },
+    {
+        "input": "YUMMY ",
+        "output": " YAH5MIY "
+    },
+    {
+        "input": "YUNGAN ",
+        "output": " YAH5NXGAEN "
+    },
+    {
+        "input": "YUNKER ",
+        "output": " YAH5NXKER "
+    },
+    {
+        "input": "YUP ",
+        "output": " YAHP "
+    },
+    {
+        "input": "YUPON ",
+        "output": " YYUWPUN "
+    },
+    {
+        "input": "YUPONS ",
+        "output": " YYUWPUNZ "
+    },
+    {
+        "input": "YUPPIE ",
+        "output": " YAH5PIY "
+    },
+    {
+        "input": "YUQUILLA ",
+        "output": " YYUWKWIHLAH "
+    },
+    {
+        "input": "YUQUILLAS ",
+        "output": " YYUWKWIHLAES "
+    },
+    {
+        "input": "YURT ",
+        "output": " YERT "
+    },
+    {
+        "input": "YURTA ",
+        "output": " YERTAH "
+    },
+    {
+        "input": "YURTS ",
+        "output": " YERTS "
+    },
+    {
+        "input": "YUS ",
+        "output": " YAHS "
+    },
+    {
+        "input": "YUSDRUM ",
+        "output": " YAH5SDRAHM "
+    },
+    {
+        "input": "YUTU ",
+        "output": " YYUWTUW "
+    },
+    {
+        "input": "YUZLIK ",
+        "output": " YAH5ZLIHK "
+    },
+    {
+        "input": "YUZLUK ",
+        "output": " YAH5ZLAHK "
+    },
+    {
+        "input": "YWCA ",
+        "output": " YWKAH "
+    },
+    {
+        "input": "YWIS ",
+        "output": " YWIHS "
+    }
+]

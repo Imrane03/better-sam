@@ -1,0 +1,84 @@
+{
+  "name": "sam-js",
+  "version": "0.1.2",
+  "description": "SAM - The Software Automatic Mouth",
+  "author": "Christian Schiffler <c.schiffler@cyberspectrum.de>",
+  "private": false,
+  "main": "dist/samjs.js",
+  "module": "dist/samjs.esm.js",
+  "scripts": {
+    "dev": "rollup -w -c build/config.js --environment TARGET:dev",
+    "dev:cjs": "rollup -w -c build/config.js --environment TARGET:cjs",
+    "dev:esm": "rollup -w -c build/config.js --environment TARGET:esm",
+    "guessnum-dev": "rollup -w -c build/config.js --environment TARGET:guessnum-demo-dev",
+    "prod": "rollup -w -c build/config.js --environment TARGET:prod",
+    "build": "node build/build.js",
+    "test": "yarn run -s t-1 && yarn run -s t-2 && yarn run -s t-3 && yarn run -s t-4 && yarn run -s t-5",
+    "t-1": "mocha --check-leaks --reporter progress --require @babel/register test/minimum-tests.spec.js",
+    "t-2": "mocha --check-leaks --reporter progress --require @babel/register test/reciter/tests-1.spec.js",
+    "t-3": "mocha --check-leaks --reporter progress --require @babel/register test/reciter/tests-2.spec.js",
+    "t-4": "mocha --check-leaks --reporter progress --require @babel/register test/reciter/tests-3.spec.js",
+    "t-5": "mocha --check-leaks --reporter progress --require @babel/register test/reciter/tests-4.spec.js",
+    "test-browser": "karma start",
+    "test-browser2": "karma start --single-run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/plugin-transform-runtime": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/register": "^7.6.0",
+    "@babel/runtime": "^7.6.0",
+    "@rollup/plugin-buble": "^0.21.3",
+    "@rollup/plugin-replace": "^2.3.2",
+    "babel-cli": "^6.26.0",
+    "babelify": "^10.0.0",
+    "browserify": "^16.5.0",
+    "chai": "^4.1.2",
+    "fs": "0.0.1-security",
+    "karma": "^4.3.0",
+    "karma-babel-preprocessor": "^8.0.1",
+    "karma-browserify": "^6.1.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-commonjs": "^1.0.0",
+    "karma-mocha": "^1.3.0",
+    "karma-mocha-reporter": "^2.2.5",
+    "karma-sourcemap-loader": "^0.3.7",
+    "mocha": "^6.2.0",
+    "nyc": "^14.1.1",
+    "path": "^0.12.7",
+    "rollup": "^1.32.1",
+    "rollup-plugin-flow-no-whitespace": "^1.0.0",
+    "uglify-es": "^3.3.10",
+    "uglify-js": "^3.9.1",
+    "watchify": "^3.11.0"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "yarn": ">= 1.17.3"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/discordier/sam.git"
+  },
+  "keywords": [
+    "speech",
+    "synthesis",
+    "retro",
+    "c64"
+  ],
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/discordier/sam/issues"
+  },
+  "homepage": "https://github.com/discordier/sam#readme"
+}

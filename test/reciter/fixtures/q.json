@@ -1,0 +1,7006 @@
+[
+    {
+        "input": "Q ",
+        "output": " KYUW4 "
+    },
+    {
+        "input": "Q'S ",
+        "output": " KS "
+    },
+    {
+        "input": "QABBALA ",
+        "output": " KAEBBAELAH "
+    },
+    {
+        "input": "QABBALAH ",
+        "output": " KAEBBAELAE "
+    },
+    {
+        "input": "QADARITE ",
+        "output": " KAEDEH4RIHT "
+    },
+    {
+        "input": "QADI ",
+        "output": " KEY4DAY "
+    },
+    {
+        "input": "QAF ",
+        "output": " KAEF "
+    },
+    {
+        "input": "QAID ",
+        "output": " KEY4D "
+    },
+    {
+        "input": "QAIDS ",
+        "output": " KEY4DZ "
+    },
+    {
+        "input": "QAIMAQAM ",
+        "output": " KEY4MAEKAEM "
+    },
+    {
+        "input": "QANAT ",
+        "output": " KAENAET "
+    },
+    {
+        "input": "QANATS ",
+        "output": " KAENAETS "
+    },
+    {
+        "input": "QANTAR ",
+        "output": " KAENTAA5R "
+    },
+    {
+        "input": "QASIDA ",
+        "output": " KEY4SIHDAH "
+    },
+    {
+        "input": "QASIDAS ",
+        "output": " KEY4SIHDAES "
+    },
+    {
+        "input": "QAT ",
+        "output": " KAET "
+    },
+    {
+        "input": "QATAR ",
+        "output": " KAETAA5R "
+    },
+    {
+        "input": "QATS ",
+        "output": " KAETS "
+    },
+    {
+        "input": "QE ",
+        "output": " KIY "
+    },
+    {
+        "input": "QED ",
+        "output": " KEHD "
+    },
+    {
+        "input": "QERE ",
+        "output": " KIY4R "
+    },
+    {
+        "input": "QERI ",
+        "output": " KEH4RIH "
+    },
+    {
+        "input": "QH ",
+        "output": " K "
+    },
+    {
+        "input": "QIANA ",
+        "output": " KIHAENAH "
+    },
+    {
+        "input": "QIBLA ",
+        "output": " KIHBLAH "
+    },
+    {
+        "input": "QID ",
+        "output": " KIHD "
+    },
+    {
+        "input": "QINDAR ",
+        "output": " KAY5NDAA5R "
+    },
+    {
+        "input": "QINDARKA ",
+        "output": " KAY5NDAA5RKAH "
+    },
+    {
+        "input": "QINDARS ",
+        "output": " KAY5NDAA5RZ "
+    },
+    {
+        "input": "QINTAR ",
+        "output": " KIHNTAA5R "
+    },
+    {
+        "input": "QINTARS ",
+        "output": " KIHNTAA5RZ "
+    },
+    {
+        "input": "QIVIUT ",
+        "output": " KIHVIHAHT "
+    },
+    {
+        "input": "QIVIUTS ",
+        "output": " KIHVIHAH5TS "
+    },
+    {
+        "input": "QIYAS ",
+        "output": " KIHIHAEZ "
+    },
+    {
+        "input": "QL ",
+        "output": " KL "
+    },
+    {
+        "input": "QM ",
+        "output": " KM "
+    },
+    {
+        "input": "QN ",
+        "output": " KN "
+    },
+    {
+        "input": "QOPH ",
+        "output": " KAAF "
+    },
+    {
+        "input": "QOPHS ",
+        "output": " KAAFS "
+    },
+    {
+        "input": "QP ",
+        "output": " KP "
+    },
+    {
+        "input": "QQV ",
+        "output": " KKV "
+    },
+    {
+        "input": "QR ",
+        "output": " KR "
+    },
+    {
+        "input": "QRS ",
+        "output": " KRZ "
+    },
+    {
+        "input": "QS ",
+        "output": " KS "
+    },
+    {
+        "input": "QT ",
+        "output": " KT "
+    },
+    {
+        "input": "QTAM ",
+        "output": " KTAEM "
+    },
+    {
+        "input": "QTD ",
+        "output": " KTD "
+    },
+    {
+        "input": "QTO ",
+        "output": " KTUX "
+    },
+    {
+        "input": "QTR ",
+        "output": " KTR "
+    },
+    {
+        "input": "QTS ",
+        "output": " KTS "
+    },
+    {
+        "input": "QTY ",
+        "output": " KTAY "
+    },
+    {
+        "input": "QU ",
+        "output": " KW "
+    },
+    {
+        "input": "QUA ",
+        "output": " KWAH "
+    },
+    {
+        "input": "QUAALUDE ",
+        "output": " KWAEAELUWD "
+    },
+    {
+        "input": "QUAALUDES ",
+        "output": " KWAEAELUWDZ "
+    },
+    {
+        "input": "QUAB ",
+        "output": " KWAEB "
+    },
+    {
+        "input": "QUABIRD ",
+        "output": " KWAEBERD "
+    },
+    {
+        "input": "QUACHIL ",
+        "output": " KWAECHIHL "
+    },
+    {
+        "input": "QUACK ",
+        "output": " KWAEK "
+    },
+    {
+        "input": "QUACKED ",
+        "output": " KWAEKT "
+    },
+    {
+        "input": "QUACKERIES ",
+        "output": " KWAEKIY4RIYZ "
+    },
+    {
+        "input": "QUACKERY ",
+        "output": " KWAEKERIY "
+    },
+    {
+        "input": "QUACKHOOD ",
+        "output": " KWAEK/HUH5D "
+    },
+    {
+        "input": "QUACKIER ",
+        "output": " KWAEKIYER "
+    },
+    {
+        "input": "QUACKIEST ",
+        "output": " KWAEKIYEHST "
+    },
+    {
+        "input": "QUACKING ",
+        "output": " KWAEKIHNX "
+    },
+    {
+        "input": "QUACKISH ",
+        "output": " KWAEKIHSH "
+    },
+    {
+        "input": "QUACKISHLY ",
+        "output": " KWAEKIHSHLIY "
+    },
+    {
+        "input": "QUACKISHNESS ",
+        "output": " KWAEKIHSHNEHS "
+    },
+    {
+        "input": "QUACKISM ",
+        "output": " KWAEKIHZUM "
+    },
+    {
+        "input": "QUACKISMS ",
+        "output": " KWAEKIHZUMZ "
+    },
+    {
+        "input": "QUACKLE ",
+        "output": " KWAEKUL "
+    },
+    {
+        "input": "QUACKS ",
+        "output": " KWAEKS "
+    },
+    {
+        "input": "QUACKSALVER ",
+        "output": " KWAEKSAOLVER "
+    },
+    {
+        "input": "QUACKSTER ",
+        "output": " KWAEKSTER "
+    },
+    {
+        "input": "QUACKY ",
+        "output": " KWAEKIY "
+    },
+    {
+        "input": "QUAD ",
+        "output": " KWAED "
+    },
+    {
+        "input": "QUADDED ",
+        "output": " KWAEDDIHD "
+    },
+    {
+        "input": "QUADDING ",
+        "output": " KWAEDDIHNX "
+    },
+    {
+        "input": "QUADDLE ",
+        "output": " KWAEDDUL "
+    },
+    {
+        "input": "QUADER ",
+        "output": " KWEYDER "
+    },
+    {
+        "input": "QUADLE ",
+        "output": " KWAEDUL "
+    },
+    {
+        "input": "QUADMETER ",
+        "output": " KWAEDMIY4TER "
+    },
+    {
+        "input": "QUADPLEX ",
+        "output": " KWAEDPLEHKS "
+    },
+    {
+        "input": "QUADPLEXES ",
+        "output": " KWAEDPLIY4KSIHZ "
+    },
+    {
+        "input": "QUADRA ",
+        "output": " KWAEDRAH "
+    },
+    {
+        "input": "QUADRABLE ",
+        "output": " KWAEDRAXBUL "
+    },
+    {
+        "input": "QUADRAE ",
+        "output": " KWAEDRAE "
+    },
+    {
+        "input": "QUADRAGENARIAN ",
+        "output": " KWAEDRIHJEHNEH4RIHAEN "
+    },
+    {
+        "input": "QUADRAGENARIOUS ",
+        "output": " KWAEDRIHJEHNEH4RIHAXS "
+    },
+    {
+        "input": "QUADRAGESIMA ",
+        "output": " KWAEDRIHJEHZIHMAH "
+    },
+    {
+        "input": "QUADRAGESIMAL ",
+        "output": " KWAEDRIHJEHZIHMUL "
+    },
+    {
+        "input": "QUADRAGINTESIMAL ",
+        "output": " KWAEDRAEJIHNTEHZIHMUL "
+    },
+    {
+        "input": "QUADRAL ",
+        "output": " KWAEDRUL "
+    },
+    {
+        "input": "QUADRANGLE ",
+        "output": " KWAEDRAENXGUL "
+    },
+    {
+        "input": "QUADRANGLED ",
+        "output": " KWAEDRAENXGULD "
+    },
+    {
+        "input": "QUADRANGLES ",
+        "output": " KWAEDRAENXGULZ "
+    },
+    {
+        "input": "QUADRANGULAR ",
+        "output": " KWAEDRAENXGYUWLAA5R "
+    },
+    {
+        "input": "QUADRANGULARLY ",
+        "output": " KWAEDRAENXGYUWLAA5RLIY "
+    },
+    {
+        "input": "QUADRANGULARNESS ",
+        "output": " KWAEDRAENXGYUWLAA5RNEHS "
+    },
+    {
+        "input": "QUADRANGULATE ",
+        "output": " KWAEDRAENXGYUWLEYT "
+    },
+    {
+        "input": "QUADRANGULED ",
+        "output": " KWAEDRAENXGYUWLD "
+    },
+    {
+        "input": "QUADRANS ",
+        "output": " KWAEDRAENZ "
+    },
+    {
+        "input": "QUADRANT ",
+        "output": " KWAEDRAENT "
+    },
+    {
+        "input": "QUADRANT'S ",
+        "output": " KWAEDRAENTS "
+    },
+    {
+        "input": "QUADRANTAL ",
+        "output": " KWAEDRAENTUL "
+    },
+    {
+        "input": "QUADRANTES ",
+        "output": " KWAEDRAENTS "
+    },
+    {
+        "input": "QUADRANTILE ",
+        "output": " KWAEDRAENTIHL "
+    },
+    {
+        "input": "QUADRANTLIKE ",
+        "output": " KWAEDRAENTLIHK "
+    },
+    {
+        "input": "QUADRANTLY ",
+        "output": " KWAEDRAENTLIY "
+    },
+    {
+        "input": "QUADRANTS ",
+        "output": " KWAEDRAENTS "
+    },
+    {
+        "input": "QUADRAPHONIC ",
+        "output": " KWAEDRAEFUNIHK "
+    },
+    {
+        "input": "QUADRAPHONICS ",
+        "output": " KWAEDRAEFUNIHKS "
+    },
+    {
+        "input": "QUADRAT ",
+        "output": " KWAEDRAET "
+    },
+    {
+        "input": "QUADRATE ",
+        "output": " KWAEDREYT "
+    },
+    {
+        "input": "QUADRATED ",
+        "output": " KWAEDREYTIXD "
+    },
+    {
+        "input": "QUADRATENESS ",
+        "output": " KWAEDRAETIY4NEHS "
+    },
+    {
+        "input": "QUADRATES ",
+        "output": " KWAEDREYTS "
+    },
+    {
+        "input": "QUADRATIC ",
+        "output": " KWAEDRAETIHK "
+    },
+    {
+        "input": "QUADRATICAL ",
+        "output": " KWAEDRAETIHKUL "
+    },
+    {
+        "input": "QUADRATICALLY ",
+        "output": " KWAEDRAETIHKULIY "
+    },
+    {
+        "input": "QUADRATICS ",
+        "output": " KWAEDRAETIHKS "
+    },
+    {
+        "input": "QUADRATIFEROUS ",
+        "output": " KWAEDRAETIHFERAXS "
+    },
+    {
+        "input": "QUADRATING ",
+        "output": " KWAEDREYTIHNX "
+    },
+    {
+        "input": "QUADRATOJUGAL ",
+        "output": " KWAEDRAETAAJUWGUL "
+    },
+    {
+        "input": "QUADRATOMANDIBULAR ",
+        "output": " KWAEDRAETAHMAENDIHBYUWLAA5R "
+    },
+    {
+        "input": "QUADRATOR ",
+        "output": " KWAEDRAETER "
+    },
+    {
+        "input": "QUADRATOSQUAMOSAL ",
+        "output": " KWAEDRAETAASKWAEMAAZUL "
+    },
+    {
+        "input": "QUADRATRIX ",
+        "output": " KWAEDRAETRIHKS "
+    },
+    {
+        "input": "QUADRATS ",
+        "output": " KWAEDRAETS "
+    },
+    {
+        "input": "QUADRATUM ",
+        "output": " KWAEDRAETAHM "
+    },
+    {
+        "input": "QUADRATURE ",
+        "output": " KWAEDRAECHER "
+    },
+    {
+        "input": "QUADRATURE'S ",
+        "output": " KWAEDRAECHEREHS "
+    },
+    {
+        "input": "QUADRATURES ",
+        "output": " KWAEDRAECHERZ "
+    },
+    {
+        "input": "QUADRATUS ",
+        "output": " KWAEDRAETAHS "
+    },
+    {
+        "input": "QUADRAURICULAR ",
+        "output": " KWAEDRAO4RIHKYUWLAA5R "
+    },
+    {
+        "input": "QUADREL ",
+        "output": " KWAEDREHL "
+    },
+    {
+        "input": "QUADRELLA ",
+        "output": " KWAEDREHLAH "
+    },
+    {
+        "input": "QUADRENNIA ",
+        "output": " KWAEDREHNIHAH "
+    },
+    {
+        "input": "QUADRENNIAL ",
+        "output": " KWAEDREHNIHUL "
+    },
+    {
+        "input": "QUADRENNIALLY ",
+        "output": " KWAEDREHNIHULIY "
+    },
+    {
+        "input": "QUADRENNIALS ",
+        "output": " KWAEDREHNIHULZ "
+    },
+    {
+        "input": "QUADRENNIUM ",
+        "output": " KWAEDREHNIHAHM "
+    },
+    {
+        "input": "QUADRENNIUMS ",
+        "output": " KWAEDREHNIHAH5MZ "
+    },
+    {
+        "input": "QUADRIAD ",
+        "output": " KWAEDRIHAED "
+    },
+    {
+        "input": "QUADRIALATE ",
+        "output": " KWAEDRIHAELEYT "
+    },
+    {
+        "input": "QUADRIANNULATE ",
+        "output": " KWAEDRIHAENUWLEYT "
+    },
+    {
+        "input": "QUADRIARTICULATE ",
+        "output": " KWAEDRIHAA5RTIHKYUWLEYT "
+    },
+    {
+        "input": "QUADRIARTICULATED ",
+        "output": " KWAEDRIHAA5RTIHKYUWLEYTIXD "
+    },
+    {
+        "input": "QUADRIBASIC ",
+        "output": " KWAEDRIHBAEZIHK "
+    },
+    {
+        "input": "QUADRIC ",
+        "output": " KWAEDRIHK "
+    },
+    {
+        "input": "QUADRICAPSULAR ",
+        "output": " KWAEDRIHKAESUWLAA5R "
+    },
+    {
+        "input": "QUADRICAPSULATE ",
+        "output": " KWAEDRIHKAESUWLEYT "
+    },
+    {
+        "input": "QUADRICARINATE ",
+        "output": " KWAEDRIHKEH4RIHNEYT "
+    },
+    {
+        "input": "QUADRICELLULAR ",
+        "output": " KWAEDRIHSEHLUWLAA5R "
+    },
+    {
+        "input": "QUADRICENTENNIAL ",
+        "output": " KWAEDRIHSEHNTEHNIHUL "
+    },
+    {
+        "input": "QUADRICENTENNIALS ",
+        "output": " KWAEDRIHSEHNTEHNIHULZ "
+    },
+    {
+        "input": "QUADRICEPS ",
+        "output": " KWAEDRIHSEHS "
+    },
+    {
+        "input": "QUADRICEPSES ",
+        "output": " KWAEDRIHSEHSIHZ "
+    },
+    {
+        "input": "QUADRICHORD ",
+        "output": " KWAEDRIHCHAORD "
+    },
+    {
+        "input": "QUADRICILIATE ",
+        "output": " KWAEDRIHSIHLIHEYT "
+    },
+    {
+        "input": "QUADRICINIUM ",
+        "output": " KWAEDRIHSIHNIHAHM "
+    },
+    {
+        "input": "QUADRICIPITAL ",
+        "output": " KWAEDRIHSIHPIHTUL "
+    },
+    {
+        "input": "QUADRICONE ",
+        "output": " KWAEDRIHKOW5N "
+    },
+    {
+        "input": "QUADRICORN ",
+        "output": " KWAEDRIHKAORN "
+    },
+    {
+        "input": "QUADRICORNOUS ",
+        "output": " KWAEDRIHKAORNAXS "
+    },
+    {
+        "input": "QUADRICOSTATE ",
+        "output": " KWAEDRIHKOWSTEYT "
+    },
+    {
+        "input": "QUADRICOTYLEDONOUS ",
+        "output": " KWAEDRIHKAATIYLEHDUNAXS "
+    },
+    {
+        "input": "QUADRICOVARIANT ",
+        "output": " KWAEDRIHKAH4VEH4RIHAENT "
+    },
+    {
+        "input": "QUADRICRESCENTIC ",
+        "output": " KWAEDRIHKREHSEHNTIHK "
+    },
+    {
+        "input": "QUADRICRESCENTOID ",
+        "output": " KWAEDRIHKREHSEHNTOY5D "
+    },
+    {
+        "input": "QUADRICS ",
+        "output": " KWAEDRIHKS "
+    },
+    {
+        "input": "QUADRICUSPID ",
+        "output": " KWAEDRIHKAH5SPIHD "
+    },
+    {
+        "input": "QUADRICUSPIDAL ",
+        "output": " KWAEDRIHKAH5SPIHDUL "
+    },
+    {
+        "input": "QUADRICUSPIDATE ",
+        "output": " KWAEDRIHKAH5SPIHDEYT "
+    },
+    {
+        "input": "QUADRICYCLE ",
+        "output": " KWAEDRIHSIYKUL "
+    },
+    {
+        "input": "QUADRICYCLER ",
+        "output": " KWAEDRIHSIYKULER "
+    },
+    {
+        "input": "QUADRICYCLIST ",
+        "output": " KWAEDRIHSIYKLIHST "
+    },
+    {
+        "input": "QUADRIDENTATE ",
+        "output": " KWAEDRIHDEHNTEYT "
+    },
+    {
+        "input": "QUADRIDENTATED ",
+        "output": " KWAEDRIHDEHNTEYTIXD "
+    },
+    {
+        "input": "QUADRIDERIVATIVE ",
+        "output": " KWAEDRIHDEH4RIHVAETIHV "
+    },
+    {
+        "input": "QUADRIDIGITATE ",
+        "output": " KWAEDRIHDIHJIHTEYT "
+    },
+    {
+        "input": "QUADRIENNIAL ",
+        "output": " KWAEDRIYEHNIHUL "
+    },
+    {
+        "input": "QUADRIENNIUM ",
+        "output": " KWAEDRIYEHNIHAHM "
+    },
+    {
+        "input": "QUADRIENNIUMUTILE ",
+        "output": " KWAEDRIYEHNIHYUWMYUWTIHL "
+    },
+    {
+        "input": "QUADRIFARIOUS ",
+        "output": " KWAEDRIHFEH4RIHAXS "
+    },
+    {
+        "input": "QUADRIFARIOUSLY ",
+        "output": " KWAEDRIHFEH4RIHAXSLIY "
+    },
+    {
+        "input": "QUADRIFID ",
+        "output": " KWAEDRIHFIHD "
+    },
+    {
+        "input": "QUADRIFILAR ",
+        "output": " KWAEDRIHFIHLAA5R "
+    },
+    {
+        "input": "QUADRIFOCAL ",
+        "output": " KWAEDRIHFAAKUL "
+    },
+    {
+        "input": "QUADRIFOIL ",
+        "output": " KWAEDRIHFOY5L "
+    },
+    {
+        "input": "QUADRIFOLIATE ",
+        "output": " KWAEDRIHFOW5LIHEYT "
+    },
+    {
+        "input": "QUADRIFOLIOLATE ",
+        "output": " KWAEDRIHFOW5LIHAALEYT "
+    },
+    {
+        "input": "QUADRIFOLIOUS ",
+        "output": " KWAEDRIHFOW5LIHAXS "
+    },
+    {
+        "input": "QUADRIFOLIUM ",
+        "output": " KWAEDRIHFOW5LIHAHM "
+    },
+    {
+        "input": "QUADRIFORM ",
+        "output": " KWAEDRIHFAORM "
+    },
+    {
+        "input": "QUADRIFRONS ",
+        "output": " KWAEDRIHFRUNZ "
+    },
+    {
+        "input": "QUADRIFRONTAL ",
+        "output": " KWAEDRIHFRUNTUL "
+    },
+    {
+        "input": "QUADRIFURCATE ",
+        "output": " KWAEDRIHFERKEYT "
+    },
+    {
+        "input": "QUADRIFURCATED ",
+        "output": " KWAEDRIHFERKEYTIXD "
+    },
+    {
+        "input": "QUADRIFURCATION ",
+        "output": " KWAEDRIHFERKEY5SHUN "
+    },
+    {
+        "input": "QUADRIGA ",
+        "output": " KWAEDRIHGAH "
+    },
+    {
+        "input": "QUADRIGABLED ",
+        "output": " KWAEDRIHGAXBULD "
+    },
+    {
+        "input": "QUADRIGAE ",
+        "output": " KWAEDRIHGAE "
+    },
+    {
+        "input": "QUADRIGAMIST ",
+        "output": " KWAEDRIHGAEMIHST "
+    },
+    {
+        "input": "QUADRIGATE ",
+        "output": " KWAEDRIHGEYT "
+    },
+    {
+        "input": "QUADRIGATI ",
+        "output": " KWAEDRIHGAETAY "
+    },
+    {
+        "input": "QUADRIGATUS ",
+        "output": " KWAEDRIHGAETAHS "
+    },
+    {
+        "input": "QUADRIGEMINAL ",
+        "output": " KWAEDRIHJEHMIHNUL "
+    },
+    {
+        "input": "QUADRIGEMINATE ",
+        "output": " KWAEDRIHJEHMIHNEYT "
+    },
+    {
+        "input": "QUADRIGEMINOUS ",
+        "output": " KWAEDRIHJEHMIHNAXS "
+    },
+    {
+        "input": "QUADRIGEMINUM ",
+        "output": " KWAEDRIHJEHMIHNAHM "
+    },
+    {
+        "input": "QUADRIGENARIOUS ",
+        "output": " KWAEDRIHJEHNEH4RIHAXS "
+    },
+    {
+        "input": "QUADRIGLANDULAR ",
+        "output": " KWAEDRIHGLAENDUWLAA5R "
+    },
+    {
+        "input": "QUADRIHYBRID ",
+        "output": " KWAEDRIH/HIYBRIHD "
+    },
+    {
+        "input": "QUADRIJUGAL ",
+        "output": " KWAEDRIHJUWGUL "
+    },
+    {
+        "input": "QUADRIJUGATE ",
+        "output": " KWAEDRIHJUWGEYT "
+    },
+    {
+        "input": "QUADRIJUGOUS ",
+        "output": " KWAEDRIHJUWGAXS "
+    },
+    {
+        "input": "QUADRILAMINAR ",
+        "output": " KWAEDRIHLAEMIHNAA5R "
+    },
+    {
+        "input": "QUADRILAMINATE ",
+        "output": " KWAEDRIHLAEMIHNEYT "
+    },
+    {
+        "input": "QUADRILATERAL ",
+        "output": " KWAEDRIHLEYTERUL "
+    },
+    {
+        "input": "QUADRILATERALLY ",
+        "output": " KWAEDRIHLEYTERULIY "
+    },
+    {
+        "input": "QUADRILATERALNESS ",
+        "output": " KWAEDRIHLEYTERAOLNEHS "
+    },
+    {
+        "input": "QUADRILATERALS ",
+        "output": " KWAEDRIHLEYTERULZ "
+    },
+    {
+        "input": "QUADRILINGUAL ",
+        "output": " KWAEDRIHLIHNXGWUL "
+    },
+    {
+        "input": "QUADRILITERAL ",
+        "output": " KWAEDRIHLIHTERUL "
+    },
+    {
+        "input": "QUADRILLE ",
+        "output": " KWAEDRIHL "
+    },
+    {
+        "input": "QUADRILLED ",
+        "output": " KWAEDRIHLD "
+    },
+    {
+        "input": "QUADRILLES ",
+        "output": " KWAEDRIHLZ "
+    },
+    {
+        "input": "QUADRILLING ",
+        "output": " KWAEDRIHLIHNX "
+    },
+    {
+        "input": "QUADRILLION ",
+        "output": " KWAEDRIHLIHUN "
+    },
+    {
+        "input": "QUADRILLIONS ",
+        "output": " KWAEDRIHLIHUNZ "
+    },
+    {
+        "input": "QUADRILLIONTH ",
+        "output": " KWAEDRIHLIHUNTH "
+    },
+    {
+        "input": "QUADRILLIONTHS ",
+        "output": " KWAEDRIHLIHUNTHS "
+    },
+    {
+        "input": "QUADRILOBATE ",
+        "output": " KWAEDRIHLAABEYT "
+    },
+    {
+        "input": "QUADRILOBED ",
+        "output": " KWAEDRIHLOW5BD "
+    },
+    {
+        "input": "QUADRILOCULAR ",
+        "output": " KWAEDRIHLOWKYUWLAA5R "
+    },
+    {
+        "input": "QUADRILOCULATE ",
+        "output": " KWAEDRIHLOWKYUWLEYT "
+    },
+    {
+        "input": "QUADRILOGUE ",
+        "output": " KWAEDRIHLAAG "
+    },
+    {
+        "input": "QUADRILOGY ",
+        "output": " KWAEDRIHLAAJIY "
+    },
+    {
+        "input": "QUADRIMEMBRAL ",
+        "output": " KWAEDRIHMEHMBRUL "
+    },
+    {
+        "input": "QUADRIMETALLIC ",
+        "output": " KWAEDRIHMEHTAOLIHK "
+    },
+    {
+        "input": "QUADRIMOLECULAR ",
+        "output": " KWAEDRIHMAALEHKYUWLAA5R "
+    },
+    {
+        "input": "QUADRIMUM ",
+        "output": " KWAEDRIHMAHM "
+    },
+    {
+        "input": "QUADRIN ",
+        "output": " KWAEDRIHN "
+    },
+    {
+        "input": "QUADRINE ",
+        "output": " KWAEDRIHN "
+    },
+    {
+        "input": "QUADRINODAL ",
+        "output": " KWAEDRIHNAADUL "
+    },
+    {
+        "input": "QUADRINOMIAL ",
+        "output": " KWAEDRIHNOW5MIHUL "
+    },
+    {
+        "input": "QUADRINOMICAL ",
+        "output": " KWAEDRIHNAHMIHKUL "
+    },
+    {
+        "input": "QUADRINOMINAL ",
+        "output": " KWAEDRIHNAHMIHNUL "
+    },
+    {
+        "input": "QUADRINUCLEATE ",
+        "output": " KWAEDRIHNAH5KLIY5T "
+    },
+    {
+        "input": "QUADRIOXALATE ",
+        "output": " KWAEDRIHAAKSAELEYT "
+    },
+    {
+        "input": "QUADRIPAROUS ",
+        "output": " KWAEDRIHPEH4RAXS "
+    },
+    {
+        "input": "QUADRIPARTITE ",
+        "output": " KWAEDRIHPAA5RTIHT "
+    },
+    {
+        "input": "QUADRIPARTITELY ",
+        "output": " KWAEDRIHPAA5RTIHTLIY "
+    },
+    {
+        "input": "QUADRIPARTITION ",
+        "output": " KWAEDRIHPAA5RTIHSHUN "
+    },
+    {
+        "input": "QUADRIPENNATE ",
+        "output": " KWAEDRIHPEHNEYT "
+    },
+    {
+        "input": "QUADRIPHONIC ",
+        "output": " KWAEDRIHFUNIHK "
+    },
+    {
+        "input": "QUADRIPHOSPHATE ",
+        "output": " KWAEDRIHFAASFEYT "
+    },
+    {
+        "input": "QUADRIPHYLLOUS ",
+        "output": " KWAEDRIHFIYLAXS "
+    },
+    {
+        "input": "QUADRIPINNATE ",
+        "output": " KWAEDRIHPIHNEYT "
+    },
+    {
+        "input": "QUADRIPLANAR ",
+        "output": " KWAEDRIHPLAENAA5R "
+    },
+    {
+        "input": "QUADRIPLEGIA ",
+        "output": " KWAEDRIHPLEHJIHAH "
+    },
+    {
+        "input": "QUADRIPLEGIC ",
+        "output": " KWAEDRIHPLEHJIHK "
+    },
+    {
+        "input": "QUADRIPLICATE ",
+        "output": " KWAEDRIHPLIHKEYT "
+    },
+    {
+        "input": "QUADRIPLICATED ",
+        "output": " KWAEDRIHPLIHKEYTIXD "
+    },
+    {
+        "input": "QUADRIPOLAR ",
+        "output": " KWAEDRIHPAALAA5R "
+    },
+    {
+        "input": "QUADRIPOLE ",
+        "output": " KWAEDRIHPOW5L "
+    },
+    {
+        "input": "QUADRIPORTICO ",
+        "output": " KWAEDRIHPAORTIHKOW "
+    },
+    {
+        "input": "QUADRIPORTICUS ",
+        "output": " KWAEDRIHPAORTIHKAHS "
+    },
+    {
+        "input": "QUADRIPULMONARY ",
+        "output": " KWAEDRIHPAH5LMUNEH4RIY "
+    },
+    {
+        "input": "QUADRIQUADRIC ",
+        "output": " KWAEDRIHKWAEDRIHK "
+    },
+    {
+        "input": "QUADRIRADIATE ",
+        "output": " KWAEDRAYREY5DIHEYT "
+    },
+    {
+        "input": "QUADRIREME ",
+        "output": " KWAEDRIHRIY4M "
+    },
+    {
+        "input": "QUADRISECT ",
+        "output": " KWAEDRIHZEHKT "
+    },
+    {
+        "input": "QUADRISECTED ",
+        "output": " KWAEDRIHZEHKTIXD "
+    },
+    {
+        "input": "QUADRISECTION ",
+        "output": " KWAEDRIHZEHKSHUN "
+    },
+    {
+        "input": "QUADRISEPTATE ",
+        "output": " KWAEDRIHZEHPTEYT "
+    },
+    {
+        "input": "QUADRISERIAL ",
+        "output": " KWAEDRIHZIY4RIYUL "
+    },
+    {
+        "input": "QUADRISETOSE ",
+        "output": " KWAEDRIHZEHTOW5Z "
+    },
+    {
+        "input": "QUADRISPIRAL ",
+        "output": " KWAEDRIHSPAYRUL "
+    },
+    {
+        "input": "QUADRISTEARATE ",
+        "output": " KWAEDRIHSTIY5REYT "
+    },
+    {
+        "input": "QUADRISULCATE ",
+        "output": " KWAEDRIHZAH5LKEYT "
+    },
+    {
+        "input": "QUADRISULCATED ",
+        "output": " KWAEDRIHZAH5LKEYTIXD "
+    },
+    {
+        "input": "QUADRISULPHIDE ",
+        "output": " KWAEDRIHZAH5LFIHD "
+    },
+    {
+        "input": "QUADRISYLLABIC ",
+        "output": " KWAEDRIHZIYLAEBIHK "
+    },
+    {
+        "input": "QUADRISYLLABICAL ",
+        "output": " KWAEDRIHZIYLAEBIHKUL "
+    },
+    {
+        "input": "QUADRISYLLABLE ",
+        "output": " KWAEDRIHZIYLAXBUL "
+    },
+    {
+        "input": "QUADRISYLLABOUS ",
+        "output": " KWAEDRIHZIYLAEBAXS "
+    },
+    {
+        "input": "QUADRITERNATE ",
+        "output": " KWAEDRIHTERNEYT "
+    },
+    {
+        "input": "QUADRITI ",
+        "output": " KWAEDRIHTAY "
+    },
+    {
+        "input": "QUADRITUBERCULAR ",
+        "output": " KWAEDRIHTUWBERKYUWLAA5R "
+    },
+    {
+        "input": "QUADRITUBERCULATE ",
+        "output": " KWAEDRIHTUWBERKYUWLEYT "
+    },
+    {
+        "input": "QUADRIURATE ",
+        "output": " KWAEDRIHYUH4REYT "
+    },
+    {
+        "input": "QUADRIVALENCE ",
+        "output": " KWAEDRIHVAELEHNS "
+    },
+    {
+        "input": "QUADRIVALENCY ",
+        "output": " KWAEDRIHVAELEHNSIY "
+    },
+    {
+        "input": "QUADRIVALENT ",
+        "output": " KWAEDRIHVAELEHNT "
+    },
+    {
+        "input": "QUADRIVALENTLY ",
+        "output": " KWAEDRIHVAELEHNTLIY "
+    },
+    {
+        "input": "QUADRIVALVE ",
+        "output": " KWAEDRIHVAOLV "
+    },
+    {
+        "input": "QUADRIVALVULAR ",
+        "output": " KWAEDRIHVAOLVYUWLAA5R "
+    },
+    {
+        "input": "QUADRIVIA ",
+        "output": " KWAEDRIHVIHAH "
+    },
+    {
+        "input": "QUADRIVIAL ",
+        "output": " KWAEDRIHVIHUL "
+    },
+    {
+        "input": "QUADRIVIOUS ",
+        "output": " KWAEDRIHVIHAXS "
+    },
+    {
+        "input": "QUADRIVIUM ",
+        "output": " KWAEDRIHVIHAHM "
+    },
+    {
+        "input": "QUADRIVOLTINE ",
+        "output": " KWAEDRIHVAALTIHN "
+    },
+    {
+        "input": "QUADROON ",
+        "output": " KWAEDRUW5N "
+    },
+    {
+        "input": "QUADROONS ",
+        "output": " KWAEDRUW5NZ "
+    },
+    {
+        "input": "QUADROPHONICS ",
+        "output": " KWAEDROW5FUNIHKS "
+    },
+    {
+        "input": "QUADRUAL ",
+        "output": " KWAEDRUWUL "
+    },
+    {
+        "input": "QUADRUM ",
+        "output": " KWAEDRAHM "
+    },
+    {
+        "input": "QUADRUMANA ",
+        "output": " KWAEDRUWMAENAH "
+    },
+    {
+        "input": "QUADRUMANAL ",
+        "output": " KWAEDRUWMAENUL "
+    },
+    {
+        "input": "QUADRUMANE ",
+        "output": " KWAEDRUWMEYN "
+    },
+    {
+        "input": "QUADRUMANOUS ",
+        "output": " KWAEDRUWMAENAXS "
+    },
+    {
+        "input": "QUADRUMVIR ",
+        "output": " KWAEDRAH5MVER "
+    },
+    {
+        "input": "QUADRUMVIRATE ",
+        "output": " KWAEDRAH5MVAYREYT "
+    },
+    {
+        "input": "QUADRUPED ",
+        "output": " KWAEDRUWPT "
+    },
+    {
+        "input": "QUADRUPEDAL ",
+        "output": " KWAEDRUWPEHDUL "
+    },
+    {
+        "input": "QUADRUPEDAN ",
+        "output": " KWAEDRUWPEHDAEN "
+    },
+    {
+        "input": "QUADRUPEDANT ",
+        "output": " KWAEDRUWPEHDAENT "
+    },
+    {
+        "input": "QUADRUPEDANTIC ",
+        "output": " KWAEDRUWPEHDAENTIHK "
+    },
+    {
+        "input": "QUADRUPEDANTICAL ",
+        "output": " KWAEDRUWPEHDAENTIHKUL "
+    },
+    {
+        "input": "QUADRUPEDATE ",
+        "output": " KWAEDRUWPEHDEYT "
+    },
+    {
+        "input": "QUADRUPEDATION ",
+        "output": " KWAEDRUWPEHDEY5SHUN "
+    },
+    {
+        "input": "QUADRUPEDISM ",
+        "output": " KWAEDRUWPEHDIHZUM "
+    },
+    {
+        "input": "QUADRUPEDOUS ",
+        "output": " KWAEDRUWPEHDAXS "
+    },
+    {
+        "input": "QUADRUPEDS ",
+        "output": " KWAEDRUWPEHDZ "
+    },
+    {
+        "input": "QUADRUPLANE ",
+        "output": " KWAEDRAH5PLEYN "
+    },
+    {
+        "input": "QUADRUPLATE ",
+        "output": " KWAEDRAH5PLEYT "
+    },
+    {
+        "input": "QUADRUPLATOR ",
+        "output": " KWAEDRAH5PLAETER "
+    },
+    {
+        "input": "QUADRUPLE ",
+        "output": " KWAEDRAH5PUL "
+    },
+    {
+        "input": "QUADRUPLED ",
+        "output": " KWAEDRAH5PULD "
+    },
+    {
+        "input": "QUADRUPLENESS ",
+        "output": " KWAEDRAH5PLIY4NEHS "
+    },
+    {
+        "input": "QUADRUPLES ",
+        "output": " KWAEDRAH5PULZ "
+    },
+    {
+        "input": "QUADRUPLET ",
+        "output": " KWAEDRAH5PLEHT "
+    },
+    {
+        "input": "QUADRUPLETS ",
+        "output": " KWAEDRAH5PLEHTS "
+    },
+    {
+        "input": "QUADRUPLEX ",
+        "output": " KWAEDRAH5PLEHKS "
+    },
+    {
+        "input": "QUADRUPLICATE ",
+        "output": " KWAEDRAH5PLIHKEYT "
+    },
+    {
+        "input": "QUADRUPLICATED ",
+        "output": " KWAEDRAH5PLIHKEYTIXD "
+    },
+    {
+        "input": "QUADRUPLICATES ",
+        "output": " KWAEDRAH5PLIHKEYTS "
+    },
+    {
+        "input": "QUADRUPLICATING ",
+        "output": " KWAEDRAH5PLIHKEYTIHNX "
+    },
+    {
+        "input": "QUADRUPLICATION ",
+        "output": " KWAEDRAH5PLIHKEY5SHUN "
+    },
+    {
+        "input": "QUADRUPLICATIONS ",
+        "output": " KWAEDRAH5PLIHKEY5SHUNZ "
+    },
+    {
+        "input": "QUADRUPLICATURE ",
+        "output": " KWAEDRAH5PLIHKAECHER "
+    },
+    {
+        "input": "QUADRUPLICITY ",
+        "output": " KWAEDRAH5PLIHSIHTIY "
+    },
+    {
+        "input": "QUADRUPLING ",
+        "output": " KWAEDRAH5PULIHNX "
+    },
+    {
+        "input": "QUADRUPLY ",
+        "output": " KWAEDRAH5PLIY "
+    },
+    {
+        "input": "QUADRUPOLE ",
+        "output": " KWAEDRUWPOW5L "
+    },
+    {
+        "input": "QUADS ",
+        "output": " KWAEDZ "
+    },
+    {
+        "input": "QUAE ",
+        "output": " KWAE "
+    },
+    {
+        "input": "QUAEDAM ",
+        "output": " KWAEEHDAEM "
+    },
+    {
+        "input": "QUAERE ",
+        "output": " KWAEIY4R "
+    },
+    {
+        "input": "QUAERES ",
+        "output": " KWAEIY4RZ "
+    },
+    {
+        "input": "QUAESITA ",
+        "output": " KWAEEHZIHTAH "
+    },
+    {
+        "input": "QUAESITUM ",
+        "output": " KWAEEHZIHTAHM "
+    },
+    {
+        "input": "QUAESTIO ",
+        "output": " KWAEEHSSHOW "
+    },
+    {
+        "input": "QUAESTIONES ",
+        "output": " KWAEEHSCHOW5NZ "
+    },
+    {
+        "input": "QUAESTOR ",
+        "output": " KWAEEHSTER "
+    },
+    {
+        "input": "QUAESTORIAL ",
+        "output": " KWAEEHSTAORIHUL "
+    },
+    {
+        "input": "QUAESTORIAN ",
+        "output": " KWAEEHSTAORIHAEN "
+    },
+    {
+        "input": "QUAESTORS ",
+        "output": " KWAEEHSTERZ "
+    },
+    {
+        "input": "QUAESTORSHIP ",
+        "output": " KWAEEHSTAORSHIHP "
+    },
+    {
+        "input": "QUAESTUARY ",
+        "output": " KWAEEHSCHUWEH4RIY "
+    },
+    {
+        "input": "QUAFF ",
+        "output": " KWAEF "
+    },
+    {
+        "input": "QUAFFED ",
+        "output": " KWAEFT "
+    },
+    {
+        "input": "QUAFFER ",
+        "output": " KWAEFER "
+    },
+    {
+        "input": "QUAFFERS ",
+        "output": " KWAEFERZ "
+    },
+    {
+        "input": "QUAFFING ",
+        "output": " KWAEFIHNX "
+    },
+    {
+        "input": "QUAFFINGLY ",
+        "output": " KWAEFIHNXLIY "
+    },
+    {
+        "input": "QUAFFS ",
+        "output": " KWAEFS "
+    },
+    {
+        "input": "QUAG ",
+        "output": " KWAEG "
+    },
+    {
+        "input": "QUAGGA ",
+        "output": " KWAEGAH "
+    },
+    {
+        "input": "QUAGGAS ",
+        "output": " KWAEGAES "
+    },
+    {
+        "input": "QUAGGIER ",
+        "output": " KWAEGIYER "
+    },
+    {
+        "input": "QUAGGIEST ",
+        "output": " KWAEGIYEHST "
+    },
+    {
+        "input": "QUAGGINESS ",
+        "output": " KWAEGIHNEHS "
+    },
+    {
+        "input": "QUAGGLE ",
+        "output": " KWAEGUL "
+    },
+    {
+        "input": "QUAGGY ",
+        "output": " KWAEGIY "
+    },
+    {
+        "input": "QUAGMIRE ",
+        "output": " KWAEGMAYR "
+    },
+    {
+        "input": "QUAGMIRE'S ",
+        "output": " KWAEGMAYREHS "
+    },
+    {
+        "input": "QUAGMIRED ",
+        "output": " KWAEGMAYRD "
+    },
+    {
+        "input": "QUAGMIRES ",
+        "output": " KWAEGMAYRZ "
+    },
+    {
+        "input": "QUAGMIRIER ",
+        "output": " KWAEGMIHRIYER "
+    },
+    {
+        "input": "QUAGMIRIEST ",
+        "output": " KWAEGMIHRIYEHST "
+    },
+    {
+        "input": "QUAGMIRY ",
+        "output": " KWAEGMAYRIY "
+    },
+    {
+        "input": "QUAGS ",
+        "output": " KWAEGZ "
+    },
+    {
+        "input": "QUAHAUG ",
+        "output": " KWAE/HAO4G "
+    },
+    {
+        "input": "QUAHAUGS ",
+        "output": " KWAE/HAO4GZ "
+    },
+    {
+        "input": "QUAHOG ",
+        "output": " KWAE/HAAG "
+    },
+    {
+        "input": "QUAHOGS ",
+        "output": " KWAE/HAAGZ "
+    },
+    {
+        "input": "QUAI ",
+        "output": " KWEY4 "
+    },
+    {
+        "input": "QUAICH ",
+        "output": " KWEY4CH "
+    },
+    {
+        "input": "QUAICHES ",
+        "output": " KWEY4CHIHZ "
+    },
+    {
+        "input": "QUAICHS ",
+        "output": " KWEY4CHS "
+    },
+    {
+        "input": "QUAIFE ",
+        "output": " KWEY4F "
+    },
+    {
+        "input": "QUAIGH ",
+        "output": " KWEY4 "
+    },
+    {
+        "input": "QUAIGHS ",
+        "output": " KWEY4S "
+    },
+    {
+        "input": "QUAIL ",
+        "output": " KWEY4L "
+    },
+    {
+        "input": "QUAIL'S ",
+        "output": " KWEY4LS "
+    },
+    {
+        "input": "QUAILBERRY ",
+        "output": " KWEY4LBERRIY "
+    },
+    {
+        "input": "QUAILED ",
+        "output": " KWEY4LD "
+    },
+    {
+        "input": "QUAILERIES ",
+        "output": " KWEY4LIY4RIYZ "
+    },
+    {
+        "input": "QUAILERY ",
+        "output": " KWEY4LERIY "
+    },
+    {
+        "input": "QUAILHEAD ",
+        "output": " KWEY4L/HEHD "
+    },
+    {
+        "input": "QUAILING ",
+        "output": " KWEY4LIHNX "
+    },
+    {
+        "input": "QUAILLIKE ",
+        "output": " KWEY4LIHK "
+    },
+    {
+        "input": "QUAILS ",
+        "output": " KWEY4LZ "
+    },
+    {
+        "input": "QUAILY ",
+        "output": " KWEY4LIY "
+    },
+    {
+        "input": "QUAINT ",
+        "output": " KWEY4NT "
+    },
+    {
+        "input": "QUAINTANCE ",
+        "output": " KWEY4NTAENS "
+    },
+    {
+        "input": "QUAINTER ",
+        "output": " KWEY4NTER "
+    },
+    {
+        "input": "QUAINTEST ",
+        "output": " KWEY4NTEHST "
+    },
+    {
+        "input": "QUAINTISE ",
+        "output": " KWEY4NTAYZ "
+    },
+    {
+        "input": "QUAINTISH ",
+        "output": " KWEY4NTIHSH "
+    },
+    {
+        "input": "QUAINTLY ",
+        "output": " KWEY4NTLIY "
+    },
+    {
+        "input": "QUAINTNESS ",
+        "output": " KWEY4NTNEHS "
+    },
+    {
+        "input": "QUAIS ",
+        "output": " KWEY4Z "
+    },
+    {
+        "input": "QUAKE ",
+        "output": " KWEYK "
+    },
+    {
+        "input": "QUAKED ",
+        "output": " KWEYKT "
+    },
+    {
+        "input": "QUAKEFUL ",
+        "output": " KWEYKFUHL "
+    },
+    {
+        "input": "QUAKEPROOF ",
+        "output": " KWAEKEHPRUW5F "
+    },
+    {
+        "input": "QUAKER ",
+        "output": " KWEYKER "
+    },
+    {
+        "input": "QUAKERBIRD ",
+        "output": " KWEYKERBERD "
+    },
+    {
+        "input": "QUAKERISM ",
+        "output": " KWEYKEH4RIHZUM "
+    },
+    {
+        "input": "QUAKERS ",
+        "output": " KWEYKERZ "
+    },
+    {
+        "input": "QUAKES ",
+        "output": " KWEYKS "
+    },
+    {
+        "input": "QUAKETAIL ",
+        "output": " KWAEKEHTEY4L "
+    },
+    {
+        "input": "QUAKIER ",
+        "output": " KWEY5KIYER "
+    },
+    {
+        "input": "QUAKIEST ",
+        "output": " KWEY5KIYEHST "
+    },
+    {
+        "input": "QUAKILY ",
+        "output": " KWAEKIHLIY "
+    },
+    {
+        "input": "QUAKINESS ",
+        "output": " KWAEKIHNEHS "
+    },
+    {
+        "input": "QUAKING ",
+        "output": " KWEYKIHNX "
+    },
+    {
+        "input": "QUAKINGLY ",
+        "output": " KWEYKIHNXLIY "
+    },
+    {
+        "input": "QUAKY ",
+        "output": " KWAEKIY "
+    },
+    {
+        "input": "QUAL ",
+        "output": " KWUL "
+    },
+    {
+        "input": "QUALE ",
+        "output": " KWEYL "
+    },
+    {
+        "input": "QUALIA ",
+        "output": " KWEY5LIHAH "
+    },
+    {
+        "input": "QUALIFIABLE ",
+        "output": " KWAELIHFIHAXBUL "
+    },
+    {
+        "input": "QUALIFICATION ",
+        "output": " KWAELIHFIHKEY5SHUN "
+    },
+    {
+        "input": "QUALIFICATIONS ",
+        "output": " KWAELIHFIHKEY5SHUNZ "
+    },
+    {
+        "input": "QUALIFICATIVE ",
+        "output": " KWAELIHFIHKAETIHV "
+    },
+    {
+        "input": "QUALIFICATOR ",
+        "output": " KWAELIHFIHKAETER "
+    },
+    {
+        "input": "QUALIFICATORY ",
+        "output": " KWAELIHFIHKAETAORIY "
+    },
+    {
+        "input": "QUALIFIED ",
+        "output": " KWAELIHFAY5D "
+    },
+    {
+        "input": "QUALIFIEDLY ",
+        "output": " KWAELIHFIYEHDLIY "
+    },
+    {
+        "input": "QUALIFIEDNESS ",
+        "output": " KWAELIHFIYEHDNEHS "
+    },
+    {
+        "input": "QUALIFIER ",
+        "output": " KWAELIHFIYER "
+    },
+    {
+        "input": "QUALIFIERS ",
+        "output": " KWAELIHFIYERZ "
+    },
+    {
+        "input": "QUALIFIES ",
+        "output": " KWAELIHFIYZ "
+    },
+    {
+        "input": "QUALIFY ",
+        "output": " KWAELIHFAY "
+    },
+    {
+        "input": "QUALIFYING ",
+        "output": " KWAELIHFAYIHNX "
+    },
+    {
+        "input": "QUALIFYINGLY ",
+        "output": " KWAELIHFAYIHNXLIY "
+    },
+    {
+        "input": "QUALIMETER ",
+        "output": " KWAELIHMIY4TER "
+    },
+    {
+        "input": "QUALITATIVE ",
+        "output": " KWAELIHTAETIHV "
+    },
+    {
+        "input": "QUALITATIVELY ",
+        "output": " KWAELIHTAETIHVLIY "
+    },
+    {
+        "input": "QUALITIED ",
+        "output": " KWAELIHTAY5D "
+    },
+    {
+        "input": "QUALITIES ",
+        "output": " KWAELIHTIYZ "
+    },
+    {
+        "input": "QUALITY ",
+        "output": " KWAELIHTIY "
+    },
+    {
+        "input": "QUALITY'S ",
+        "output": " KWAELIHTIYS "
+    },
+    {
+        "input": "QUALITYLESS ",
+        "output": " KWAELIHTIYLEHS "
+    },
+    {
+        "input": "QUALITYSHIP ",
+        "output": " KWAELIHTIYSHIHP "
+    },
+    {
+        "input": "QUALLY ",
+        "output": " KWULIY "
+    },
+    {
+        "input": "QUALM ",
+        "output": " KWAOLM "
+    },
+    {
+        "input": "QUALMIER ",
+        "output": " KWAOLMIYER "
+    },
+    {
+        "input": "QUALMIEST ",
+        "output": " KWAOLMIYEHST "
+    },
+    {
+        "input": "QUALMINESS ",
+        "output": " KWAOLMIHNEHS "
+    },
+    {
+        "input": "QUALMISH ",
+        "output": " KWAOLMIHSH "
+    },
+    {
+        "input": "QUALMISHLY ",
+        "output": " KWAOLMIHSHLIY "
+    },
+    {
+        "input": "QUALMISHNESS ",
+        "output": " KWAOLMIHSHNEHS "
+    },
+    {
+        "input": "QUALMPROOF ",
+        "output": " KWAOLMPRUW5F "
+    },
+    {
+        "input": "QUALMS ",
+        "output": " KWAOLMZ "
+    },
+    {
+        "input": "QUALMY ",
+        "output": " KWAOLMIY "
+    },
+    {
+        "input": "QUALMYISH ",
+        "output": " KWAOLMIYIHSH "
+    },
+    {
+        "input": "QUALTAGH ",
+        "output": " KWAOLTAE "
+    },
+    {
+        "input": "QUAM ",
+        "output": " KWAEM "
+    },
+    {
+        "input": "QUAMASH ",
+        "output": " KWAEMAESH "
+    },
+    {
+        "input": "QUAMASHES ",
+        "output": " KWAEMAESHIHZ "
+    },
+    {
+        "input": "QUAMOCLIT ",
+        "output": " KWAEMAAKLIHT "
+    },
+    {
+        "input": "QUAN ",
+        "output": " KWAEN "
+    },
+    {
+        "input": "QUANDANG ",
+        "output": " KWAENDAENX "
+    },
+    {
+        "input": "QUANDANGS ",
+        "output": " KWAENDAENXZ "
+    },
+    {
+        "input": "QUANDARIES ",
+        "output": " KWAENDEH4RIYZ "
+    },
+    {
+        "input": "QUANDARY ",
+        "output": " KWAENDEH4RIY "
+    },
+    {
+        "input": "QUANDARY'S ",
+        "output": " KWAENDEH4RIYS "
+    },
+    {
+        "input": "QUANDO ",
+        "output": " KWAENDOW "
+    },
+    {
+        "input": "QUANDONG ",
+        "output": " KWAENDAONX "
+    },
+    {
+        "input": "QUANDONGS ",
+        "output": " KWAENDAONXZ "
+    },
+    {
+        "input": "QUANDY ",
+        "output": " KWAENDIY "
+    },
+    {
+        "input": "QUANGO ",
+        "output": " KWAENXGOW "
+    },
+    {
+        "input": "QUANGOS ",
+        "output": " KWAENXGAAS "
+    },
+    {
+        "input": "QUANNET ",
+        "output": " KWAENEHT "
+    },
+    {
+        "input": "QUANT ",
+        "output": " KWAENT "
+    },
+    {
+        "input": "QUANTA ",
+        "output": " KWAENTAH "
+    },
+    {
+        "input": "QUANTAL ",
+        "output": " KWAENTUL "
+    },
+    {
+        "input": "QUANTED ",
+        "output": " KWAENTIXD "
+    },
+    {
+        "input": "QUANTI ",
+        "output": " KWAENTAY "
+    },
+    {
+        "input": "QUANTIC ",
+        "output": " KWAENTIHK "
+    },
+    {
+        "input": "QUANTICAL ",
+        "output": " KWAENTIHKUL "
+    },
+    {
+        "input": "QUANTICS ",
+        "output": " KWAENTIHKS "
+    },
+    {
+        "input": "QUANTIES ",
+        "output": " KWAENTIYZ "
+    },
+    {
+        "input": "QUANTIFIABILITY ",
+        "output": " KWAENTIHFIHAEBIHLIHTIY "
+    },
+    {
+        "input": "QUANTIFIABLE ",
+        "output": " KWAENTIHFIHAXBUL "
+    },
+    {
+        "input": "QUANTIFIABLY ",
+        "output": " KWAENTIHFIHAEBLIY "
+    },
+    {
+        "input": "QUANTIFICATION ",
+        "output": " KWAENTIHFIHKEY5SHUN "
+    },
+    {
+        "input": "QUANTIFICATIONS ",
+        "output": " KWAENTIHFIHKEY5SHUNZ "
+    },
+    {
+        "input": "QUANTIFIED ",
+        "output": " KWAENTIHFAY5D "
+    },
+    {
+        "input": "QUANTIFIER ",
+        "output": " KWAENTIHFIYER "
+    },
+    {
+        "input": "QUANTIFIERS ",
+        "output": " KWAENTIHFIYERZ "
+    },
+    {
+        "input": "QUANTIFIES ",
+        "output": " KWAENTIHFIYZ "
+    },
+    {
+        "input": "QUANTIFY ",
+        "output": " KWAENTIHFAY "
+    },
+    {
+        "input": "QUANTIFYING ",
+        "output": " KWAENTIHFAYIHNX "
+    },
+    {
+        "input": "QUANTILE ",
+        "output": " KWAENTIHL "
+    },
+    {
+        "input": "QUANTILES ",
+        "output": " KWAENTIHLZ "
+    },
+    {
+        "input": "QUANTIMETER ",
+        "output": " KWAENTIHMIY4TER "
+    },
+    {
+        "input": "QUANTING ",
+        "output": " KWAENTIHNX "
+    },
+    {
+        "input": "QUANTITATE ",
+        "output": " KWAENTIHTEYT "
+    },
+    {
+        "input": "QUANTITATION ",
+        "output": " KWAENTIHTEY5SHUN "
+    },
+    {
+        "input": "QUANTITATIVE ",
+        "output": " KWAENTIHTAETIHV "
+    },
+    {
+        "input": "QUANTITATIVELY ",
+        "output": " KWAENTIHTAETIHVLIY "
+    },
+    {
+        "input": "QUANTITATIVENESS ",
+        "output": " KWAENTIHTAETIHVIY4NEHS "
+    },
+    {
+        "input": "QUANTITIED ",
+        "output": " KWAENTIHTAY5D "
+    },
+    {
+        "input": "QUANTITIES ",
+        "output": " KWAENTIHTIYZ "
+    },
+    {
+        "input": "QUANTITIVE ",
+        "output": " KWAENTIHTIHV "
+    },
+    {
+        "input": "QUANTITIVELY ",
+        "output": " KWAENTIHTIHVLIY "
+    },
+    {
+        "input": "QUANTITIVENESS ",
+        "output": " KWAENTIHTIHVIY4NEHS "
+    },
+    {
+        "input": "QUANTITY ",
+        "output": " KWAENTIHTIY "
+    },
+    {
+        "input": "QUANTITY'S ",
+        "output": " KWAENTIHTIYS "
+    },
+    {
+        "input": "QUANTIVALENCE ",
+        "output": " KWAENTIHVAELEHNS "
+    },
+    {
+        "input": "QUANTIVALENCY ",
+        "output": " KWAENTIHVAELEHNSIY "
+    },
+    {
+        "input": "QUANTIVALENT ",
+        "output": " KWAENTIHVAELEHNT "
+    },
+    {
+        "input": "QUANTIZABLE ",
+        "output": " KWAENTIHZAXBUL "
+    },
+    {
+        "input": "QUANTIZATION ",
+        "output": " KWAENTIHZEY5SHUN "
+    },
+    {
+        "input": "QUANTIZE ",
+        "output": " KWAENTAYZ "
+    },
+    {
+        "input": "QUANTIZED ",
+        "output": " KWAENTAYZD "
+    },
+    {
+        "input": "QUANTIZER ",
+        "output": " KWAENTAYZER "
+    },
+    {
+        "input": "QUANTIZES ",
+        "output": " KWAENTAYZIHZ "
+    },
+    {
+        "input": "QUANTIZING ",
+        "output": " KWAENTAYZIHNX "
+    },
+    {
+        "input": "QUANTOMETER ",
+        "output": " KWAENTAHMIY4TER "
+    },
+    {
+        "input": "QUANTONG ",
+        "output": " KWAENTAONX "
+    },
+    {
+        "input": "QUANTONGS ",
+        "output": " KWAENTAONXZ "
+    },
+    {
+        "input": "QUANTS ",
+        "output": " KWAENTS "
+    },
+    {
+        "input": "QUANTULUM ",
+        "output": " KWAENTUWLAHM "
+    },
+    {
+        "input": "QUANTUM ",
+        "output": " KWAENTAHM "
+    },
+    {
+        "input": "QUANTUMMECHANICAL ",
+        "output": " KWAENTAH5MEHKAENIHKUL "
+    },
+    {
+        "input": "QUAQUAVERSAL ",
+        "output": " KWAEKWEYVERSUL "
+    },
+    {
+        "input": "QUAQUAVERSALLY ",
+        "output": " KWAEKWEYVERSULIY "
+    },
+    {
+        "input": "QUAR ",
+        "output": " KWOH5R "
+    },
+    {
+        "input": "QUARANTINABLE ",
+        "output": " KWOH5RAENTIHNAXBUL "
+    },
+    {
+        "input": "QUARANTINE ",
+        "output": " KWOH5RAENTIHN "
+    },
+    {
+        "input": "QUARANTINE'S ",
+        "output": " KWOH5RAENTIHNEHS "
+    },
+    {
+        "input": "QUARANTINED ",
+        "output": " KWOH5RAENTIHND "
+    },
+    {
+        "input": "QUARANTINER ",
+        "output": " KWOH5RAENTIHNER "
+    },
+    {
+        "input": "QUARANTINES ",
+        "output": " KWOH5RAENTIHNZ "
+    },
+    {
+        "input": "QUARANTINING ",
+        "output": " KWOH5RAENTIHNIHNX "
+    },
+    {
+        "input": "QUARANTY ",
+        "output": " KWOH5RAENTIY "
+    },
+    {
+        "input": "QUARDEEL ",
+        "output": " KWOH5RDIY4L "
+    },
+    {
+        "input": "QUARE ",
+        "output": " KWOH5R "
+    },
+    {
+        "input": "QUARENDEN ",
+        "output": " KWOH5REHNDEHN "
+    },
+    {
+        "input": "QUARENDER ",
+        "output": " KWOH5REHNDER "
+    },
+    {
+        "input": "QUARENTENE ",
+        "output": " KWOH5REHNTIY4N "
+    },
+    {
+        "input": "QUARESMA ",
+        "output": " KWOH5REHZUMAH "
+    },
+    {
+        "input": "QUARION ",
+        "output": " KWOH5RIHUN "
+    },
+    {
+        "input": "QUARK ",
+        "output": " KWOH5RK "
+    },
+    {
+        "input": "QUARKS ",
+        "output": " KWOH5RKS "
+    },
+    {
+        "input": "QUARL ",
+        "output": " KWOH5RL "
+    },
+    {
+        "input": "QUARLE ",
+        "output": " KWOH5RUL "
+    },
+    {
+        "input": "QUARLES ",
+        "output": " KWOH5RULZ "
+    },
+    {
+        "input": "QUARMEN ",
+        "output": " KWOH5RMEHN "
+    },
+    {
+        "input": "QUARRED ",
+        "output": " KWOH5RRD "
+    },
+    {
+        "input": "QUARREL ",
+        "output": " KWOH5RREHL "
+    },
+    {
+        "input": "QUARRELED ",
+        "output": " KWOH5RRIY4LD "
+    },
+    {
+        "input": "QUARRELER ",
+        "output": " KWOH5RRIY4LER "
+    },
+    {
+        "input": "QUARRELERS ",
+        "output": " KWOH5RRIY4LERZ "
+    },
+    {
+        "input": "QUARRELET ",
+        "output": " KWOH5RREHLEHT "
+    },
+    {
+        "input": "QUARRELING ",
+        "output": " KWOH5RRIY4LIHNX "
+    },
+    {
+        "input": "QUARRELINGLY ",
+        "output": " KWOH5RRIY4LIHNXLIY "
+    },
+    {
+        "input": "QUARRELLED ",
+        "output": " KWOH5RREHLD "
+    },
+    {
+        "input": "QUARRELLER ",
+        "output": " KWOH5RREHLER "
+    },
+    {
+        "input": "QUARRELLERS ",
+        "output": " KWOH5RREHLERZ "
+    },
+    {
+        "input": "QUARRELLING ",
+        "output": " KWOH5RREHLIHNX "
+    },
+    {
+        "input": "QUARRELLINGLY ",
+        "output": " KWOH5RREHLIHNXLIY "
+    },
+    {
+        "input": "QUARRELLOUS ",
+        "output": " KWOH5RREHLAXS "
+    },
+    {
+        "input": "QUARRELOUS ",
+        "output": " KWOH5RREHLAXS "
+    },
+    {
+        "input": "QUARRELOUSLY ",
+        "output": " KWOH5RREHLAXSLIY "
+    },
+    {
+        "input": "QUARRELPROOF ",
+        "output": " KWOH5RREHLPRUW5F "
+    },
+    {
+        "input": "QUARRELS ",
+        "output": " KWOH5RREHLZ "
+    },
+    {
+        "input": "QUARRELSOME ",
+        "output": " KWOH5RREHLSAHM "
+    },
+    {
+        "input": "QUARRELSOMELY ",
+        "output": " KWOH5RREHLSAHMLIY "
+    },
+    {
+        "input": "QUARRELSOMENESS ",
+        "output": " KWOH5RREHLSAHMNEHS "
+    },
+    {
+        "input": "QUARRIABLE ",
+        "output": " KWOH5RRIHAXBUL "
+    },
+    {
+        "input": "QUARRIAN ",
+        "output": " KWOH5RRIHAEN "
+    },
+    {
+        "input": "QUARRIED ",
+        "output": " KWOH5RRIYD "
+    },
+    {
+        "input": "QUARRIER ",
+        "output": " KWOH5RRIYER "
+    },
+    {
+        "input": "QUARRIERS ",
+        "output": " KWOH5RRIYERZ "
+    },
+    {
+        "input": "QUARRIES ",
+        "output": " KWOH5RRIYZ "
+    },
+    {
+        "input": "QUARRION ",
+        "output": " KWOH5RRIHUN "
+    },
+    {
+        "input": "QUARROME ",
+        "output": " KWOH5RROW5M "
+    },
+    {
+        "input": "QUARRY ",
+        "output": " KWOH5RRIY "
+    },
+    {
+        "input": "QUARRY'S ",
+        "output": " KWOH5RRIYS "
+    },
+    {
+        "input": "QUARRYABLE ",
+        "output": " KWOH5RRIYAXBUL "
+    },
+    {
+        "input": "QUARRYING ",
+        "output": " KWOH5RRIYIHNX "
+    },
+    {
+        "input": "QUARRYMAN ",
+        "output": " KWOH5RRIYMAEN "
+    },
+    {
+        "input": "QUARRYMEN ",
+        "output": " KWOH5RRIYMEHN "
+    },
+    {
+        "input": "QUARRYSTONE ",
+        "output": " KWOH5RRIYSTOW5N "
+    },
+    {
+        "input": "QUARSOME ",
+        "output": " KWOH5RSAHM "
+    },
+    {
+        "input": "QUART ",
+        "output": " KWOH5RT "
+    },
+    {
+        "input": "QUARTA ",
+        "output": " KWOH5RTAH "
+    },
+    {
+        "input": "QUARTAN ",
+        "output": " KWOH5RTAEN "
+    },
+    {
+        "input": "QUARTANE ",
+        "output": " KWOH5RTEYN "
+    },
+    {
+        "input": "QUARTANO ",
+        "output": " KWOH5RTAENOW "
+    },
+    {
+        "input": "QUARTANS ",
+        "output": " KWOH5RTAENZ "
+    },
+    {
+        "input": "QUARTATION ",
+        "output": " KWOH5RTEY5SHUN "
+    },
+    {
+        "input": "QUARTAUT ",
+        "output": " KWOH5RTAO4T "
+    },
+    {
+        "input": "QUARTE ",
+        "output": " KWOH5RT "
+    },
+    {
+        "input": "QUARTENYLIC ",
+        "output": " KWOH5RTEHNIYLIHK "
+    },
+    {
+        "input": "QUARTER ",
+        "output": " KWOH5RTER "
+    },
+    {
+        "input": "QUARTERAGE ",
+        "output": " KWOH5RTERIHJ "
+    },
+    {
+        "input": "QUARTERBACK ",
+        "output": " KWOH5RTERBAEK "
+    },
+    {
+        "input": "QUARTERBACKS ",
+        "output": " KWOH5RTERBAEKS "
+    },
+    {
+        "input": "QUARTERDECK ",
+        "output": " KWOH5RTERDEHK "
+    },
+    {
+        "input": "QUARTERDECKISH ",
+        "output": " KWOH5RTERDEHKIHSH "
+    },
+    {
+        "input": "QUARTERDECKS ",
+        "output": " KWOH5RTERDEHKS "
+    },
+    {
+        "input": "QUARTERED ",
+        "output": " KWOH5RTIY4RD "
+    },
+    {
+        "input": "QUARTERER ",
+        "output": " KWOH5RTIY4RER "
+    },
+    {
+        "input": "QUARTERFINAL ",
+        "output": " KWOH5RTERFIHNUL "
+    },
+    {
+        "input": "QUARTERFINALIST ",
+        "output": " KWOH5RTERFIHNAELIHST "
+    },
+    {
+        "input": "QUARTERFOIL ",
+        "output": " KWOH5RTERFOY5L "
+    },
+    {
+        "input": "QUARTERING ",
+        "output": " KWOH5RTIY4RIHNX "
+    },
+    {
+        "input": "QUARTERINGS ",
+        "output": " KWOH5RTIY4RIHNXZ "
+    },
+    {
+        "input": "QUARTERIZATION ",
+        "output": " KWOH5RTEH4RIHZEY5SHUN "
+    },
+    {
+        "input": "QUARTERLAND ",
+        "output": " KWOH5RTERLAEND "
+    },
+    {
+        "input": "QUARTERLIES ",
+        "output": " KWOH5RTERLIYZ "
+    },
+    {
+        "input": "QUARTERLIGHT ",
+        "output": " KWOH5RTERLAY4T "
+    },
+    {
+        "input": "QUARTERLY ",
+        "output": " KWOH5RTERLIY "
+    },
+    {
+        "input": "QUARTERMAN ",
+        "output": " KWOH5RTERMAEN "
+    },
+    {
+        "input": "QUARTERMASTER ",
+        "output": " KWOH5RTERMAESTER "
+    },
+    {
+        "input": "QUARTERMASTERLIKE ",
+        "output": " KWOH5RTERMAESTERLIHK "
+    },
+    {
+        "input": "QUARTERMASTERS ",
+        "output": " KWOH5RTERMAESTERZ "
+    },
+    {
+        "input": "QUARTERMASTERSHIP ",
+        "output": " KWOH5RTERMAESTERSHIHP "
+    },
+    {
+        "input": "QUARTERMEN ",
+        "output": " KWOH5RTERMEHN "
+    },
+    {
+        "input": "QUARTERN ",
+        "output": " KWOH5RTERN "
+    },
+    {
+        "input": "QUARTERNIGHT ",
+        "output": " KWOH5RTERNAY4T "
+    },
+    {
+        "input": "QUARTERNION ",
+        "output": " KWOH5RTERNIHUN "
+    },
+    {
+        "input": "QUARTERNS ",
+        "output": " KWOH5RTERNZ "
+    },
+    {
+        "input": "QUARTERON ",
+        "output": " KWOH5RTERUN "
+    },
+    {
+        "input": "QUARTERPACE ",
+        "output": " KWOH5RTERPEYS "
+    },
+    {
+        "input": "QUARTERS ",
+        "output": " KWOH5RTERZ "
+    },
+    {
+        "input": "QUARTERSAW ",
+        "output": " KWOH5RTERSAO5 "
+    },
+    {
+        "input": "QUARTERSAWED ",
+        "output": " KWOH5RTERSAO5D "
+    },
+    {
+        "input": "QUARTERSAWING ",
+        "output": " KWOH5RTERSAO5IHNX "
+    },
+    {
+        "input": "QUARTERSAWN ",
+        "output": " KWOH5RTERSAO5N "
+    },
+    {
+        "input": "QUARTERSPACE ",
+        "output": " KWOH5RTERSPEYS "
+    },
+    {
+        "input": "QUARTERSTAFF ",
+        "output": " KWOH5RTERSTAEF "
+    },
+    {
+        "input": "QUARTERSTAVES ",
+        "output": " KWOH5RTERSTEYVZ "
+    },
+    {
+        "input": "QUARTERSTETCH ",
+        "output": " KWOH5RTERSTEHTCH "
+    },
+    {
+        "input": "QUARTES ",
+        "output": " KWOH5RTS "
+    },
+    {
+        "input": "QUARTET ",
+        "output": " KWOH5RTEHT "
+    },
+    {
+        "input": "QUARTET'S ",
+        "output": " KWOH5RTEHTS "
+    },
+    {
+        "input": "QUARTETS ",
+        "output": " KWOH5RTEHTS "
+    },
+    {
+        "input": "QUARTETTE ",
+        "output": " KWOH5RTEHTT "
+    },
+    {
+        "input": "QUARTETTO ",
+        "output": " KWOH5RTEHTTUX "
+    },
+    {
+        "input": "QUARTFUL ",
+        "output": " KWOH5RTFUHL "
+    },
+    {
+        "input": "QUARTIC ",
+        "output": " KWOH5RTIHK "
+    },
+    {
+        "input": "QUARTICS ",
+        "output": " KWOH5RTIHKS "
+    },
+    {
+        "input": "QUARTILE ",
+        "output": " KWOH5RTIHL "
+    },
+    {
+        "input": "QUARTILES ",
+        "output": " KWOH5RTIHLZ "
+    },
+    {
+        "input": "QUARTIN ",
+        "output": " KWOH5RTIHN "
+    },
+    {
+        "input": "QUARTINE ",
+        "output": " KWOH5RTIHN "
+    },
+    {
+        "input": "QUARTINHO ",
+        "output": " KWOH5RTIHN/HOW "
+    },
+    {
+        "input": "QUARTIPAROUS ",
+        "output": " KWOH5RTIHPEH4RAXS "
+    },
+    {
+        "input": "QUARTO ",
+        "output": " KWOH5RTUX "
+    },
+    {
+        "input": "QUARTODECIMANISM ",
+        "output": " KWOH5RTAADEHSIHMAENIHZUM "
+    },
+    {
+        "input": "QUARTOLE ",
+        "output": " KWOH5RTOW5L "
+    },
+    {
+        "input": "QUARTOS ",
+        "output": " KWOH5RTAAS "
+    },
+    {
+        "input": "QUARTS ",
+        "output": " KWOH5RTS "
+    },
+    {
+        "input": "QUARTUS ",
+        "output": " KWOH5RTAHS "
+    },
+    {
+        "input": "QUARTZ ",
+        "output": " KWOH5RTZ "
+    },
+    {
+        "input": "QUARTZES ",
+        "output": " KWOH5RTZIHZ "
+    },
+    {
+        "input": "QUARTZIC ",
+        "output": " KWOH5RTZIHK "
+    },
+    {
+        "input": "QUARTZIFEROUS ",
+        "output": " KWOH5RTZIHFERAXS "
+    },
+    {
+        "input": "QUARTZITE ",
+        "output": " KWOH5RTZIHT "
+    },
+    {
+        "input": "QUARTZITIC ",
+        "output": " KWOH5RTZIHTIHK "
+    },
+    {
+        "input": "QUARTZLESS ",
+        "output": " KWOH5RTZULEHS "
+    },
+    {
+        "input": "QUARTZOID ",
+        "output": " KWOH5RTZOY5D "
+    },
+    {
+        "input": "QUARTZOSE ",
+        "output": " KWOH5RTZOW5Z "
+    },
+    {
+        "input": "QUARTZOUS ",
+        "output": " KWOH5RTZAXS "
+    },
+    {
+        "input": "QUARTZY ",
+        "output": " KWOH5RTZIY "
+    },
+    {
+        "input": "QUASAR ",
+        "output": " KWAEZAA5R "
+    },
+    {
+        "input": "QUASARS ",
+        "output": " KWAEZAA5RZ "
+    },
+    {
+        "input": "QUASH ",
+        "output": " KWAESH "
+    },
+    {
+        "input": "QUASHED ",
+        "output": " KWAESHT "
+    },
+    {
+        "input": "QUASHEE ",
+        "output": " KWAESHIY4 "
+    },
+    {
+        "input": "QUASHER ",
+        "output": " KWAESHER "
+    },
+    {
+        "input": "QUASHERS ",
+        "output": " KWAESHERZ "
+    },
+    {
+        "input": "QUASHES ",
+        "output": " KWAESHIHZ "
+    },
+    {
+        "input": "QUASHEY ",
+        "output": " KWAESHIY "
+    },
+    {
+        "input": "QUASHING ",
+        "output": " KWAESHIHNX "
+    },
+    {
+        "input": "QUASHY ",
+        "output": " KWAESHIY "
+    },
+    {
+        "input": "QUASI ",
+        "output": " KWAEZAY "
+    },
+    {
+        "input": "QUASICONTINUOUS ",
+        "output": " KWAEZIHKAANTIHNYUWAXS "
+    },
+    {
+        "input": "QUASIJUDICIAL ",
+        "output": " KWAEZIHJUWDIHSHUL "
+    },
+    {
+        "input": "QUASIMODO ",
+        "output": " KWAEZIHMAADOW "
+    },
+    {
+        "input": "QUASIORDER ",
+        "output": " KWEY5ZIHAORDER "
+    },
+    {
+        "input": "QUASIPARTICLE ",
+        "output": " KWAEZIHPAA5RTIHKUL "
+    },
+    {
+        "input": "QUASIPERIODIC ",
+        "output": " KWAEZIHPIY4RIYAADIHK "
+    },
+    {
+        "input": "QUASISTATIONARY ",
+        "output": " KWAEZIHSTEY5SHUNEH4RIY "
+    },
+    {
+        "input": "QUASKIES ",
+        "output": " KWAESKIYZ "
+    },
+    {
+        "input": "QUASKY ",
+        "output": " KWAESKIY "
+    },
+    {
+        "input": "QUASQUICENTENNIAL ",
+        "output": " KWAESKWIHSEHNTEHNIHUL "
+    },
+    {
+        "input": "QUASS ",
+        "output": " KWAES "
+    },
+    {
+        "input": "QUASSATION ",
+        "output": " KWAESEY5SHUN "
+    },
+    {
+        "input": "QUASSATIVE ",
+        "output": " KWAESAETIHV "
+    },
+    {
+        "input": "QUASSES ",
+        "output": " KWAESIHZ "
+    },
+    {
+        "input": "QUASSIA ",
+        "output": " KWAESIHAH "
+    },
+    {
+        "input": "QUASSIAS ",
+        "output": " KWAESIHAEZ "
+    },
+    {
+        "input": "QUASSIIN ",
+        "output": " KWAESIHIHN "
+    },
+    {
+        "input": "QUASSIN ",
+        "output": " KWAESIHN "
+    },
+    {
+        "input": "QUASSINS ",
+        "output": " KWAESIHNZ "
+    },
+    {
+        "input": "QUAT ",
+        "output": " KWAET "
+    },
+    {
+        "input": "QUATA ",
+        "output": " KWAETAH "
+    },
+    {
+        "input": "QUATCH ",
+        "output": " KWAETCH "
+    },
+    {
+        "input": "QUATE ",
+        "output": " KWEYT "
+    },
+    {
+        "input": "QUATENUS ",
+        "output": " KWAETEHNAHS "
+    },
+    {
+        "input": "QUATERCENTENARY ",
+        "output": " KWEYTERSEHNTEHNEH4RIY "
+    },
+    {
+        "input": "QUATERION ",
+        "output": " KWEYTIY4RIYUN "
+    },
+    {
+        "input": "QUATERN ",
+        "output": " KWEYTERN "
+    },
+    {
+        "input": "QUATERNAL ",
+        "output": " KWEYTERNUL "
+    },
+    {
+        "input": "QUATERNARIAN ",
+        "output": " KWEYTERNEH4RIHAEN "
+    },
+    {
+        "input": "QUATERNARIES ",
+        "output": " KWEYTERNEH4RIYZ "
+    },
+    {
+        "input": "QUATERNARIUS ",
+        "output": " KWEYTERNEH4RIHAHS "
+    },
+    {
+        "input": "QUATERNARY ",
+        "output": " KWEYTERNEH4RIY "
+    },
+    {
+        "input": "QUATERNATE ",
+        "output": " KWEYTERNEYT "
+    },
+    {
+        "input": "QUATERNION ",
+        "output": " KWEYTERNIHUN "
+    },
+    {
+        "input": "QUATERNIONIC ",
+        "output": " KWEYTERNIHUNIHK "
+    },
+    {
+        "input": "QUATERNIONIST ",
+        "output": " KWEYTERNIHUNIHST "
+    },
+    {
+        "input": "QUATERNITARIAN ",
+        "output": " KWEYTERNIHTEH4RIHAEN "
+    },
+    {
+        "input": "QUATERNITIES ",
+        "output": " KWEYTERNIHTIYZ "
+    },
+    {
+        "input": "QUATERNITY ",
+        "output": " KWEYTERNIHTIY "
+    },
+    {
+        "input": "QUATERON ",
+        "output": " KWEYTERUN "
+    },
+    {
+        "input": "QUATERS ",
+        "output": " KWEYTERZ "
+    },
+    {
+        "input": "QUATERTENSES ",
+        "output": " KWEYTERTEHNSIHZ "
+    },
+    {
+        "input": "QUATORZAIN ",
+        "output": " KWAETAORZEY4N "
+    },
+    {
+        "input": "QUATORZE ",
+        "output": " KWAETAORZ "
+    },
+    {
+        "input": "QUATORZES ",
+        "output": " KWAETAORZIHZ "
+    },
+    {
+        "input": "QUATRAIN ",
+        "output": " KWAETREY4N "
+    },
+    {
+        "input": "QUATRAINS ",
+        "output": " KWAETREY4NZ "
+    },
+    {
+        "input": "QUATRAL ",
+        "output": " KWAETRUL "
+    },
+    {
+        "input": "QUATRAYLE ",
+        "output": " KWAETREY5L "
+    },
+    {
+        "input": "QUATRE ",
+        "output": " KWAETR "
+    },
+    {
+        "input": "QUATREBLE ",
+        "output": " KWAETREHBUL "
+    },
+    {
+        "input": "QUATREFEUILLE ",
+        "output": " KWAETREHFYUW5IHL "
+    },
+    {
+        "input": "QUATREFOIL ",
+        "output": " KWAETREHFOY5L "
+    },
+    {
+        "input": "QUATREFOILED ",
+        "output": " KWAETREHFOY5LD "
+    },
+    {
+        "input": "QUATREFOILS ",
+        "output": " KWAETREHFOY5LZ "
+    },
+    {
+        "input": "QUATREFOLIATED ",
+        "output": " KWAETREHFOW5LIHEYTIXD "
+    },
+    {
+        "input": "QUATRES ",
+        "output": " KWAETRZ "
+    },
+    {
+        "input": "QUATRIBLE ",
+        "output": " KWAETRIHBUL "
+    },
+    {
+        "input": "QUATRIN ",
+        "output": " KWAETRIHN "
+    },
+    {
+        "input": "QUATRINO ",
+        "output": " KWAETRIHNOW "
+    },
+    {
+        "input": "QUATROCENTISM ",
+        "output": " KWAETROWSEHNTIHZUM "
+    },
+    {
+        "input": "QUATROCENTIST ",
+        "output": " KWAETROWSEHNTIHST "
+    },
+    {
+        "input": "QUATROCENTO ",
+        "output": " KWAETROWSEHNTUX "
+    },
+    {
+        "input": "QUATTIE ",
+        "output": " KWAETTIY "
+    },
+    {
+        "input": "QUATTRINI ",
+        "output": " KWAETTRIHNAY "
+    },
+    {
+        "input": "QUATTRINO ",
+        "output": " KWAETTRIHNOW "
+    },
+    {
+        "input": "QUATTROCENTO ",
+        "output": " KWAETTROWSEHNTUX "
+    },
+    {
+        "input": "QUATTUORDECILLION ",
+        "output": " KWAETTUWAORDEHSIHLIHUN "
+    },
+    {
+        "input": "QUATTUORDECILLIONTH ",
+        "output": " KWAETTUWAORDEHSIHLIHUNTH "
+    },
+    {
+        "input": "QUATTY ",
+        "output": " KWAETTIY "
+    },
+    {
+        "input": "QUATUOR ",
+        "output": " KWAETUWER "
+    },
+    {
+        "input": "QUATUORVIRATE ",
+        "output": " KWAETUWAORVAYREYT "
+    },
+    {
+        "input": "QUAUK ",
+        "output": " KWAO4K "
+    },
+    {
+        "input": "QUAVE ",
+        "output": " KWEYV "
+    },
+    {
+        "input": "QUAVER ",
+        "output": " KWEYVER "
+    },
+    {
+        "input": "QUAVERED ",
+        "output": " KWEYVIY4RD "
+    },
+    {
+        "input": "QUAVERER ",
+        "output": " KWEYVIY4RER "
+    },
+    {
+        "input": "QUAVERERS ",
+        "output": " KWEYVIY4RERZ "
+    },
+    {
+        "input": "QUAVERING ",
+        "output": " KWEYVIY4RIHNX "
+    },
+    {
+        "input": "QUAVERINGLY ",
+        "output": " KWEYVIY4RIHNXLIY "
+    },
+    {
+        "input": "QUAVEROUS ",
+        "output": " KWEYVERAXS "
+    },
+    {
+        "input": "QUAVERS ",
+        "output": " KWEYVERZ "
+    },
+    {
+        "input": "QUAVERY ",
+        "output": " KWEYVERIY "
+    },
+    {
+        "input": "QUAVERYMAVERY ",
+        "output": " KWEYVERIYMEYVERIY "
+    },
+    {
+        "input": "QUAVIVER ",
+        "output": " KWAEVIHVER "
+    },
+    {
+        "input": "QUAW ",
+        "output": " KWAO5 "
+    },
+    {
+        "input": "QUAWK ",
+        "output": " KWAO5K "
+    },
+    {
+        "input": "QUAY ",
+        "output": " KWEY5 "
+    },
+    {
+        "input": "QUAYAGE ",
+        "output": " KWEY5IHJ "
+    },
+    {
+        "input": "QUAYAGES ",
+        "output": " KWEY5IHJIHZ "
+    },
+    {
+        "input": "QUAYED ",
+        "output": " KWEY5D "
+    },
+    {
+        "input": "QUAYFUL ",
+        "output": " KWEY5FUHL "
+    },
+    {
+        "input": "QUAYING ",
+        "output": " KWEY5IHNX "
+    },
+    {
+        "input": "QUAYLIKE ",
+        "output": " KWEY5LAYK "
+    },
+    {
+        "input": "QUAYMAN ",
+        "output": " KWEY5MAEN "
+    },
+    {
+        "input": "QUAYS ",
+        "output": " KWEY5Z "
+    },
+    {
+        "input": "QUAYSIDE ",
+        "output": " KWEY5ZAYD "
+    },
+    {
+        "input": "QUAYSIDER ",
+        "output": " KWEY5ZAYDER "
+    },
+    {
+        "input": "QUAYSIDES ",
+        "output": " KWEY5ZAYDZ "
+    },
+    {
+        "input": "QUBBA ",
+        "output": " KWBBAH "
+    },
+    {
+        "input": "QUE ",
+        "output": " KW "
+    },
+    {
+        "input": "QUEACH ",
+        "output": " KWIY5CH "
+    },
+    {
+        "input": "QUEACHIER ",
+        "output": " KWIY5CHIYER "
+    },
+    {
+        "input": "QUEACHIEST ",
+        "output": " KWIY5CHIYEHST "
+    },
+    {
+        "input": "QUEACHY ",
+        "output": " KWIY5CHIY "
+    },
+    {
+        "input": "QUEAK ",
+        "output": " KWIY5K "
+    },
+    {
+        "input": "QUEAL ",
+        "output": " KWIY5L "
+    },
+    {
+        "input": "QUEAN ",
+        "output": " KWIY5N "
+    },
+    {
+        "input": "QUEANISH ",
+        "output": " KWIY5NIHSH "
+    },
+    {
+        "input": "QUEANLIKE ",
+        "output": " KWIY5NLIHK "
+    },
+    {
+        "input": "QUEANS ",
+        "output": " KWIY5NZ "
+    },
+    {
+        "input": "QUEASE ",
+        "output": " KWIY5Z "
+    },
+    {
+        "input": "QUEASIER ",
+        "output": " KWIY5ZIYER "
+    },
+    {
+        "input": "QUEASIEST ",
+        "output": " KWIY5ZIYEHST "
+    },
+    {
+        "input": "QUEASILY ",
+        "output": " KWIY5ZIHLIY "
+    },
+    {
+        "input": "QUEASINESS ",
+        "output": " KWIY5ZIHNEHS "
+    },
+    {
+        "input": "QUEASOM ",
+        "output": " KWIY5ZAHM "
+    },
+    {
+        "input": "QUEASY ",
+        "output": " KWIY5ZIY "
+    },
+    {
+        "input": "QUEAZEN ",
+        "output": " KWIY5ZEHN "
+    },
+    {
+        "input": "QUEAZIER ",
+        "output": " KWIY5ZIYER "
+    },
+    {
+        "input": "QUEAZIEST ",
+        "output": " KWIY5ZIYEHST "
+    },
+    {
+        "input": "QUEAZY ",
+        "output": " KWIY5ZIY "
+    },
+    {
+        "input": "QUEBEC ",
+        "output": " KWEHBEHK "
+    },
+    {
+        "input": "QUEBRACHAMINE ",
+        "output": " KWEHBRAECHAEMIHN "
+    },
+    {
+        "input": "QUEBRACHINE ",
+        "output": " KWEHBRAECHIHN "
+    },
+    {
+        "input": "QUEBRACHITE ",
+        "output": " KWEHBRAECHIHT "
+    },
+    {
+        "input": "QUEBRACHITOL ",
+        "output": " KWEHBRAECHIHTAAL "
+    },
+    {
+        "input": "QUEBRACHO ",
+        "output": " KWEHBRAECHOW "
+    },
+    {
+        "input": "QUEBRADA ",
+        "output": " KWEHBRAEDAH "
+    },
+    {
+        "input": "QUEBRADILLA ",
+        "output": " KWEHBRAEDIHLAH "
+    },
+    {
+        "input": "QUEBRITH ",
+        "output": " KWEHBRIHTH "
+    },
+    {
+        "input": "QUECHUA ",
+        "output": " KWEHCHYUWAH "
+    },
+    {
+        "input": "QUEDFUL ",
+        "output": " KWEHDFUHL "
+    },
+    {
+        "input": "QUEDLY ",
+        "output": " KWEHDLIY "
+    },
+    {
+        "input": "QUEDNESS ",
+        "output": " KWEHDNEHS "
+    },
+    {
+        "input": "QUEDSHIP ",
+        "output": " KWEHDSHIHP "
+    },
+    {
+        "input": "QUEECHY ",
+        "output": " KWIY4CHIY "
+    },
+    {
+        "input": "QUEEN ",
+        "output": " KWIY4N "
+    },
+    {
+        "input": "QUEEN'S ",
+        "output": " KWIY4NS "
+    },
+    {
+        "input": "QUEENCAKE ",
+        "output": " KWIY4NKEYK "
+    },
+    {
+        "input": "QUEENCRAFT ",
+        "output": " KWIY4NKRAEFT "
+    },
+    {
+        "input": "QUEENCUP ",
+        "output": " KWIY4NKAHP "
+    },
+    {
+        "input": "QUEENDOM ",
+        "output": " KWIY4NDAHM "
+    },
+    {
+        "input": "QUEENED ",
+        "output": " KWIY4ND "
+    },
+    {
+        "input": "QUEENFISH ",
+        "output": " KWIY4NFIHSH "
+    },
+    {
+        "input": "QUEENFISHES ",
+        "output": " KWIY4NFIHSHIHZ "
+    },
+    {
+        "input": "QUEENHOOD ",
+        "output": " KWIY4N/HUH5D "
+    },
+    {
+        "input": "QUEENING ",
+        "output": " KWIY4NIHNX "
+    },
+    {
+        "input": "QUEENITE ",
+        "output": " KWIY4NAYT "
+    },
+    {
+        "input": "QUEENLESS ",
+        "output": " KWIY4NULEHS "
+    },
+    {
+        "input": "QUEENLET ",
+        "output": " KWIY4NLEHT "
+    },
+    {
+        "input": "QUEENLIER ",
+        "output": " KWIY4NLIYER "
+    },
+    {
+        "input": "QUEENLIEST ",
+        "output": " KWIY4NLIYEHST "
+    },
+    {
+        "input": "QUEENLIKE ",
+        "output": " KWIY4NLIHK "
+    },
+    {
+        "input": "QUEENLINESS ",
+        "output": " KWIY4NLIHNEHS "
+    },
+    {
+        "input": "QUEENLY ",
+        "output": " KWIY4NLIY "
+    },
+    {
+        "input": "QUEENRIGHT ",
+        "output": " KWIY4NRAY4T "
+    },
+    {
+        "input": "QUEENROOT ",
+        "output": " KWIY4NRUW5T "
+    },
+    {
+        "input": "QUEENS ",
+        "output": " KWIY4NZ "
+    },
+    {
+        "input": "QUEENSBERRIES ",
+        "output": " KWIY4NSBERRIYZ "
+    },
+    {
+        "input": "QUEENSBERRY ",
+        "output": " KWIY4NSBERRIY "
+    },
+    {
+        "input": "QUEENSHIP ",
+        "output": " KWIY4NSHIHP "
+    },
+    {
+        "input": "QUEENSWARE ",
+        "output": " KWIY4NSWEHR "
+    },
+    {
+        "input": "QUEENWEED ",
+        "output": " KWIY4NWIY4D "
+    },
+    {
+        "input": "QUEENWOOD ",
+        "output": " KWIY4NWUH5D "
+    },
+    {
+        "input": "QUEER ",
+        "output": " KWIY4R "
+    },
+    {
+        "input": "QUEERED ",
+        "output": " KWIY4RD "
+    },
+    {
+        "input": "QUEERER ",
+        "output": " KWIY4RER "
+    },
+    {
+        "input": "QUEEREST ",
+        "output": " KWIY4REHST "
+    },
+    {
+        "input": "QUEERING ",
+        "output": " KWIY4RIHNX "
+    },
+    {
+        "input": "QUEERISH ",
+        "output": " KWIY4RIHSH "
+    },
+    {
+        "input": "QUEERISHNESS ",
+        "output": " KWIY4RIHSHNEHS "
+    },
+    {
+        "input": "QUEERITY ",
+        "output": " KWIY4RAYTIY "
+    },
+    {
+        "input": "QUEERLY ",
+        "output": " KWIY4RLIY "
+    },
+    {
+        "input": "QUEERNESS ",
+        "output": " KWIY4RNEHS "
+    },
+    {
+        "input": "QUEERS ",
+        "output": " KWIY4RZ "
+    },
+    {
+        "input": "QUEERSOME ",
+        "output": " KWIY4RSAHM "
+    },
+    {
+        "input": "QUEERY ",
+        "output": " KWIY4RIY "
+    },
+    {
+        "input": "QUEEST ",
+        "output": " KWIY4ST "
+    },
+    {
+        "input": "QUEESTING ",
+        "output": " KWIY4STIHNX "
+    },
+    {
+        "input": "QUEET ",
+        "output": " KWIY4T "
+    },
+    {
+        "input": "QUEEVE ",
+        "output": " KWIY4V "
+    },
+    {
+        "input": "QUEGH ",
+        "output": " KWEH "
+    },
+    {
+        "input": "QUEI ",
+        "output": " KWIY4 "
+    },
+    {
+        "input": "QUEING ",
+        "output": " KWIY4NX "
+    },
+    {
+        "input": "QUEINTISE ",
+        "output": " KWIY4NTAYZ "
+    },
+    {
+        "input": "QUELCH ",
+        "output": " KWEHLCH "
+    },
+    {
+        "input": "QUELITE ",
+        "output": " KWEHLAYT "
+    },
+    {
+        "input": "QUELL ",
+        "output": " KWEHL "
+    },
+    {
+        "input": "QUELLABLE ",
+        "output": " KWEHLAXBUL "
+    },
+    {
+        "input": "QUELLED ",
+        "output": " KWEHLD "
+    },
+    {
+        "input": "QUELLER ",
+        "output": " KWEHLER "
+    },
+    {
+        "input": "QUELLERS ",
+        "output": " KWEHLERZ "
+    },
+    {
+        "input": "QUELLING ",
+        "output": " KWEHLIHNX "
+    },
+    {
+        "input": "QUELLIO ",
+        "output": " KWEHLIHOW "
+    },
+    {
+        "input": "QUELLS ",
+        "output": " KWEHLZ "
+    },
+    {
+        "input": "QUELLUNG ",
+        "output": " KWEHLAH5NX "
+    },
+    {
+        "input": "QUELME ",
+        "output": " KWEHLM "
+    },
+    {
+        "input": "QUELQUECHOSE ",
+        "output": " KWEHLKWEHCHOW5Z "
+    },
+    {
+        "input": "QUELT ",
+        "output": " KWEHLT "
+    },
+    {
+        "input": "QUEM ",
+        "output": " KWEHM "
+    },
+    {
+        "input": "QUEMADO ",
+        "output": " KWEHMAEDOW "
+    },
+    {
+        "input": "QUEME ",
+        "output": " KWIY4M "
+    },
+    {
+        "input": "QUEMEFUL ",
+        "output": " KWIY4MFUHL "
+    },
+    {
+        "input": "QUEMEFULLY ",
+        "output": " KWIY4MFUHLIY "
+    },
+    {
+        "input": "QUEMELY ",
+        "output": " KWIY4MLIY "
+    },
+    {
+        "input": "QUENCH ",
+        "output": " KWEHNCH "
+    },
+    {
+        "input": "QUENCHABLE ",
+        "output": " KWEHNCHAXBUL "
+    },
+    {
+        "input": "QUENCHABLENESS ",
+        "output": " KWEHNCHAXBULNEHS "
+    },
+    {
+        "input": "QUENCHED ",
+        "output": " KWEHNCHT "
+    },
+    {
+        "input": "QUENCHER ",
+        "output": " KWEHNCHER "
+    },
+    {
+        "input": "QUENCHERS ",
+        "output": " KWEHNCHERZ "
+    },
+    {
+        "input": "QUENCHES ",
+        "output": " KWEHNCHIHZ "
+    },
+    {
+        "input": "QUENCHING ",
+        "output": " KWEHNCHIHNX "
+    },
+    {
+        "input": "QUENCHLESS ",
+        "output": " KWEHNCHULEHS "
+    },
+    {
+        "input": "QUENCHLESSLY ",
+        "output": " KWEHNCHULEHSLIY "
+    },
+    {
+        "input": "QUENCHLESSNESS ",
+        "output": " KWEHNCHULEHSNEHS "
+    },
+    {
+        "input": "QUENDA ",
+        "output": " KWEHNDAH "
+    },
+    {
+        "input": "QUENELLE ",
+        "output": " KWEHNEHL "
+    },
+    {
+        "input": "QUENELLES ",
+        "output": " KWEHNEHLZ "
+    },
+    {
+        "input": "QUENITE ",
+        "output": " KWEHNAYT "
+    },
+    {
+        "input": "QUENSELITE ",
+        "output": " KWEHNSEHLAYT "
+    },
+    {
+        "input": "QUENT ",
+        "output": " KWEHNT "
+    },
+    {
+        "input": "QUENTISE ",
+        "output": " KWEHNTAYZ "
+    },
+    {
+        "input": "QUERCETAGETIN ",
+        "output": " KWERSEHTIHJEHTIHN "
+    },
+    {
+        "input": "QUERCETIC ",
+        "output": " KWERSEHTIHK "
+    },
+    {
+        "input": "QUERCETIN ",
+        "output": " KWERSEHTIHN "
+    },
+    {
+        "input": "QUERCETUM ",
+        "output": " KWERSEHTAHM "
+    },
+    {
+        "input": "QUERCIC ",
+        "output": " KWERSIHK "
+    },
+    {
+        "input": "QUERCIMERITRIN ",
+        "output": " KWERSIHMEH4RIHTRIHN "
+    },
+    {
+        "input": "QUERCIN ",
+        "output": " KWERSIHN "
+    },
+    {
+        "input": "QUERCINE ",
+        "output": " KWERSIHN "
+    },
+    {
+        "input": "QUERCINIC ",
+        "output": " KWERSIHNIHK "
+    },
+    {
+        "input": "QUERCITANNIC ",
+        "output": " KWERSIHTAENIHK "
+    },
+    {
+        "input": "QUERCITANNIN ",
+        "output": " KWERSIHTAENIHN "
+    },
+    {
+        "input": "QUERCITE ",
+        "output": " KWERSIHT "
+    },
+    {
+        "input": "QUERCITIN ",
+        "output": " KWERSIHTIHN "
+    },
+    {
+        "input": "QUERCITOL ",
+        "output": " KWERSIHTAAL "
+    },
+    {
+        "input": "QUERCITRIN ",
+        "output": " KWERSIHTRIHN "
+    },
+    {
+        "input": "QUERCITRON ",
+        "output": " KWERSIHTRUN "
+    },
+    {
+        "input": "QUERCIVOROUS ",
+        "output": " KWERSIHVAORAXS "
+    },
+    {
+        "input": "QUERELA ",
+        "output": " KWEREHLAH "
+    },
+    {
+        "input": "QUERELAE ",
+        "output": " KWEREHLAE "
+    },
+    {
+        "input": "QUERELE ",
+        "output": " KWERIY4L "
+    },
+    {
+        "input": "QUERENCIA ",
+        "output": " KWEREHNSHAH "
+    },
+    {
+        "input": "QUERENT ",
+        "output": " KWEREHNT "
+    },
+    {
+        "input": "QUERIDA ",
+        "output": " KWEH4RIHDAH "
+    },
+    {
+        "input": "QUERIDAS ",
+        "output": " KWEH4RIHDAES "
+    },
+    {
+        "input": "QUERIDO ",
+        "output": " KWEH4RIHDOW "
+    },
+    {
+        "input": "QUERIDOS ",
+        "output": " KWEH4RIHDAAS "
+    },
+    {
+        "input": "QUERIED ",
+        "output": " KWIY4RIYD "
+    },
+    {
+        "input": "QUERIER ",
+        "output": " KWIY4RIYER "
+    },
+    {
+        "input": "QUERIERS ",
+        "output": " KWIY4RIYERZ "
+    },
+    {
+        "input": "QUERIES ",
+        "output": " KWIY4RIYZ "
+    },
+    {
+        "input": "QUERIMAN ",
+        "output": " KWEH4RIHMAEN "
+    },
+    {
+        "input": "QUERIMANS ",
+        "output": " KWEH4RIHMAENZ "
+    },
+    {
+        "input": "QUERIMONIES ",
+        "output": " KWEH4RIHMOW5NIYZ "
+    },
+    {
+        "input": "QUERIMONIOUS ",
+        "output": " KWEH4RIHMOW5NIHAXS "
+    },
+    {
+        "input": "QUERIMONIOUSLY ",
+        "output": " KWEH4RIHMOW5NIHAXSLIY "
+    },
+    {
+        "input": "QUERIMONIOUSNESS ",
+        "output": " KWEH4RIHMOW5NIHAXSNEHS "
+    },
+    {
+        "input": "QUERIMONY ",
+        "output": " KWEH4RIHMUNIY "
+    },
+    {
+        "input": "QUERIST ",
+        "output": " KWEH4RIHST "
+    },
+    {
+        "input": "QUERISTS ",
+        "output": " KWEH4RIHSTS "
+    },
+    {
+        "input": "QUERKEN ",
+        "output": " KWERKEHN "
+    },
+    {
+        "input": "QUERL ",
+        "output": " KWERL "
+    },
+    {
+        "input": "QUERN ",
+        "output": " KWERN "
+    },
+    {
+        "input": "QUERNAL ",
+        "output": " KWERNUL "
+    },
+    {
+        "input": "QUERNS ",
+        "output": " KWERNZ "
+    },
+    {
+        "input": "QUERNSTONE ",
+        "output": " KWERNSTOW5N "
+    },
+    {
+        "input": "QUERRE ",
+        "output": " KWERR "
+    },
+    {
+        "input": "QUERSPRUNG ",
+        "output": " KWERSPRAH5NX "
+    },
+    {
+        "input": "QUERULANT ",
+        "output": " KWERUWLAENT "
+    },
+    {
+        "input": "QUERULATION ",
+        "output": " KWERUWLEY5SHUN "
+    },
+    {
+        "input": "QUERULENT ",
+        "output": " KWERUWLEHNT "
+    },
+    {
+        "input": "QUERULENTIAL ",
+        "output": " KWERUWLEHNSHUL "
+    },
+    {
+        "input": "QUERULIST ",
+        "output": " KWERUWLIHST "
+    },
+    {
+        "input": "QUERULITY ",
+        "output": " KWERUWLIHTIY "
+    },
+    {
+        "input": "QUERULOSITY ",
+        "output": " KWERUWLAAZIHTIY "
+    },
+    {
+        "input": "QUERULOUS ",
+        "output": " KWERUWLAXS "
+    },
+    {
+        "input": "QUERULOUSLY ",
+        "output": " KWERUWLAXSLIY "
+    },
+    {
+        "input": "QUERULOUSNESS ",
+        "output": " KWERUWLAXSNEHS "
+    },
+    {
+        "input": "QUERY ",
+        "output": " KWERIY "
+    },
+    {
+        "input": "QUERYING ",
+        "output": " KWERIYIHNX "
+    },
+    {
+        "input": "QUERYINGLY ",
+        "output": " KWERIYIHNXLIY "
+    },
+    {
+        "input": "QUERYIST ",
+        "output": " KWERIYIHST "
+    },
+    {
+        "input": "QUES ",
+        "output": " KWZ "
+    },
+    {
+        "input": "QUESAL ",
+        "output": " KWEHZUL "
+    },
+    {
+        "input": "QUESITED ",
+        "output": " KWEHZAYTIXD "
+    },
+    {
+        "input": "QUESITIVE ",
+        "output": " KWEHZIHTIHV "
+    },
+    {
+        "input": "QUEST ",
+        "output": " KWEHST "
+    },
+    {
+        "input": "QUESTED ",
+        "output": " KWEHSTIXD "
+    },
+    {
+        "input": "QUESTER ",
+        "output": " KWEHSTER "
+    },
+    {
+        "input": "QUESTERS ",
+        "output": " KWEHSTERZ "
+    },
+    {
+        "input": "QUESTEUR ",
+        "output": " KWEHSTYUW5R "
+    },
+    {
+        "input": "QUESTFUL ",
+        "output": " KWEHSTFUHL "
+    },
+    {
+        "input": "QUESTHOUSE ",
+        "output": " KWEHSTHAW4Z "
+    },
+    {
+        "input": "QUESTING ",
+        "output": " KWEHSTIHNX "
+    },
+    {
+        "input": "QUESTINGLY ",
+        "output": " KWEHSTIHNXLIY "
+    },
+    {
+        "input": "QUESTION ",
+        "output": " KWEHSCHUN "
+    },
+    {
+        "input": "QUESTIONABILITY ",
+        "output": " KWEHSCHUNAEBIHLIHTIY "
+    },
+    {
+        "input": "QUESTIONABLE ",
+        "output": " KWEHSCHUNAXBUL "
+    },
+    {
+        "input": "QUESTIONABLENESS ",
+        "output": " KWEHSCHUNAXBULNEHS "
+    },
+    {
+        "input": "QUESTIONABLY ",
+        "output": " KWEHSCHUNAEBLIY "
+    },
+    {
+        "input": "QUESTIONARIES ",
+        "output": " KWEHSCHUNEH4RIYZ "
+    },
+    {
+        "input": "QUESTIONARY ",
+        "output": " KWEHSCHUNEH4RIY "
+    },
+    {
+        "input": "QUESTIONED ",
+        "output": " KWEHSCHOW5ND "
+    },
+    {
+        "input": "QUESTIONEE ",
+        "output": " KWEHSCHUNIY4 "
+    },
+    {
+        "input": "QUESTIONER ",
+        "output": " KWEHSCHOW5NER "
+    },
+    {
+        "input": "QUESTIONERS ",
+        "output": " KWEHSCHOW5NERZ "
+    },
+    {
+        "input": "QUESTIONING ",
+        "output": " KWEHSCHOW5NIHNX "
+    },
+    {
+        "input": "QUESTIONINGLY ",
+        "output": " KWEHSCHOW5NIHNXLIY "
+    },
+    {
+        "input": "QUESTIONINGS ",
+        "output": " KWEHSCHOW5NIHNXZ "
+    },
+    {
+        "input": "QUESTIONIST ",
+        "output": " KWEHSCHUNIHST "
+    },
+    {
+        "input": "QUESTIONLE ",
+        "output": " KWEHSCHUNUL "
+    },
+    {
+        "input": "QUESTIONLESS ",
+        "output": " KWEHSCHUNULEHS "
+    },
+    {
+        "input": "QUESTIONLESSLY ",
+        "output": " KWEHSCHUNULEHSLIY "
+    },
+    {
+        "input": "QUESTIONLESSNESS ",
+        "output": " KWEHSCHUNULEHSNEHS "
+    },
+    {
+        "input": "QUESTIONNAIRE ",
+        "output": " KWEHSCHUNEH4R "
+    },
+    {
+        "input": "QUESTIONNAIRE'S ",
+        "output": " KWEHSCHUNEH4REHS "
+    },
+    {
+        "input": "QUESTIONNAIRES ",
+        "output": " KWEHSCHUNEH4RZ "
+    },
+    {
+        "input": "QUESTIONOUS ",
+        "output": " KWEHSCHUNAXS "
+    },
+    {
+        "input": "QUESTIONS ",
+        "output": " KWEHSCHUNZ "
+    },
+    {
+        "input": "QUESTIONWISE ",
+        "output": " KWEHSCHUNWAYZ "
+    },
+    {
+        "input": "QUESTMAN ",
+        "output": " KWEHSTMAEN "
+    },
+    {
+        "input": "QUESTMEN ",
+        "output": " KWEHSTMEHN "
+    },
+    {
+        "input": "QUESTMONGER ",
+        "output": " KWEHSTMAONXGER "
+    },
+    {
+        "input": "QUESTOR ",
+        "output": " KWEHSTER "
+    },
+    {
+        "input": "QUESTORIAL ",
+        "output": " KWEHSTAORIHUL "
+    },
+    {
+        "input": "QUESTORS ",
+        "output": " KWEHSTERZ "
+    },
+    {
+        "input": "QUESTORSHIP ",
+        "output": " KWEHSTAORSHIHP "
+    },
+    {
+        "input": "QUESTRIST ",
+        "output": " KWEHSTRIHST "
+    },
+    {
+        "input": "QUESTS ",
+        "output": " KWEHSTS "
+    },
+    {
+        "input": "QUET ",
+        "output": " KWEHT "
+    },
+    {
+        "input": "QUETCH ",
+        "output": " KWEHTCH "
+    },
+    {
+        "input": "QUETENITE ",
+        "output": " KWEHTEHNAYT "
+    },
+    {
+        "input": "QUETHE ",
+        "output": " KWEHTH "
+    },
+    {
+        "input": "QUETSCH ",
+        "output": " KWEHTSCH "
+    },
+    {
+        "input": "QUETZAL ",
+        "output": " KWEHTZUL "
+    },
+    {
+        "input": "QUETZALCOATL ",
+        "output": " KWEHTZAOLKOW4TL "
+    },
+    {
+        "input": "QUETZALES ",
+        "output": " KWEHTZEYLZ "
+    },
+    {
+        "input": "QUETZALS ",
+        "output": " KWEHTZULZ "
+    },
+    {
+        "input": "QUEUE ",
+        "output": " KWYUW5 "
+    },
+    {
+        "input": "QUEUED ",
+        "output": " KWYUW5D "
+    },
+    {
+        "input": "QUEUEING ",
+        "output": " KWYUW5IY4NX "
+    },
+    {
+        "input": "QUEUER ",
+        "output": " KWYUW5ER "
+    },
+    {
+        "input": "QUEUERS ",
+        "output": " KWYUW5ERZ "
+    },
+    {
+        "input": "QUEUES ",
+        "output": " KWYUW5Z "
+    },
+    {
+        "input": "QUEUING ",
+        "output": " KWYUW5IHNX "
+    },
+    {
+        "input": "QUEY ",
+        "output": " KWIY "
+    },
+    {
+        "input": "QUEYS ",
+        "output": " KWIYZ "
+    },
+    {
+        "input": "QUEZAL ",
+        "output": " KWEHZUL "
+    },
+    {
+        "input": "QUEZALES ",
+        "output": " KWEHZEYLZ "
+    },
+    {
+        "input": "QUEZALS ",
+        "output": " KWEHZULZ "
+    },
+    {
+        "input": "QUI ",
+        "output": " KWAY "
+    },
+    {
+        "input": "QUIA ",
+        "output": " KWIHAH "
+    },
+    {
+        "input": "QUIAPO ",
+        "output": " KWIHAEPOW "
+    },
+    {
+        "input": "QUIAQUIA ",
+        "output": " KWIHAEKWIHAH "
+    },
+    {
+        "input": "QUIB ",
+        "output": " KWIHB "
+    },
+    {
+        "input": "QUIBBLE ",
+        "output": " KWIHBBUL "
+    },
+    {
+        "input": "QUIBBLED ",
+        "output": " KWIHBBULD "
+    },
+    {
+        "input": "QUIBBLEPROOF ",
+        "output": " KWIHBBLEHPRUW5F "
+    },
+    {
+        "input": "QUIBBLER ",
+        "output": " KWIHBBULER "
+    },
+    {
+        "input": "QUIBBLERS ",
+        "output": " KWIHBBULERZ "
+    },
+    {
+        "input": "QUIBBLES ",
+        "output": " KWIHBBULZ "
+    },
+    {
+        "input": "QUIBBLING ",
+        "output": " KWIHBBULIHNX "
+    },
+    {
+        "input": "QUIBBLINGLY ",
+        "output": " KWIHBBULIHNXLIY "
+    },
+    {
+        "input": "QUIBLET ",
+        "output": " KWIHBLEHT "
+    },
+    {
+        "input": "QUIBUS ",
+        "output": " KWIHBAHS "
+    },
+    {
+        "input": "QUICA ",
+        "output": " KWIHKAH "
+    },
+    {
+        "input": "QUICHE ",
+        "output": " KWIHCH "
+    },
+    {
+        "input": "QUICHES ",
+        "output": " KWIHCHIHZ "
+    },
+    {
+        "input": "QUICK ",
+        "output": " KWIHK "
+    },
+    {
+        "input": "QUICKBEAM ",
+        "output": " KWIHKBIY5M "
+    },
+    {
+        "input": "QUICKBORN ",
+        "output": " KWIHKBAORN "
+    },
+    {
+        "input": "QUICKED ",
+        "output": " KWIHKT "
+    },
+    {
+        "input": "QUICKEN ",
+        "output": " KWIHKEHN "
+    },
+    {
+        "input": "QUICKENANCE ",
+        "output": " KWIHKEHNAENS "
+    },
+    {
+        "input": "QUICKENBEAM ",
+        "output": " KWIHKEHNBIY5M "
+    },
+    {
+        "input": "QUICKENED ",
+        "output": " KWIHKIY4ND "
+    },
+    {
+        "input": "QUICKENER ",
+        "output": " KWIHKIY4NER "
+    },
+    {
+        "input": "QUICKENING ",
+        "output": " KWIHKIY4NIHNX "
+    },
+    {
+        "input": "QUICKENS ",
+        "output": " KWIHKEHNZ "
+    },
+    {
+        "input": "QUICKER ",
+        "output": " KWIHKER "
+    },
+    {
+        "input": "QUICKEST ",
+        "output": " KWIHKEHST "
+    },
+    {
+        "input": "QUICKFOOT ",
+        "output": " KWIHKFUH5T "
+    },
+    {
+        "input": "QUICKHATCH ",
+        "output": " KWIHK/HAETCH "
+    },
+    {
+        "input": "QUICKHEARTED ",
+        "output": " KWIHK/HIY5RTIXD "
+    },
+    {
+        "input": "QUICKIE ",
+        "output": " KWIHKIY "
+    },
+    {
+        "input": "QUICKIES ",
+        "output": " KWIHKIYZ "
+    },
+    {
+        "input": "QUICKING ",
+        "output": " KWIHKIHNX "
+    },
+    {
+        "input": "QUICKLIME ",
+        "output": " KWIHKLIHM "
+    },
+    {
+        "input": "QUICKLY ",
+        "output": " KWIHKLIY "
+    },
+    {
+        "input": "QUICKNESS ",
+        "output": " KWIHKNEHS "
+    },
+    {
+        "input": "QUICKS ",
+        "output": " KWIHKS "
+    },
+    {
+        "input": "QUICKSAND ",
+        "output": " KWIHKSAEND "
+    },
+    {
+        "input": "QUICKSANDS ",
+        "output": " KWIHKSAENDZ "
+    },
+    {
+        "input": "QUICKSANDY ",
+        "output": " KWIHKSAENDIY "
+    },
+    {
+        "input": "QUICKSET ",
+        "output": " KWIHKSEHT "
+    },
+    {
+        "input": "QUICKSETS ",
+        "output": " KWIHKSEHTS "
+    },
+    {
+        "input": "QUICKSIDE ",
+        "output": " KWIHKSIHD "
+    },
+    {
+        "input": "QUICKSILVER ",
+        "output": " KWIHKSIHLVER "
+    },
+    {
+        "input": "QUICKSILVERING ",
+        "output": " KWIHKSIHLVIY4RIHNX "
+    },
+    {
+        "input": "QUICKSILVERISH ",
+        "output": " KWIHKSIHLVEH4RIHSH "
+    },
+    {
+        "input": "QUICKSILVERISHNESS ",
+        "output": " KWIHKSIHLVEH4RIHSHNEHS "
+    },
+    {
+        "input": "QUICKSILVERY ",
+        "output": " KWIHKSIHLVERIY "
+    },
+    {
+        "input": "QUICKSTEP ",
+        "output": " KWIHKSTEHP "
+    },
+    {
+        "input": "QUICKSTEPS ",
+        "output": " KWIHKSTEHS "
+    },
+    {
+        "input": "QUICKTHORN ",
+        "output": " KWIHKTHAORN "
+    },
+    {
+        "input": "QUICKWATER ",
+        "output": " KWIHKWAATER "
+    },
+    {
+        "input": "QUICKWITTEDNESS ",
+        "output": " KWIHKWIHTTIXDNEHS "
+    },
+    {
+        "input": "QUICKWORK ",
+        "output": " KWIHKWERK "
+    },
+    {
+        "input": "QUID ",
+        "output": " KWIHD "
+    },
+    {
+        "input": "QUIDAM ",
+        "output": " KWIHDAEM "
+    },
+    {
+        "input": "QUIDDANY ",
+        "output": " KWIHDDAENIY "
+    },
+    {
+        "input": "QUIDDATIVE ",
+        "output": " KWIHDDAETIHV "
+    },
+    {
+        "input": "QUIDDER ",
+        "output": " KWIHDDER "
+    },
+    {
+        "input": "QUIDDIT ",
+        "output": " KWIHDDIHT "
+    },
+    {
+        "input": "QUIDDITATIVE ",
+        "output": " KWIHDDIHTAETIHV "
+    },
+    {
+        "input": "QUIDDITATIVELY ",
+        "output": " KWIHDDIHTAETIHVLIY "
+    },
+    {
+        "input": "QUIDDITIES ",
+        "output": " KWIHDDIHTIYZ "
+    },
+    {
+        "input": "QUIDDITY ",
+        "output": " KWIHDDIHTIY "
+    },
+    {
+        "input": "QUIDDLE ",
+        "output": " KWIHDDUL "
+    },
+    {
+        "input": "QUIDDLED ",
+        "output": " KWIHDDULD "
+    },
+    {
+        "input": "QUIDDLER ",
+        "output": " KWIHDDULER "
+    },
+    {
+        "input": "QUIDDLING ",
+        "output": " KWIHDDULIHNX "
+    },
+    {
+        "input": "QUIDNUNC ",
+        "output": " KWIHDNAH5NK "
+    },
+    {
+        "input": "QUIDNUNCS ",
+        "output": " KWIHDNAH5NKS "
+    },
+    {
+        "input": "QUIDS ",
+        "output": " KWIHDZ "
+    },
+    {
+        "input": "QUIENAL ",
+        "output": " KWIYEHNUL "
+    },
+    {
+        "input": "QUIESCE ",
+        "output": " KWIYEHS "
+    },
+    {
+        "input": "QUIESCED ",
+        "output": " KWIYEHST "
+    },
+    {
+        "input": "QUIESCENCE ",
+        "output": " KWIYEHSEHNS "
+    },
+    {
+        "input": "QUIESCENCY ",
+        "output": " KWIYEHSEHNSIY "
+    },
+    {
+        "input": "QUIESCENT ",
+        "output": " KWIYEHSEHNT "
+    },
+    {
+        "input": "QUIESCENTLY ",
+        "output": " KWIYEHSEHNTLIY "
+    },
+    {
+        "input": "QUIESCING ",
+        "output": " KWIYEHSIHNX "
+    },
+    {
+        "input": "QUIET ",
+        "output": " KWAY4EHT "
+    },
+    {
+        "input": "QUIETA ",
+        "output": " KWAY4EHTAH "
+    },
+    {
+        "input": "QUIETABLE ",
+        "output": " KWAY4EHTAXBUL "
+    },
+    {
+        "input": "QUIETAGE ",
+        "output": " KWAY4EHTIHJ "
+    },
+    {
+        "input": "QUIETED ",
+        "output": " KWAY4EHTIXD "
+    },
+    {
+        "input": "QUIETEN ",
+        "output": " KWAY4EHTEHN "
+    },
+    {
+        "input": "QUIETENED ",
+        "output": " KWAY4EHTIY4ND "
+    },
+    {
+        "input": "QUIETENER ",
+        "output": " KWAY4EHTIY4NER "
+    },
+    {
+        "input": "QUIETENING ",
+        "output": " KWAY4EHTIY4NIHNX "
+    },
+    {
+        "input": "QUIETENS ",
+        "output": " KWAY4EHTEHNZ "
+    },
+    {
+        "input": "QUIETER ",
+        "output": " KWAY4EHTER "
+    },
+    {
+        "input": "QUIETERS ",
+        "output": " KWAY4EHTERZ "
+    },
+    {
+        "input": "QUIETEST ",
+        "output": " KWAY4EHTEHST "
+    },
+    {
+        "input": "QUIETI ",
+        "output": " KWAY4EHTAY "
+    },
+    {
+        "input": "QUIETING ",
+        "output": " KWAY4EHTIHNX "
+    },
+    {
+        "input": "QUIETISM ",
+        "output": " KWAY4EHTIHZUM "
+    },
+    {
+        "input": "QUIETISMS ",
+        "output": " KWAY4EHTIHZUMZ "
+    },
+    {
+        "input": "QUIETIST ",
+        "output": " KWAY4EHTIHST "
+    },
+    {
+        "input": "QUIETISTIC ",
+        "output": " KWAY4EHTIHSTIHK "
+    },
+    {
+        "input": "QUIETISTS ",
+        "output": " KWAY4EHTIHSTS "
+    },
+    {
+        "input": "QUIETIVE ",
+        "output": " KWAY4EHTAYV "
+    },
+    {
+        "input": "QUIETLIKE ",
+        "output": " KWAY4EHTLIHK "
+    },
+    {
+        "input": "QUIETLY ",
+        "output": " KWAY4EHTLIY "
+    },
+    {
+        "input": "QUIETNESS ",
+        "output": " KWAY4EHTNEHS "
+    },
+    {
+        "input": "QUIETS ",
+        "output": " KWAY4EHTS "
+    },
+    {
+        "input": "QUIETSOME ",
+        "output": " KWAY4EHTSAHM "
+    },
+    {
+        "input": "QUIETUDE ",
+        "output": " KWAY4EHTUWD "
+    },
+    {
+        "input": "QUIETUDES ",
+        "output": " KWAY4EHTUWDZ "
+    },
+    {
+        "input": "QUIETUS ",
+        "output": " KWAY4EHTAHS "
+    },
+    {
+        "input": "QUIETUSES ",
+        "output": " KWAY4EHTUWZIHZ "
+    },
+    {
+        "input": "QUIFF ",
+        "output": " KWIHF "
+    },
+    {
+        "input": "QUIFFING ",
+        "output": " KWIHFIHNX "
+    },
+    {
+        "input": "QUIFFS ",
+        "output": " KWIHFS "
+    },
+    {
+        "input": "QUIINACEOUS ",
+        "output": " KWIHIHNEY5SIYAXS "
+    },
+    {
+        "input": "QUILA ",
+        "output": " KWIHLAH "
+    },
+    {
+        "input": "QUILATE ",
+        "output": " KWIHLEYT "
+    },
+    {
+        "input": "QUILECES ",
+        "output": " KWIHLIY4SIHZ "
+    },
+    {
+        "input": "QUILES ",
+        "output": " KWAYLZ "
+    },
+    {
+        "input": "QUILESES ",
+        "output": " KWIHLIY4ZIHZ "
+    },
+    {
+        "input": "QUILEZ ",
+        "output": " KWAYLEHZ "
+    },
+    {
+        "input": "QUILISMA ",
+        "output": " KWIHLIHZUMAH "
+    },
+    {
+        "input": "QUILKIN ",
+        "output": " KWIHLKIHN "
+    },
+    {
+        "input": "QUILL ",
+        "output": " KWIHL "
+    },
+    {
+        "input": "QUILLAI ",
+        "output": " KWIHLEY4 "
+    },
+    {
+        "input": "QUILLAIA ",
+        "output": " KWIHLEY4AH "
+    },
+    {
+        "input": "QUILLAIAS ",
+        "output": " KWIHLEY4AEZ "
+    },
+    {
+        "input": "QUILLAIC ",
+        "output": " KWIHLEY4K "
+    },
+    {
+        "input": "QUILLAIS ",
+        "output": " KWIHLEY4Z "
+    },
+    {
+        "input": "QUILLAJA ",
+        "output": " KWIHLAEJAH "
+    },
+    {
+        "input": "QUILLAJAS ",
+        "output": " KWIHLAEJAES "
+    },
+    {
+        "input": "QUILLAJIC ",
+        "output": " KWIHLAEJIHK "
+    },
+    {
+        "input": "QUILLBACK ",
+        "output": " KWIHLBAEK "
+    },
+    {
+        "input": "QUILLBACKS ",
+        "output": " KWIHLBAEKS "
+    },
+    {
+        "input": "QUILLED ",
+        "output": " KWIHLD "
+    },
+    {
+        "input": "QUILLER ",
+        "output": " KWIHLER "
+    },
+    {
+        "input": "QUILLET ",
+        "output": " KWIHLEHT "
+    },
+    {
+        "input": "QUILLETED ",
+        "output": " KWIHLIY4TIXD "
+    },
+    {
+        "input": "QUILLETS ",
+        "output": " KWIHLEHTS "
+    },
+    {
+        "input": "QUILLFISH ",
+        "output": " KWIHLFIHSH "
+    },
+    {
+        "input": "QUILLFISHES ",
+        "output": " KWIHLFIHSHIHZ "
+    },
+    {
+        "input": "QUILLING ",
+        "output": " KWIHLIHNX "
+    },
+    {
+        "input": "QUILLITY ",
+        "output": " KWIHLIHTIY "
+    },
+    {
+        "input": "QUILLON ",
+        "output": " KWIHLUN "
+    },
+    {
+        "input": "QUILLS ",
+        "output": " KWIHLZ "
+    },
+    {
+        "input": "QUILLTAIL ",
+        "output": " KWIHLTEY4L "
+    },
+    {
+        "input": "QUILLWORK ",
+        "output": " KWIHLWERK "
+    },
+    {
+        "input": "QUILLWORT ",
+        "output": " KWIHLWERT "
+    },
+    {
+        "input": "QUILLY ",
+        "output": " KWIHLIY "
+    },
+    {
+        "input": "QUILT ",
+        "output": " KWIHLT "
+    },
+    {
+        "input": "QUILTED ",
+        "output": " KWIHLTIXD "
+    },
+    {
+        "input": "QUILTER ",
+        "output": " KWIHLTER "
+    },
+    {
+        "input": "QUILTERS ",
+        "output": " KWIHLTERZ "
+    },
+    {
+        "input": "QUILTING ",
+        "output": " KWIHLTIHNX "
+    },
+    {
+        "input": "QUILTINGS ",
+        "output": " KWIHLTIHNXZ "
+    },
+    {
+        "input": "QUILTS ",
+        "output": " KWIHLTS "
+    },
+    {
+        "input": "QUIM ",
+        "output": " KWIHM "
+    },
+    {
+        "input": "QUIN ",
+        "output": " KWIHN "
+    },
+    {
+        "input": "QUINA ",
+        "output": " KWIHNAH "
+    },
+    {
+        "input": "QUINACRINE ",
+        "output": " KWIHNAEKRIHN "
+    },
+    {
+        "input": "QUINALDIC ",
+        "output": " KWIHNAOLDIHK "
+    },
+    {
+        "input": "QUINALDIN ",
+        "output": " KWIHNAOLDIHN "
+    },
+    {
+        "input": "QUINALDINE ",
+        "output": " KWIHNAOLDIHN "
+    },
+    {
+        "input": "QUINALDINIC ",
+        "output": " KWIHNAOLDIHNIHK "
+    },
+    {
+        "input": "QUINALDINIUM ",
+        "output": " KWIHNAOLDIHNIHAHM "
+    },
+    {
+        "input": "QUINALDYL ",
+        "output": " KWIHNAOLDIYL "
+    },
+    {
+        "input": "QUINAMICIN ",
+        "output": " KWIHNAEMIHSIHN "
+    },
+    {
+        "input": "QUINAMICINE ",
+        "output": " KWIHNAEMIHSIHN "
+    },
+    {
+        "input": "QUINAMIDIN ",
+        "output": " KWIHNAEMIHDIHN "
+    },
+    {
+        "input": "QUINAMIDINE ",
+        "output": " KWIHNAEMIHDIHN "
+    },
+    {
+        "input": "QUINAMIN ",
+        "output": " KWIHNAEMIHN "
+    },
+    {
+        "input": "QUINAMINE ",
+        "output": " KWIHNAEMIHN "
+    },
+    {
+        "input": "QUINANARII ",
+        "output": " KWIHNAENEH4RIHAY "
+    },
+    {
+        "input": "QUINANISOLE ",
+        "output": " KWIHNAENIHZOW5L "
+    },
+    {
+        "input": "QUINAQUINA ",
+        "output": " KWIHNAEKWIHNAH "
+    },
+    {
+        "input": "QUINARIAN ",
+        "output": " KWIHNEH4RIHAEN "
+    },
+    {
+        "input": "QUINARIES ",
+        "output": " KWIHNEH4RIYZ "
+    },
+    {
+        "input": "QUINARII ",
+        "output": " KWIHNEH4RIHAY "
+    },
+    {
+        "input": "QUINARIUS ",
+        "output": " KWIHNEH4RIHAHS "
+    },
+    {
+        "input": "QUINARY ",
+        "output": " KWIHNEH4RIY "
+    },
+    {
+        "input": "QUINAS ",
+        "output": " KWIHNAES "
+    },
+    {
+        "input": "QUINATE ",
+        "output": " KWIHNEYT "
+    },
+    {
+        "input": "QUINATOXIN ",
+        "output": " KWIHNAETAAKSIHN "
+    },
+    {
+        "input": "QUINATOXINE ",
+        "output": " KWIHNAETAAKSIHN "
+    },
+    {
+        "input": "QUINAZOLIN ",
+        "output": " KWIHNAEZAALIHN "
+    },
+    {
+        "input": "QUINAZOLINE ",
+        "output": " KWIHNAEZAALIHN "
+    },
+    {
+        "input": "QUINAZOLYL ",
+        "output": " KWIHNAEZAALIYL "
+    },
+    {
+        "input": "QUINCE ",
+        "output": " KWIHNS "
+    },
+    {
+        "input": "QUINCENTENARY ",
+        "output": " KWIHNSEHNTEHNEH4RIY "
+    },
+    {
+        "input": "QUINCENTENNIAL ",
+        "output": " KWIHNSEHNTEHNIHUL "
+    },
+    {
+        "input": "QUINCES ",
+        "output": " KWIHNSIHZ "
+    },
+    {
+        "input": "QUINCEWORT ",
+        "output": " KWIHNSWERT "
+    },
+    {
+        "input": "QUINCH ",
+        "output": " KWIHNCH "
+    },
+    {
+        "input": "QUINCIES ",
+        "output": " KWIHNSIYZ "
+    },
+    {
+        "input": "QUINCUBITAL ",
+        "output": " KWIHNKYUWBIHTUL "
+    },
+    {
+        "input": "QUINCUBITALISM ",
+        "output": " KWIHNKYUWBIHTAELIHZUM "
+    },
+    {
+        "input": "QUINCUNCIAL ",
+        "output": " KWIHNKAH5NSHUL "
+    },
+    {
+        "input": "QUINCUNCIALLY ",
+        "output": " KWIHNKAH5NSHULIY "
+    },
+    {
+        "input": "QUINCUNX ",
+        "output": " KWIHNKAH5NKS "
+    },
+    {
+        "input": "QUINCUNXES ",
+        "output": " KWIHNKAH5NKSIHZ "
+    },
+    {
+        "input": "QUINCUNXIAL ",
+        "output": " KWIHNKAH5NKSIHUL "
+    },
+    {
+        "input": "QUINCY ",
+        "output": " KWIHNSIY "
+    },
+    {
+        "input": "QUINDECAD ",
+        "output": " KWAY5NDEHKAED "
+    },
+    {
+        "input": "QUINDECAGON ",
+        "output": " KWAY5NDEHKAEGUN "
+    },
+    {
+        "input": "QUINDECANGLE ",
+        "output": " KWAY5NDEHKAENXGUL "
+    },
+    {
+        "input": "QUINDECAPLET ",
+        "output": " KWAY5NDEHKAEPLEHT "
+    },
+    {
+        "input": "QUINDECASYLLABIC ",
+        "output": " KWAY5NDEHKAEZIYLAEBIHK "
+    },
+    {
+        "input": "QUINDECEMVIR ",
+        "output": " KWAY5NDEHSEHMVER "
+    },
+    {
+        "input": "QUINDECEMVIRATE ",
+        "output": " KWAY5NDEHSEHMVAYREYT "
+    },
+    {
+        "input": "QUINDECEMVIRI ",
+        "output": " KWAY5NDEHSEHMVAYRAY "
+    },
+    {
+        "input": "QUINDECENNIAL ",
+        "output": " KWAY5NDEHSEHNIHUL "
+    },
+    {
+        "input": "QUINDECILLION ",
+        "output": " KWAY5NDEHSIHLIHUN "
+    },
+    {
+        "input": "QUINDECILLIONTH ",
+        "output": " KWAY5NDEHSIHLIHUNTH "
+    },
+    {
+        "input": "QUINDECIM ",
+        "output": " KWAY5NDEHSIHM "
+    },
+    {
+        "input": "QUINDECIMA ",
+        "output": " KWAY5NDEHSIHMAH "
+    },
+    {
+        "input": "QUINDECIMVIR ",
+        "output": " KWAY5NDEHSIHMVER "
+    },
+    {
+        "input": "QUINDECYLIC ",
+        "output": " KWAY5NDEHSIYLIHK "
+    },
+    {
+        "input": "QUINDENE ",
+        "output": " KWAY5NDIY4N "
+    },
+    {
+        "input": "QUINELA ",
+        "output": " KWIHNEHLAH "
+    },
+    {
+        "input": "QUINELAS ",
+        "output": " KWIHNEHLAES "
+    },
+    {
+        "input": "QUINELLA ",
+        "output": " KWIHNEHLAH "
+    },
+    {
+        "input": "QUINELLAS ",
+        "output": " KWIHNEHLAES "
+    },
+    {
+        "input": "QUINET ",
+        "output": " KWAYNEHT "
+    },
+    {
+        "input": "QUINETUM ",
+        "output": " KWIHNEHTAHM "
+    },
+    {
+        "input": "QUINGENTENARY ",
+        "output": " KWIHNXGEHNTEHNEH4RIY "
+    },
+    {
+        "input": "QUINHYDRONE ",
+        "output": " KWIHN/HIYDROW5N "
+    },
+    {
+        "input": "QUINIA ",
+        "output": " KWIHNIHAH "
+    },
+    {
+        "input": "QUINIBLE ",
+        "output": " KWIHNIHBUL "
+    },
+    {
+        "input": "QUINIC ",
+        "output": " KWAYNIHK "
+    },
+    {
+        "input": "QUINICIN ",
+        "output": " KWIHNIHSIHN "
+    },
+    {
+        "input": "QUINICINE ",
+        "output": " KWIHNIHSIHN "
+    },
+    {
+        "input": "QUINIDIA ",
+        "output": " KWIHNIHDIHAH "
+    },
+    {
+        "input": "QUINIDIN ",
+        "output": " KWIHNIHDIHN "
+    },
+    {
+        "input": "QUINIDINE ",
+        "output": " KWIHNIHDIHN "
+    },
+    {
+        "input": "QUINIELA ",
+        "output": " KWIHNIY4LAH "
+    },
+    {
+        "input": "QUINIELAS ",
+        "output": " KWIHNIY4LAES "
+    },
+    {
+        "input": "QUININ ",
+        "output": " KWAYNIHN "
+    },
+    {
+        "input": "QUININA ",
+        "output": " KWIHNIHNAH "
+    },
+    {
+        "input": "QUININAS ",
+        "output": " KWIHNIHNAES "
+    },
+    {
+        "input": "QUININE ",
+        "output": " KWIHNIHN "
+    },
+    {
+        "input": "QUININES ",
+        "output": " KWIHNIHNZ "
+    },
+    {
+        "input": "QUININIAZATION ",
+        "output": " KWIHNIHNIHAEZEY5SHUN "
+    },
+    {
+        "input": "QUININIC ",
+        "output": " KWIHNIHNIHK "
+    },
+    {
+        "input": "QUININISM ",
+        "output": " KWIHNIHNIHZUM "
+    },
+    {
+        "input": "QUININIZE ",
+        "output": " KWIHNIHNAYZ "
+    },
+    {
+        "input": "QUININS ",
+        "output": " KWAYNIHNZ "
+    },
+    {
+        "input": "QUINIRETIN ",
+        "output": " KWIHNIHREHTIHN "
+    },
+    {
+        "input": "QUINISEXT ",
+        "output": " KWIHNIHZEHKST "
+    },
+    {
+        "input": "QUINISEXTINE ",
+        "output": " KWIHNIHZEHKSTIHN "
+    },
+    {
+        "input": "QUINISM ",
+        "output": " KWAYNIHZUM "
+    },
+    {
+        "input": "QUINITE ",
+        "output": " KWIHNIHT "
+    },
+    {
+        "input": "QUINITOL ",
+        "output": " KWIHNIHTAAL "
+    },
+    {
+        "input": "QUINIZARIN ",
+        "output": " KWIHNIHZEH4RIHN "
+    },
+    {
+        "input": "QUINIZE ",
+        "output": " KWIHNAYZ "
+    },
+    {
+        "input": "QUINK ",
+        "output": " KWIHNXK "
+    },
+    {
+        "input": "QUINNAT ",
+        "output": " KWIHNAET "
+    },
+    {
+        "input": "QUINNATS ",
+        "output": " KWIHNAETS "
+    },
+    {
+        "input": "QUINNET ",
+        "output": " KWIHNEHT "
+    },
+    {
+        "input": "QUINOA ",
+        "output": " KWIHNOW4 "
+    },
+    {
+        "input": "QUINOAS ",
+        "output": " KWIHNOW4Z "
+    },
+    {
+        "input": "QUINOCARBONIUM ",
+        "output": " KWIHNAAKAA5RBOW5NIHAHM "
+    },
+    {
+        "input": "QUINOFORM ",
+        "output": " KWIHNAAFAORM "
+    },
+    {
+        "input": "QUINOGEN ",
+        "output": " KWIHNOWJEHN "
+    },
+    {
+        "input": "QUINOID ",
+        "output": " KWIHNOY5D "
+    },
+    {
+        "input": "QUINOIDAL ",
+        "output": " KWIHNOY5DUL "
+    },
+    {
+        "input": "QUINOIDATION ",
+        "output": " KWIHNOY5DEY5SHUN "
+    },
+    {
+        "input": "QUINOIDIN ",
+        "output": " KWIHNOY5DIHN "
+    },
+    {
+        "input": "QUINOIDINE ",
+        "output": " KWIHNOY5DIHN "
+    },
+    {
+        "input": "QUINOIDS ",
+        "output": " KWIHNOY5DZ "
+    },
+    {
+        "input": "QUINOL ",
+        "output": " KWIHNAAL "
+    },
+    {
+        "input": "QUINOLAS ",
+        "output": " KWIHNAALAES "
+    },
+    {
+        "input": "QUINOLIN ",
+        "output": " KWIHNAALIHN "
+    },
+    {
+        "input": "QUINOLINE ",
+        "output": " KWIHNAALIHN "
+    },
+    {
+        "input": "QUINOLINIC ",
+        "output": " KWIHNAALIHNIHK "
+    },
+    {
+        "input": "QUINOLINIUM ",
+        "output": " KWIHNAALIHNIHAHM "
+    },
+    {
+        "input": "QUINOLINS ",
+        "output": " KWIHNAALIHNZ "
+    },
+    {
+        "input": "QUINOLINYL ",
+        "output": " KWIHNAALIHNIYL "
+    },
+    {
+        "input": "QUINOLOGIST ",
+        "output": " KWIHNAALAAJIHST "
+    },
+    {
+        "input": "QUINOLOGY ",
+        "output": " KWIHNAALAAJIY "
+    },
+    {
+        "input": "QUINOLS ",
+        "output": " KWIHNAALZ "
+    },
+    {
+        "input": "QUINOLYL ",
+        "output": " KWIHNAALIYL "
+    },
+    {
+        "input": "QUINOMETRY ",
+        "output": " KWIHNAHMEHTRIY "
+    },
+    {
+        "input": "QUINON ",
+        "output": " KWIHNUN "
+    },
+    {
+        "input": "QUINONE ",
+        "output": " KWIHNAH4N "
+    },
+    {
+        "input": "QUINONEDIIMINE ",
+        "output": " KWIHNAH4NEHDIHIHMIHN "
+    },
+    {
+        "input": "QUINONES ",
+        "output": " KWIHNAH4NZ "
+    },
+    {
+        "input": "QUINONIC ",
+        "output": " KWIHNUNIHK "
+    },
+    {
+        "input": "QUINONIMIN ",
+        "output": " KWIHNUNIHMIHN "
+    },
+    {
+        "input": "QUINONIMINE ",
+        "output": " KWIHNUNIHMIHN "
+    },
+    {
+        "input": "QUINONIZATION ",
+        "output": " KWIHNUNIHZEY5SHUN "
+    },
+    {
+        "input": "QUINONIZE ",
+        "output": " KWIHNUNAYZ "
+    },
+    {
+        "input": "QUINONOID ",
+        "output": " KWIHNUNOY5D "
+    },
+    {
+        "input": "QUINONYL ",
+        "output": " KWIHNUNIYL "
+    },
+    {
+        "input": "QUINOPYRIN ",
+        "output": " KWIHNAAPIYRIHN "
+    },
+    {
+        "input": "QUINOTANNIC ",
+        "output": " KWIHNAATAENIHK "
+    },
+    {
+        "input": "QUINOTOXINE ",
+        "output": " KWIHNAATAAKSIHN "
+    },
+    {
+        "input": "QUINOVA ",
+        "output": " KWIHNAH4VAH "
+    },
+    {
+        "input": "QUINOVATANNIC ",
+        "output": " KWIHNAH4VAETAENIHK "
+    },
+    {
+        "input": "QUINOVATE ",
+        "output": " KWIHNAH4VEYT "
+    },
+    {
+        "input": "QUINOVIC ",
+        "output": " KWIHNAH4VIHK "
+    },
+    {
+        "input": "QUINOVIN ",
+        "output": " KWIHNAH4VIHN "
+    },
+    {
+        "input": "QUINOVOSE ",
+        "output": " KWIHNAH4VOW5Z "
+    },
+    {
+        "input": "QUINOXALIN ",
+        "output": " KWIHNAAKSAELIHN "
+    },
+    {
+        "input": "QUINOXALINE ",
+        "output": " KWIHNAAKSAELIHN "
+    },
+    {
+        "input": "QUINOXALYL ",
+        "output": " KWIHNAAKSAELIYL "
+    },
+    {
+        "input": "QUINOYL ",
+        "output": " KWIHNOYL "
+    },
+    {
+        "input": "QUINQUAGENARIAN ",
+        "output": " KWIHNKWIHJEHNEH4RIHAEN "
+    },
+    {
+        "input": "QUINQUAGENARIES ",
+        "output": " KWIHNKWIHJEHNEH4RIYZ "
+    },
+    {
+        "input": "QUINQUAGENARY ",
+        "output": " KWIHNKWIHJEHNEH4RIY "
+    },
+    {
+        "input": "QUINQUAGESIMA ",
+        "output": " KWIHNKWIHJEHZIHMAH "
+    },
+    {
+        "input": "QUINQUAGESIMAL ",
+        "output": " KWIHNKWIHJEHZIHMUL "
+    },
+    {
+        "input": "QUINQUANGLE ",
+        "output": " KWIHNKWAENXGUL "
+    },
+    {
+        "input": "QUINQUARTICULAR ",
+        "output": " KWIHNKWOH5RTIHKYUWLAA5R "
+    },
+    {
+        "input": "QUINQUECAPSULAR ",
+        "output": " KWIHNKWEHKAESUWLAA5R "
+    },
+    {
+        "input": "QUINQUECENTENARY ",
+        "output": " KWIHNKWEHSEHNTEHNEH4RIY "
+    },
+    {
+        "input": "QUINQUECOSTATE ",
+        "output": " KWIHNKWEHKOWSTEYT "
+    },
+    {
+        "input": "QUINQUEDENTATE ",
+        "output": " KWIHNKWEHDEHNTEYT "
+    },
+    {
+        "input": "QUINQUEDENTATED ",
+        "output": " KWIHNKWEHDEHNTEYTIXD "
+    },
+    {
+        "input": "QUINQUEFARIOUS ",
+        "output": " KWIHNKWEHFEH4RIHAXS "
+    },
+    {
+        "input": "QUINQUEFID ",
+        "output": " KWIHNKWEHFIHD "
+    },
+    {
+        "input": "QUINQUEFOIL ",
+        "output": " KWIHNKWEHFOY5L "
+    },
+    {
+        "input": "QUINQUEFOLIATE ",
+        "output": " KWIHNKWEHFOW5LIHEYT "
+    },
+    {
+        "input": "QUINQUEFOLIATED ",
+        "output": " KWIHNKWEHFOW5LIHEYTIXD "
+    },
+    {
+        "input": "QUINQUEFOLIOLATE ",
+        "output": " KWIHNKWEHFOW5LIHAALEYT "
+    },
+    {
+        "input": "QUINQUEGRADE ",
+        "output": " KWIHNKWEHGREYD "
+    },
+    {
+        "input": "QUINQUEJUGOUS ",
+        "output": " KWIHNKWEHJUWGAXS "
+    },
+    {
+        "input": "QUINQUELATERAL ",
+        "output": " KWIHNKWEHLEYTERUL "
+    },
+    {
+        "input": "QUINQUELITERAL ",
+        "output": " KWIHNKWEHLIHTERUL "
+    },
+    {
+        "input": "QUINQUELOBATE ",
+        "output": " KWIHNKWEHLAABEYT "
+    },
+    {
+        "input": "QUINQUELOBATED ",
+        "output": " KWIHNKWEHLAABEYTIXD "
+    },
+    {
+        "input": "QUINQUELOBED ",
+        "output": " KWIHNKWEHLOW5BD "
+    },
+    {
+        "input": "QUINQUELOCULAR ",
+        "output": " KWIHNKWEHLOWKYUWLAA5R "
+    },
+    {
+        "input": "QUINQUELOCULINE ",
+        "output": " KWIHNKWEHLOWKYUWLIHN "
+    },
+    {
+        "input": "QUINQUENARY ",
+        "output": " KWIHNKWEHNEH4RIY "
+    },
+    {
+        "input": "QUINQUENERVAL ",
+        "output": " KWIHNKWIY4NERVUL "
+    },
+    {
+        "input": "QUINQUENERVED ",
+        "output": " KWIHNKWIY4NERVD "
+    },
+    {
+        "input": "QUINQUENNALIA ",
+        "output": " KWIHNKWEHNEY5LIHAH "
+    },
+    {
+        "input": "QUINQUENNIA ",
+        "output": " KWIHNKWEHNIHAH "
+    },
+    {
+        "input": "QUINQUENNIAD ",
+        "output": " KWIHNKWEHNIHAED "
+    },
+    {
+        "input": "QUINQUENNIAL ",
+        "output": " KWIHNKWEHNIHUL "
+    },
+    {
+        "input": "QUINQUENNIALIST ",
+        "output": " KWIHNKWEHNIHAELIHST "
+    },
+    {
+        "input": "QUINQUENNIALLY ",
+        "output": " KWIHNKWEHNIHULIY "
+    },
+    {
+        "input": "QUINQUENNIUM ",
+        "output": " KWIHNKWEHNIHAHM "
+    },
+    {
+        "input": "QUINQUENNIUMS ",
+        "output": " KWIHNKWEHNIHAH5MZ "
+    },
+    {
+        "input": "QUINQUEPARTITE ",
+        "output": " KWIHNKWEHPAA5RTIHT "
+    },
+    {
+        "input": "QUINQUEPARTITION ",
+        "output": " KWIHNKWEHPAA5RTIHSHUN "
+    },
+    {
+        "input": "QUINQUEPEDAL ",
+        "output": " KWIHNKWIY4PEHDUL "
+    },
+    {
+        "input": "QUINQUEPEDALIAN ",
+        "output": " KWIHNKWIY4PEHDEY5LIHAEN "
+    },
+    {
+        "input": "QUINQUEPETALOID ",
+        "output": " KWIHNKWEHPEHTAELOY5D "
+    },
+    {
+        "input": "QUINQUEPUNCTAL ",
+        "output": " KWIHNKWEHPAH5NKTUL "
+    },
+    {
+        "input": "QUINQUEPUNCTATE ",
+        "output": " KWIHNKWEHPAH5NKTEYT "
+    },
+    {
+        "input": "QUINQUERADIAL ",
+        "output": " KWIHNKWEREY5DIHUL "
+    },
+    {
+        "input": "QUINQUERADIATE ",
+        "output": " KWIHNKWEREY5DIHEYT "
+    },
+    {
+        "input": "QUINQUEREME ",
+        "output": " KWIHNKWERIY4M "
+    },
+    {
+        "input": "QUINQUERTIUM ",
+        "output": " KWIHNKWERTIHAHM "
+    },
+    {
+        "input": "QUINQUESECT ",
+        "output": " KWIHNKWEHZEHKT "
+    },
+    {
+        "input": "QUINQUESECTION ",
+        "output": " KWIHNKWEHZEHKSHUN "
+    },
+    {
+        "input": "QUINQUESEPTATE ",
+        "output": " KWIHNKWEHZEHPTEYT "
+    },
+    {
+        "input": "QUINQUESERIAL ",
+        "output": " KWIHNKWIY4ZIY4RIYUL "
+    },
+    {
+        "input": "QUINQUESERIATE ",
+        "output": " KWIHNKWIY4ZIY4RIYEYT "
+    },
+    {
+        "input": "QUINQUESYLLABIC ",
+        "output": " KWIHNKWEHZIYLAEBIHK "
+    },
+    {
+        "input": "QUINQUESYLLABLE ",
+        "output": " KWIHNKWEHZIYLAXBUL "
+    },
+    {
+        "input": "QUINQUETUBERCULAR ",
+        "output": " KWIHNKWEHTUWBERKYUWLAA5R "
+    },
+    {
+        "input": "QUINQUETUBERCULATE ",
+        "output": " KWIHNKWEHTUWBERKYUWLEYT "
+    },
+    {
+        "input": "QUINQUEVALENCE ",
+        "output": " KWIHNKWEHVAELEHNS "
+    },
+    {
+        "input": "QUINQUEVALENCY ",
+        "output": " KWIHNKWEHVAELEHNSIY "
+    },
+    {
+        "input": "QUINQUEVALENT ",
+        "output": " KWIHNKWEHVAELEHNT "
+    },
+    {
+        "input": "QUINQUEVALVE ",
+        "output": " KWIHNKWEHVAOLV "
+    },
+    {
+        "input": "QUINQUEVALVOUS ",
+        "output": " KWIHNKWEHVAOLVAXS "
+    },
+    {
+        "input": "QUINQUEVALVULAR ",
+        "output": " KWIHNKWEHVAOLVYUWLAA5R "
+    },
+    {
+        "input": "QUINQUEVERBAL ",
+        "output": " KWIHNKWEH4VERBUL "
+    },
+    {
+        "input": "QUINQUEVERBIAL ",
+        "output": " KWIHNKWEH4VERBIHUL "
+    },
+    {
+        "input": "QUINQUEVIR ",
+        "output": " KWIHNKWEHVER "
+    },
+    {
+        "input": "QUINQUEVIRATE ",
+        "output": " KWIHNKWEHVAYREYT "
+    },
+    {
+        "input": "QUINQUEVIRS ",
+        "output": " KWIHNKWEHVERZ "
+    },
+    {
+        "input": "QUINQUILITERAL ",
+        "output": " KWIHNKWIHLIHTERUL "
+    },
+    {
+        "input": "QUINQUINA ",
+        "output": " KWIHNKWIHNAH "
+    },
+    {
+        "input": "QUINQUINO ",
+        "output": " KWIHNKWIHNOW "
+    },
+    {
+        "input": "QUINQUIVALENT ",
+        "output": " KWIHNKWIHVAELEHNT "
+    },
+    {
+        "input": "QUINS ",
+        "output": " KWIHNZ "
+    },
+    {
+        "input": "QUINSE ",
+        "output": " KWIHNS "
+    },
+    {
+        "input": "QUINSIED ",
+        "output": " KWIHNSAY5D "
+    },
+    {
+        "input": "QUINSIES ",
+        "output": " KWIHNSIYZ "
+    },
+    {
+        "input": "QUINSY ",
+        "output": " KWIHNSIY "
+    },
+    {
+        "input": "QUINSYBERRIES ",
+        "output": " KWIHNSIYBERRIYZ "
+    },
+    {
+        "input": "QUINSYBERRY ",
+        "output": " KWIHNSIYBERRIY "
+    },
+    {
+        "input": "QUINSYWORT ",
+        "output": " KWIHNSIYWERT "
+    },
+    {
+        "input": "QUINT ",
+        "output": " KWIHNT "
+    },
+    {
+        "input": "QUINTA ",
+        "output": " KWIHNTAH "
+    },
+    {
+        "input": "QUINTAD ",
+        "output": " KWIHNTAED "
+    },
+    {
+        "input": "QUINTADENA ",
+        "output": " KWIHNTAEDEHNAH "
+    },
+    {
+        "input": "QUINTADENE ",
+        "output": " KWIHNTAEDIY4N "
+    },
+    {
+        "input": "QUINTAIN ",
+        "output": " KWIHNTEY4N "
+    },
+    {
+        "input": "QUINTAINS ",
+        "output": " KWIHNTEY4NZ "
+    },
+    {
+        "input": "QUINTAL ",
+        "output": " KWIHNTUL "
+    },
+    {
+        "input": "QUINTALS ",
+        "output": " KWIHNTULZ "
+    },
+    {
+        "input": "QUINTAN ",
+        "output": " KWIHNTAEN "
+    },
+    {
+        "input": "QUINTANS ",
+        "output": " KWIHNTAENZ "
+    },
+    {
+        "input": "QUINTANT ",
+        "output": " KWIHNTAENT "
+    },
+    {
+        "input": "QUINTAR ",
+        "output": " KWIHNTAA5R "
+    },
+    {
+        "input": "QUINTARS ",
+        "output": " KWIHNTAA5RZ "
+    },
+    {
+        "input": "QUINTARY ",
+        "output": " KWIHNTEH4RIY "
+    },
+    {
+        "input": "QUINTATEN ",
+        "output": " KWIHNTAETEHN "
+    },
+    {
+        "input": "QUINTATO ",
+        "output": " KWIHNTAETUX "
+    },
+    {
+        "input": "QUINTE ",
+        "output": " KWIHNT "
+    },
+    {
+        "input": "QUINTEFOIL ",
+        "output": " KWIHNTEHFOY5L "
+    },
+    {
+        "input": "QUINTELEMENT ",
+        "output": " KWIHNTEHLMEHNT "
+    },
+    {
+        "input": "QUINTENNIAL ",
+        "output": " KWIHNTEHNIHUL "
+    },
+    {
+        "input": "QUINTERNION ",
+        "output": " KWIHNTERNIHUN "
+    },
+    {
+        "input": "QUINTERON ",
+        "output": " KWIHNTERUN "
+    },
+    {
+        "input": "QUINTEROON ",
+        "output": " KWIHNTERUW5N "
+    },
+    {
+        "input": "QUINTES ",
+        "output": " KWIHNTS "
+    },
+    {
+        "input": "QUINTESCENCE ",
+        "output": " KWIHNTEHSEHNS "
+    },
+    {
+        "input": "QUINTESSENCE ",
+        "output": " KWIHNTEHSEHNS "
+    },
+    {
+        "input": "QUINTESSENTIAL ",
+        "output": " KWIHNTEHSEHNSHUL "
+    },
+    {
+        "input": "QUINTESSENTIALITY ",
+        "output": " KWIHNTEHSEHNSHAELIHTIY "
+    },
+    {
+        "input": "QUINTESSENTIALLY ",
+        "output": " KWIHNTEHSEHNSHULIY "
+    },
+    {
+        "input": "QUINTESSENTIATE ",
+        "output": " KWIHNTEHSEHNSHEYT "
+    },
+    {
+        "input": "QUINTET ",
+        "output": " KWIHNTEHT "
+    },
+    {
+        "input": "QUINTETS ",
+        "output": " KWIHNTEHTS "
+    },
+    {
+        "input": "QUINTETTE ",
+        "output": " KWIHNTEHTT "
+    },
+    {
+        "input": "QUINTETTO ",
+        "output": " KWIHNTEHTTUX "
+    },
+    {
+        "input": "QUINTFOIL ",
+        "output": " KWIHNTFOY5L "
+    },
+    {
+        "input": "QUINTIC ",
+        "output": " KWIHNTIHK "
+    },
+    {
+        "input": "QUINTICS ",
+        "output": " KWIHNTIHKS "
+    },
+    {
+        "input": "QUINTILE ",
+        "output": " KWIHNTIHL "
+    },
+    {
+        "input": "QUINTILES ",
+        "output": " KWIHNTIHLZ "
+    },
+    {
+        "input": "QUINTILLION ",
+        "output": " KWIHNTIHLIHUN "
+    },
+    {
+        "input": "QUINTILLIONS ",
+        "output": " KWIHNTIHLIHUNZ "
+    },
+    {
+        "input": "QUINTILLIONTH ",
+        "output": " KWIHNTIHLIHUNTH "
+    },
+    {
+        "input": "QUINTILLIONTHS ",
+        "output": " KWIHNTIHLIHUNTHS "
+    },
+    {
+        "input": "QUINTIN ",
+        "output": " KWIHNTIHN "
+    },
+    {
+        "input": "QUINTINS ",
+        "output": " KWIHNTIHNZ "
+    },
+    {
+        "input": "QUINTIPED ",
+        "output": " KWIHNTIHPT "
+    },
+    {
+        "input": "QUINTO ",
+        "output": " KWIHNTUX "
+    },
+    {
+        "input": "QUINTOCUBITAL ",
+        "output": " KWIHNTAAKYUWBIHTUL "
+    },
+    {
+        "input": "QUINTOCUBITALISM ",
+        "output": " KWIHNTAAKYUWBIHTAELIHZUM "
+    },
+    {
+        "input": "QUINTOLE ",
+        "output": " KWIHNTOW5L "
+    },
+    {
+        "input": "QUINTON ",
+        "output": " KWIHNTUN "
+    },
+    {
+        "input": "QUINTONS ",
+        "output": " KWIHNTUNZ "
+    },
+    {
+        "input": "QUINTROON ",
+        "output": " KWIHNTRUW5N "
+    },
+    {
+        "input": "QUINTS ",
+        "output": " KWIHNTS "
+    },
+    {
+        "input": "QUINTUPLE ",
+        "output": " KWIHNTAH5PUL "
+    },
+    {
+        "input": "QUINTUPLED ",
+        "output": " KWIHNTAH5PULD "
+    },
+    {
+        "input": "QUINTUPLES ",
+        "output": " KWIHNTAH5PULZ "
+    },
+    {
+        "input": "QUINTUPLET ",
+        "output": " KWIHNTAH5PLEHT "
+    },
+    {
+        "input": "QUINTUPLETS ",
+        "output": " KWIHNTAH5PLEHTS "
+    },
+    {
+        "input": "QUINTUPLICATE ",
+        "output": " KWIHNTAH5PLIHKEYT "
+    },
+    {
+        "input": "QUINTUPLICATED ",
+        "output": " KWIHNTAH5PLIHKEYTIXD "
+    },
+    {
+        "input": "QUINTUPLICATES ",
+        "output": " KWIHNTAH5PLIHKEYTS "
+    },
+    {
+        "input": "QUINTUPLICATING ",
+        "output": " KWIHNTAH5PLIHKEYTIHNX "
+    },
+    {
+        "input": "QUINTUPLICATION ",
+        "output": " KWIHNTAH5PLIHKEY5SHUN "
+    },
+    {
+        "input": "QUINTUPLINERVED ",
+        "output": " KWIHNTAH5PLIHNERVD "
+    },
+    {
+        "input": "QUINTUPLING ",
+        "output": " KWIHNTAH5PULIHNX "
+    },
+    {
+        "input": "QUINTUPLIRIBBED ",
+        "output": " KWIHNTAH5PLIHRIHBBD "
+    },
+    {
+        "input": "QUINTUS ",
+        "output": " KWIHNTAHS "
+    },
+    {
+        "input": "QUINUA ",
+        "output": " KWIHNYUWAH "
+    },
+    {
+        "input": "QUINUCLIDINE ",
+        "output": " KWIHNAH5KLIHDIHN "
+    },
+    {
+        "input": "QUINYIE ",
+        "output": " KWIHNIYIY "
+    },
+    {
+        "input": "QUINYL ",
+        "output": " KWAYNIYL "
+    },
+    {
+        "input": "QUINZAINE ",
+        "output": " KWIHNZEY4N "
+    },
+    {
+        "input": "QUINZE ",
+        "output": " KWIHNZ "
+    },
+    {
+        "input": "QUINZIEME ",
+        "output": " KWIHNZIY4M "
+    },
+    {
+        "input": "QUIP ",
+        "output": " KWIHP "
+    },
+    {
+        "input": "QUIPFUL ",
+        "output": " KWIHPFUHL "
+    },
+    {
+        "input": "QUIPO ",
+        "output": " KWIHPOW "
+    },
+    {
+        "input": "QUIPPE ",
+        "output": " KWIHP "
+    },
+    {
+        "input": "QUIPPED ",
+        "output": " KWIHPT "
+    },
+    {
+        "input": "QUIPPER ",
+        "output": " KWIHPER "
+    },
+    {
+        "input": "QUIPPING ",
+        "output": " KWIHPIHNX "
+    },
+    {
+        "input": "QUIPPISH ",
+        "output": " KWIHPIHSH "
+    },
+    {
+        "input": "QUIPPISHNESS ",
+        "output": " KWIHPIHSHNEHS "
+    },
+    {
+        "input": "QUIPPU ",
+        "output": " KWIHPYUW "
+    },
+    {
+        "input": "QUIPPUS ",
+        "output": " KWIHPAHS "
+    },
+    {
+        "input": "QUIPPY ",
+        "output": " KWIHPIY "
+    },
+    {
+        "input": "QUIPS ",
+        "output": " KWIHS "
+    },
+    {
+        "input": "QUIPSOME ",
+        "output": " KWIHSAHM "
+    },
+    {
+        "input": "QUIPSOMENESS ",
+        "output": " KWIHSAHMNEHS "
+    },
+    {
+        "input": "QUIPSTER ",
+        "output": " KWIHSTER "
+    },
+    {
+        "input": "QUIPSTERS ",
+        "output": " KWIHSTERZ "
+    },
+    {
+        "input": "QUIPU ",
+        "output": " KWIHPYUW "
+    },
+    {
+        "input": "QUIPUS ",
+        "output": " KWIHPAHS "
+    },
+    {
+        "input": "QUIRA ",
+        "output": " KWAYRAH "
+    },
+    {
+        "input": "QUIRCAL ",
+        "output": " KWERKUL "
+    },
+    {
+        "input": "QUIRE ",
+        "output": " KWAYR "
+    },
+    {
+        "input": "QUIRED ",
+        "output": " KWAYRD "
+    },
+    {
+        "input": "QUIRES ",
+        "output": " KWAYRZ "
+    },
+    {
+        "input": "QUIREWISE ",
+        "output": " KWIHRWAYZ "
+    },
+    {
+        "input": "QUIRINAL ",
+        "output": " KWIHRIHNUL "
+    },
+    {
+        "input": "QUIRINCA ",
+        "output": " KWIHRIHNKAH "
+    },
+    {
+        "input": "QUIRING ",
+        "output": " KWAYRIHNX "
+    },
+    {
+        "input": "QUIRITARIAN ",
+        "output": " KWIHRIHTEH4RIHAEN "
+    },
+    {
+        "input": "QUIRITARY ",
+        "output": " KWIHRIHTEH4RIY "
+    },
+    {
+        "input": "QUIRK ",
+        "output": " KWERK "
+    },
+    {
+        "input": "QUIRKED ",
+        "output": " KWERKT "
+    },
+    {
+        "input": "QUIRKIER ",
+        "output": " KWERKIYER "
+    },
+    {
+        "input": "QUIRKIEST ",
+        "output": " KWERKIYEHST "
+    },
+    {
+        "input": "QUIRKILY ",
+        "output": " KWERKIHLIY "
+    },
+    {
+        "input": "QUIRKINESS ",
+        "output": " KWERKIHNEHS "
+    },
+    {
+        "input": "QUIRKING ",
+        "output": " KWERKIHNX "
+    },
+    {
+        "input": "QUIRKISH ",
+        "output": " KWERKIHSH "
+    },
+    {
+        "input": "QUIRKS ",
+        "output": " KWERKS "
+    },
+    {
+        "input": "QUIRKSEY ",
+        "output": " KWERKSIY "
+    },
+    {
+        "input": "QUIRKSOME ",
+        "output": " KWERKSAHM "
+    },
+    {
+        "input": "QUIRKY ",
+        "output": " KWERKIY "
+    },
+    {
+        "input": "QUIRL ",
+        "output": " KWERL "
+    },
+    {
+        "input": "QUIRQUINCHO ",
+        "output": " KWERKWIHNCHOW "
+    },
+    {
+        "input": "QUIRT ",
+        "output": " KWERT "
+    },
+    {
+        "input": "QUIRTED ",
+        "output": " KWERTIXD "
+    },
+    {
+        "input": "QUIRTING ",
+        "output": " KWERTIHNX "
+    },
+    {
+        "input": "QUIRTS ",
+        "output": " KWERTS "
+    },
+    {
+        "input": "QUIS ",
+        "output": " KWIHZ "
+    },
+    {
+        "input": "QUISBY ",
+        "output": " KWIHSBIY "
+    },
+    {
+        "input": "QUISCOS ",
+        "output": " KWIHSKAAS "
+    },
+    {
+        "input": "QUISLE ",
+        "output": " KWIHSUL "
+    },
+    {
+        "input": "QUISLER ",
+        "output": " KWIHSULER "
+    },
+    {
+        "input": "QUISLING ",
+        "output": " KWIHSULIHNX "
+    },
+    {
+        "input": "QUISLINGISM ",
+        "output": " KWIHSULIHNXGIHZUM "
+    },
+    {
+        "input": "QUISLINGISTIC ",
+        "output": " KWIHSULIHNXGIHSTIHK "
+    },
+    {
+        "input": "QUISLINGS ",
+        "output": " KWIHSULIHNXZ "
+    },
+    {
+        "input": "QUISQUEITE ",
+        "output": " KWIHSKWIY4T "
+    },
+    {
+        "input": "QUISQUILIAN ",
+        "output": " KWIHSKWIHLIHAEN "
+    },
+    {
+        "input": "QUISQUILIARY ",
+        "output": " KWIHSKWIHLIHEH4RIY "
+    },
+    {
+        "input": "QUISQUILIOUS ",
+        "output": " KWIHSKWIHLIHAXS "
+    },
+    {
+        "input": "QUISQUOUS ",
+        "output": " KWIHSKWAXS "
+    },
+    {
+        "input": "QUIST ",
+        "output": " KWIHST "
+    },
+    {
+        "input": "QUISTITI ",
+        "output": " KWIHSTIHTAY "
+    },
+    {
+        "input": "QUISTRON ",
+        "output": " KWIHSTRUN "
+    },
+    {
+        "input": "QUISUTSCH ",
+        "output": " KWIHZAH5TSCH "
+    },
+    {
+        "input": "QUIT ",
+        "output": " KWIHT "
+    },
+    {
+        "input": "QUITANTIE ",
+        "output": " KWIHTAENTIY "
+    },
+    {
+        "input": "QUITCH ",
+        "output": " KWIHTCH "
+    },
+    {
+        "input": "QUITCHES ",
+        "output": " KWIHTCHIHZ "
+    },
+    {
+        "input": "QUITCLAIM ",
+        "output": " KWIHTKLEY4M "
+    },
+    {
+        "input": "QUITCLAIMED ",
+        "output": " KWIHTKLEY4MD "
+    },
+    {
+        "input": "QUITCLAIMING ",
+        "output": " KWIHTKLEY4MIHNX "
+    },
+    {
+        "input": "QUITCLAIMS ",
+        "output": " KWIHTKLEY4MZ "
+    },
+    {
+        "input": "QUITE ",
+        "output": " KWAYT "
+    },
+    {
+        "input": "QUITELY ",
+        "output": " KWIHTLIY "
+    },
+    {
+        "input": "QUITEVE ",
+        "output": " KWIHTIY4V "
+    },
+    {
+        "input": "QUITING ",
+        "output": " KWAYTIHNX "
+    },
+    {
+        "input": "QUITO ",
+        "output": " KWIHTUX "
+    },
+    {
+        "input": "QUITRENT ",
+        "output": " KWIHTREHNT "
+    },
+    {
+        "input": "QUITRENTS ",
+        "output": " KWIHTREHNTS "
+    },
+    {
+        "input": "QUITS ",
+        "output": " KWIHTS "
+    },
+    {
+        "input": "QUITTABLE ",
+        "output": " KWIHTTAXBUL "
+    },
+    {
+        "input": "QUITTAL ",
+        "output": " KWIHTTUL "
+    },
+    {
+        "input": "QUITTANCE ",
+        "output": " KWIHTTAENS "
+    },
+    {
+        "input": "QUITTANCES ",
+        "output": " KWIHTTAENSIHZ "
+    },
+    {
+        "input": "QUITTED ",
+        "output": " KWIHTTIXD "
+    },
+    {
+        "input": "QUITTER ",
+        "output": " KWIHTTER "
+    },
+    {
+        "input": "QUITTER'S ",
+        "output": " KWIHTTERS "
+    },
+    {
+        "input": "QUITTERBONE ",
+        "output": " KWIHTTERBOW5N "
+    },
+    {
+        "input": "QUITTERS ",
+        "output": " KWIHTTERZ "
+    },
+    {
+        "input": "QUITTING ",
+        "output": " KWIHTTIHNX "
+    },
+    {
+        "input": "QUITTOR ",
+        "output": " KWIHTTER "
+    },
+    {
+        "input": "QUITTORS ",
+        "output": " KWIHTTERZ "
+    },
+    {
+        "input": "QUIVER ",
+        "output": " KWAYVER "
+    },
+    {
+        "input": "QUIVERED ",
+        "output": " KWIHVIY4RD "
+    },
+    {
+        "input": "QUIVERER ",
+        "output": " KWIHVIY4RER "
+    },
+    {
+        "input": "QUIVERERS ",
+        "output": " KWIHVIY4RERZ "
+    },
+    {
+        "input": "QUIVERFUL ",
+        "output": " KWIHVERFUHL "
+    },
+    {
+        "input": "QUIVERING ",
+        "output": " KWIHVIY4RIHNX "
+    },
+    {
+        "input": "QUIVERINGLY ",
+        "output": " KWIHVIY4RIHNXLIY "
+    },
+    {
+        "input": "QUIVERISH ",
+        "output": " KWIHVEH4RIHSH "
+    },
+    {
+        "input": "QUIVERLEAF ",
+        "output": " KWIHVERLIY5F "
+    },
+    {
+        "input": "QUIVERS ",
+        "output": " KWAYVERZ "
+    },
+    {
+        "input": "QUIVERY ",
+        "output": " KWIHVERIY "
+    },
+    {
+        "input": "QUIXOTE ",
+        "output": " KWIHKSOW5T "
+    },
+    {
+        "input": "QUIXOTES ",
+        "output": " KWIHKSOW5TS "
+    },
+    {
+        "input": "QUIXOTIC ",
+        "output": " KWIHKSAATIHK "
+    },
+    {
+        "input": "QUIXOTICAL ",
+        "output": " KWIHKSAATIHKUL "
+    },
+    {
+        "input": "QUIXOTICALLY ",
+        "output": " KWIHKSAATIHKULIY "
+    },
+    {
+        "input": "QUIXOTISM ",
+        "output": " KWIHKSAATIHZUM "
+    },
+    {
+        "input": "QUIXOTIZE ",
+        "output": " KWIHKSAATAYZ "
+    },
+    {
+        "input": "QUIXOTRIES ",
+        "output": " KWIHKSAATRIYZ "
+    },
+    {
+        "input": "QUIXOTRY ",
+        "output": " KWIHKSAATRIY "
+    },
+    {
+        "input": "QUIZ ",
+        "output": " KWIHZ "
+    },
+    {
+        "input": "QUIZMASTER ",
+        "output": " KWIHZMAESTER "
+    },
+    {
+        "input": "QUIZZABILITY ",
+        "output": " KWIHZZAEBIHLIHTIY "
+    },
+    {
+        "input": "QUIZZABLE ",
+        "output": " KWIHZZAXBUL "
+    },
+    {
+        "input": "QUIZZACIOUS ",
+        "output": " KWIHZZEY5SHAXS "
+    },
+    {
+        "input": "QUIZZATORIAL ",
+        "output": " KWIHZZAETAORIHUL "
+    },
+    {
+        "input": "QUIZZED ",
+        "output": " KWIHZZD "
+    },
+    {
+        "input": "QUIZZEE ",
+        "output": " KWIHZZIY4 "
+    },
+    {
+        "input": "QUIZZER ",
+        "output": " KWIHZZER "
+    },
+    {
+        "input": "QUIZZERS ",
+        "output": " KWIHZZERZ "
+    },
+    {
+        "input": "QUIZZERY ",
+        "output": " KWIHZZERIY "
+    },
+    {
+        "input": "QUIZZES ",
+        "output": " KWIHZZIHZ "
+    },
+    {
+        "input": "QUIZZICAL ",
+        "output": " KWIHZZIHKUL "
+    },
+    {
+        "input": "QUIZZICALITY ",
+        "output": " KWIHZZIHKAELIHTIY "
+    },
+    {
+        "input": "QUIZZICALLY ",
+        "output": " KWIHZZIHKULIY "
+    },
+    {
+        "input": "QUIZZICALNESS ",
+        "output": " KWIHZZIHKAOLNEHS "
+    },
+    {
+        "input": "QUIZZIFICATION ",
+        "output": " KWIHZZIHFIHKEY5SHUN "
+    },
+    {
+        "input": "QUIZZIFY ",
+        "output": " KWIHZZIHFAY "
+    },
+    {
+        "input": "QUIZZINESS ",
+        "output": " KWIHZZIHNEHS "
+    },
+    {
+        "input": "QUIZZING ",
+        "output": " KWIHZZIHNX "
+    },
+    {
+        "input": "QUIZZINGLY ",
+        "output": " KWIHZZIHNXLIY "
+    },
+    {
+        "input": "QUIZZISH ",
+        "output": " KWIHZZIHSH "
+    },
+    {
+        "input": "QUIZZISM ",
+        "output": " KWIHZZIHZUM "
+    },
+    {
+        "input": "QUIZZITY ",
+        "output": " KWIHZZIHTIY "
+    },
+    {
+        "input": "QUIZZY ",
+        "output": " KWIHZZIY "
+    },
+    {
+        "input": "QUO ",
+        "output": " KWOW "
+    },
+    {
+        "input": "QUO' ",
+        "output": " KWOH "
+    },
+    {
+        "input": "QUOAD ",
+        "output": " KWOW4D "
+    },
+    {
+        "input": "QUOD ",
+        "output": " KWAAD "
+    },
+    {
+        "input": "QUODDED ",
+        "output": " KWAADDIHD "
+    },
+    {
+        "input": "QUODDIES ",
+        "output": " KWAADDIYZ "
+    },
+    {
+        "input": "QUODDING ",
+        "output": " KWAADDIHNX "
+    },
+    {
+        "input": "QUODDITY ",
+        "output": " KWAADDIHTIY "
+    },
+    {
+        "input": "QUODLIBET ",
+        "output": " KWAADLIHBEHT "
+    },
+    {
+        "input": "QUODLIBETAL ",
+        "output": " KWAADLIHBEHTUL "
+    },
+    {
+        "input": "QUODLIBETARIAN ",
+        "output": " KWAADLIHBEHTEH4RIHAEN "
+    },
+    {
+        "input": "QUODLIBETARY ",
+        "output": " KWAADLIHBEHTEH4RIY "
+    },
+    {
+        "input": "QUODLIBETIC ",
+        "output": " KWAADLIHBEHTIHK "
+    },
+    {
+        "input": "QUODLIBETICAL ",
+        "output": " KWAADLIHBEHTIHKUL "
+    },
+    {
+        "input": "QUODLIBETICALLY ",
+        "output": " KWAADLIHBEHTIHKULIY "
+    },
+    {
+        "input": "QUODLIBETZ ",
+        "output": " KWAADLIHBEHTZ "
+    },
+    {
+        "input": "QUODLING ",
+        "output": " KWAADULIHNX "
+    },
+    {
+        "input": "QUODS ",
+        "output": " KWAADZ "
+    },
+    {
+        "input": "QUOHOG ",
+        "output": " KWAA/HAAG "
+    },
+    {
+        "input": "QUOHOGS ",
+        "output": " KWAA/HAAGZ "
+    },
+    {
+        "input": "QUOILERS ",
+        "output": " KWOY5LERZ "
+    },
+    {
+        "input": "QUOIN ",
+        "output": " KWOY5N "
+    },
+    {
+        "input": "QUOINED ",
+        "output": " KWOY5ND "
+    },
+    {
+        "input": "QUOINING ",
+        "output": " KWOY5NIHNX "
+    },
+    {
+        "input": "QUOINS ",
+        "output": " KWOY5NZ "
+    },
+    {
+        "input": "QUOIT ",
+        "output": " KWOY5T "
+    },
+    {
+        "input": "QUOITED ",
+        "output": " KWOY5TIXD "
+    },
+    {
+        "input": "QUOITER ",
+        "output": " KWOY5TER "
+    },
+    {
+        "input": "QUOITING ",
+        "output": " KWOY5TIHNX "
+    },
+    {
+        "input": "QUOITLIKE ",
+        "output": " KWOY5TLIHK "
+    },
+    {
+        "input": "QUOITS ",
+        "output": " KWOY5TS "
+    },
+    {
+        "input": "QUOKKA ",
+        "output": " KWAAKKAH "
+    },
+    {
+        "input": "QUOKKAS ",
+        "output": " KWAAKKAES "
+    },
+    {
+        "input": "QUOMINUS ",
+        "output": " KWAAMIHNAHS "
+    },
+    {
+        "input": "QUOMODO ",
+        "output": " KWAAMAADOW "
+    },
+    {
+        "input": "QUOMODOS ",
+        "output": " KWAAMAADAAS "
+    },
+    {
+        "input": "QUONDAM ",
+        "output": " KWUNDAEM "
+    },
+    {
+        "input": "QUONDAMLY ",
+        "output": " KWUNDAEMLIY "
+    },
+    {
+        "input": "QUONDAMSHIP ",
+        "output": " KWUNDAEMSHIHP "
+    },
+    {
+        "input": "QUONIAM ",
+        "output": " KWOW5NIHAEM "
+    },
+    {
+        "input": "QUONKING ",
+        "output": " KWUNKIHNX "
+    },
+    {
+        "input": "QUONSET ",
+        "output": " KWUNSEHT "
+    },
+    {
+        "input": "QUOP ",
+        "output": " KWAAP "
+    },
+    {
+        "input": "QUOR ",
+        "output": " KWER "
+    },
+    {
+        "input": "QUORUM ",
+        "output": " KWAORAHM "
+    },
+    {
+        "input": "QUORUMS ",
+        "output": " KWAORAH5MZ "
+    },
+    {
+        "input": "QUOS ",
+        "output": " KWAAZ "
+    },
+    {
+        "input": "QUOT ",
+        "output": " KWAAT "
+    },
+    {
+        "input": "QUOTA ",
+        "output": " KWAATAH "
+    },
+    {
+        "input": "QUOTA'S ",
+        "output": " KWAATAES "
+    },
+    {
+        "input": "QUOTABILITY ",
+        "output": " KWAATAEBIHLIHTIY "
+    },
+    {
+        "input": "QUOTABLE ",
+        "output": " KWAATAXBUL "
+    },
+    {
+        "input": "QUOTABLENESS ",
+        "output": " KWAATAXBULNEHS "
+    },
+    {
+        "input": "QUOTABLY ",
+        "output": " KWAATAEBLIY "
+    },
+    {
+        "input": "QUOTAS ",
+        "output": " KWAATAES "
+    },
+    {
+        "input": "QUOTATION ",
+        "output": " KWAATEY5SHUN "
+    },
+    {
+        "input": "QUOTATION'S ",
+        "output": " KWAATEY5SHUNS "
+    },
+    {
+        "input": "QUOTATIONAL ",
+        "output": " KWAATEY5SHUNUL "
+    },
+    {
+        "input": "QUOTATIONALLY ",
+        "output": " KWAATEY5SHUNULIY "
+    },
+    {
+        "input": "QUOTATIONIST ",
+        "output": " KWAATEY5SHUNIHST "
+    },
+    {
+        "input": "QUOTATIONS ",
+        "output": " KWAATEY5SHUNZ "
+    },
+    {
+        "input": "QUOTATIVE ",
+        "output": " KWAATAETIHV "
+    },
+    {
+        "input": "QUOTE ",
+        "output": " KWOW5T "
+    },
+    {
+        "input": "QUOTED ",
+        "output": " KWOW5TIXD "
+    },
+    {
+        "input": "QUOTEE ",
+        "output": " KWAATIY4 "
+    },
+    {
+        "input": "QUOTELESS ",
+        "output": " KWAATIY4LEHS "
+    },
+    {
+        "input": "QUOTENNIAL ",
+        "output": " KWOWTEHNIHUL "
+    },
+    {
+        "input": "QUOTER ",
+        "output": " KWOW5TER "
+    },
+    {
+        "input": "QUOTERS ",
+        "output": " KWOW5TERZ "
+    },
+    {
+        "input": "QUOTES ",
+        "output": " KWOW5TS "
+    },
+    {
+        "input": "QUOTEWORTHY ",
+        "output": " KWAATWERTHIY "
+    },
+    {
+        "input": "QUOTH ",
+        "output": " KWAATH "
+    },
+    {
+        "input": "QUOTHA ",
+        "output": " KWAATHAH "
+    },
+    {
+        "input": "QUOTID ",
+        "output": " KWAATIHD "
+    },
+    {
+        "input": "QUOTIDIAN ",
+        "output": " KWAATIHDIHAEN "
+    },
+    {
+        "input": "QUOTIDIANLY ",
+        "output": " KWAATIHDIHAENLIY "
+    },
+    {
+        "input": "QUOTIDIANNESS ",
+        "output": " KWAATIHDIHAENEHS "
+    },
+    {
+        "input": "QUOTIENT ",
+        "output": " KWOW5SHUNT "
+    },
+    {
+        "input": "QUOTIENTS ",
+        "output": " KWOW5SHUNTS "
+    },
+    {
+        "input": "QUOTIES ",
+        "output": " KWOW5TIYZ "
+    },
+    {
+        "input": "QUOTIETIES ",
+        "output": " KWOW5TAY4EHTIYZ "
+    },
+    {
+        "input": "QUOTIETY ",
+        "output": " KWOW5TAY4EHTIY "
+    },
+    {
+        "input": "QUOTING ",
+        "output": " KWOW5TIHNX "
+    },
+    {
+        "input": "QUOTINGLY ",
+        "output": " KWOW5TIHNXLIY "
+    },
+    {
+        "input": "QUOTITY ",
+        "output": " KWAATIHTIY "
+    },
+    {
+        "input": "QUOTLIBET ",
+        "output": " KWAATLIHBEHT "
+    },
+    {
+        "input": "QUOTT ",
+        "output": " KWAATT "
+    },
+    {
+        "input": "QUOTUM ",
+        "output": " KWAATAHM "
+    },
+    {
+        "input": "QUR'AN ",
+        "output": " KWRAEN "
+    },
+    {
+        "input": "QURSH ",
+        "output": " KWRSH "
+    },
+    {
+        "input": "QURSHES ",
+        "output": " KWRSHIHZ "
+    },
+    {
+        "input": "QURUSH ",
+        "output": " KWRAH5SH "
+    },
+    {
+        "input": "QURUSHES ",
+        "output": " KWRAH5SHIHZ "
+    },
+    {
+        "input": "QV ",
+        "output": " KV "
+    },
+    {
+        "input": "QY ",
+        "output": " KAY "
+    }
+]

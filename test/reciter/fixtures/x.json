@@ -1,0 +1,1722 @@
+[
+    {
+        "input": "X ",
+        "output": " EH4KR "
+    },
+    {
+        "input": "X'ING ",
+        "output": " ZIHNX "
+    },
+    {
+        "input": "X'S ",
+        "output": " ZS "
+    },
+    {
+        "input": "XALOSTOCKITE ",
+        "output": " ZAELOWSTAAKIHT "
+    },
+    {
+        "input": "XANTHALINE ",
+        "output": " ZAENTHAELIHN "
+    },
+    {
+        "input": "XANTHAMIC ",
+        "output": " ZAENTHAEMIHK "
+    },
+    {
+        "input": "XANTHAMID ",
+        "output": " ZAENTHAEMIHD "
+    },
+    {
+        "input": "XANTHAMIDE ",
+        "output": " ZAENTHAEMIHD "
+    },
+    {
+        "input": "XANTHAN ",
+        "output": " ZAENTHAEN "
+    },
+    {
+        "input": "XANTHANE ",
+        "output": " ZAENTHEYN "
+    },
+    {
+        "input": "XANTHANS ",
+        "output": " ZAENTHAENZ "
+    },
+    {
+        "input": "XANTHATE ",
+        "output": " ZAENTHEYT "
+    },
+    {
+        "input": "XANTHATES ",
+        "output": " ZAENTHEYTS "
+    },
+    {
+        "input": "XANTHATION ",
+        "output": " ZAENTHEY5SHUN "
+    },
+    {
+        "input": "XANTHEIN ",
+        "output": " ZAENTHIY4N "
+    },
+    {
+        "input": "XANTHEINS ",
+        "output": " ZAENTHIY4NZ "
+    },
+    {
+        "input": "XANTHELASMA ",
+        "output": " ZAENTHEHLAEZUMAH "
+    },
+    {
+        "input": "XANTHELASMIC ",
+        "output": " ZAENTHEHLAEZUMIHK "
+    },
+    {
+        "input": "XANTHELASMOIDEA ",
+        "output": " ZAENTHEHLAEZUMOY5DIYAX "
+    },
+    {
+        "input": "XANTHENE ",
+        "output": " ZAENTHIY4N "
+    },
+    {
+        "input": "XANTHENES ",
+        "output": " ZAENTHIY4NZ "
+    },
+    {
+        "input": "XANTHIAN ",
+        "output": " ZAENTHIHAEN "
+    },
+    {
+        "input": "XANTHIC ",
+        "output": " ZAENTHIHK "
+    },
+    {
+        "input": "XANTHID ",
+        "output": " ZAENTHIHD "
+    },
+    {
+        "input": "XANTHIDE ",
+        "output": " ZAENTHIHD "
+    },
+    {
+        "input": "XANTHIN ",
+        "output": " ZAENTHIHN "
+    },
+    {
+        "input": "XANTHINDABA ",
+        "output": " ZAENTHAY5NDAEBAH "
+    },
+    {
+        "input": "XANTHINE ",
+        "output": " ZAENTHIHN "
+    },
+    {
+        "input": "XANTHINES ",
+        "output": " ZAENTHIHNZ "
+    },
+    {
+        "input": "XANTHINS ",
+        "output": " ZAENTHIHNZ "
+    },
+    {
+        "input": "XANTHINURIA ",
+        "output": " ZAENTHIHNUH4RIHAH "
+    },
+    {
+        "input": "XANTHIONE ",
+        "output": " ZAENTHIHWAHN "
+    },
+    {
+        "input": "XANTHIPPE ",
+        "output": " ZAENTHIHP "
+    },
+    {
+        "input": "XANTHISM ",
+        "output": " ZAENTHIHZUM "
+    },
+    {
+        "input": "XANTHITE ",
+        "output": " ZAENTHIHT "
+    },
+    {
+        "input": "XANTHIURIA ",
+        "output": " ZAENTHIHYUH4RIHAH "
+    },
+    {
+        "input": "XANTHOCARPOUS ",
+        "output": " ZAENTHAAKAA5RPAXS "
+    },
+    {
+        "input": "XANTHOCHROI ",
+        "output": " ZAENTHAACHROY5 "
+    },
+    {
+        "input": "XANTHOCHROIA ",
+        "output": " ZAENTHAACHROY5AH "
+    },
+    {
+        "input": "XANTHOCHROIC ",
+        "output": " ZAENTHAACHROY5K "
+    },
+    {
+        "input": "XANTHOCHROID ",
+        "output": " ZAENTHAACHROY5D "
+    },
+    {
+        "input": "XANTHOCHROISM ",
+        "output": " ZAENTHAACHROY5ZUM "
+    },
+    {
+        "input": "XANTHOCHROMIA ",
+        "output": " ZAENTHAACHROW5MIHAH "
+    },
+    {
+        "input": "XANTHOCHROMIC ",
+        "output": " ZAENTHAACHROW5MIHK "
+    },
+    {
+        "input": "XANTHOCHROOUS ",
+        "output": " ZAENTHAACHRUW5AHS "
+    },
+    {
+        "input": "XANTHOCOBALTIC ",
+        "output": " ZAENTHAAKAABAOLTIHK "
+    },
+    {
+        "input": "XANTHOCONE ",
+        "output": " ZAENTHAAKOW5N "
+    },
+    {
+        "input": "XANTHOCONITE ",
+        "output": " ZAENTHAAKAANIHT "
+    },
+    {
+        "input": "XANTHOCREATININE ",
+        "output": " ZAENTHAAKRIYEYTIHNIHN "
+    },
+    {
+        "input": "XANTHOCYANOPIA ",
+        "output": " ZAENTHAASIYAENOW5PIHAH "
+    },
+    {
+        "input": "XANTHOCYANOPSIA ",
+        "output": " ZAENTHAASIYAENAASIHAH "
+    },
+    {
+        "input": "XANTHOCYANOPSY ",
+        "output": " ZAENTHAASIYAENAASIY "
+    },
+    {
+        "input": "XANTHOCYANOPY ",
+        "output": " ZAENTHAASIYAENAAPIY "
+    },
+    {
+        "input": "XANTHODERM ",
+        "output": " ZAENTHOW5DERM "
+    },
+    {
+        "input": "XANTHODERMA ",
+        "output": " ZAENTHOW5DERMAH "
+    },
+    {
+        "input": "XANTHODERMATOUS ",
+        "output": " ZAENTHOW5DERMAETAXS "
+    },
+    {
+        "input": "XANTHODONT ",
+        "output": " ZAENTHAADUNT "
+    },
+    {
+        "input": "XANTHODONTOUS ",
+        "output": " ZAENTHAADUNTAXS "
+    },
+    {
+        "input": "XANTHOGEN ",
+        "output": " ZAENTHOWJEHN "
+    },
+    {
+        "input": "XANTHOGENAMIC ",
+        "output": " ZAENTHOWJEHNAEMIHK "
+    },
+    {
+        "input": "XANTHOGENAMIDE ",
+        "output": " ZAENTHOWJEHNAEMIHD "
+    },
+    {
+        "input": "XANTHOGENATE ",
+        "output": " ZAENTHOWJEHNEYT "
+    },
+    {
+        "input": "XANTHOGENIC ",
+        "output": " ZAENTHOWJEHNIHK "
+    },
+    {
+        "input": "XANTHOLEUCOPHORE ",
+        "output": " ZAENTHAALYUW5KAAFAOR "
+    },
+    {
+        "input": "XANTHOMA ",
+        "output": " ZAENTHAHMAH "
+    },
+    {
+        "input": "XANTHOMAS ",
+        "output": " ZAENTHAHMAES "
+    },
+    {
+        "input": "XANTHOMATA ",
+        "output": " ZAENTHAHMAETAH "
+    },
+    {
+        "input": "XANTHOMATOSIS ",
+        "output": " ZAENTHAHMAETAAZIHS "
+    },
+    {
+        "input": "XANTHOMATOUS ",
+        "output": " ZAENTHAHMAETAXS "
+    },
+    {
+        "input": "XANTHOMELANOUS ",
+        "output": " ZAENTHAHMEHLAENAXS "
+    },
+    {
+        "input": "XANTHOMETER ",
+        "output": " ZAENTHAHMIY4TER "
+    },
+    {
+        "input": "XANTHOMYELOMA ",
+        "output": " ZAENTHAHMIYEHLAHMAH "
+    },
+    {
+        "input": "XANTHONE ",
+        "output": " ZAENTHOW5N "
+    },
+    {
+        "input": "XANTHONES ",
+        "output": " ZAENTHOW5NZ "
+    },
+    {
+        "input": "XANTHOPHANE ",
+        "output": " ZAENTHAAFEYN "
+    },
+    {
+        "input": "XANTHOPHORE ",
+        "output": " ZAENTHAAFAOR "
+    },
+    {
+        "input": "XANTHOPHOSE ",
+        "output": " ZAENTHAAFOW5Z "
+    },
+    {
+        "input": "XANTHOPHYL ",
+        "output": " ZAENTHAAFIYL "
+    },
+    {
+        "input": "XANTHOPHYLL ",
+        "output": " ZAENTHAAFIYL "
+    },
+    {
+        "input": "XANTHOPHYLLIC ",
+        "output": " ZAENTHAAFIYLIHK "
+    },
+    {
+        "input": "XANTHOPHYLLITE ",
+        "output": " ZAENTHAAFIYLIHT "
+    },
+    {
+        "input": "XANTHOPHYLLOUS ",
+        "output": " ZAENTHAAFIYLAXS "
+    },
+    {
+        "input": "XANTHOPIA ",
+        "output": " ZAENTHOW5PIHAH "
+    },
+    {
+        "input": "XANTHOPICRIN ",
+        "output": " ZAENTHAAPIHKRIHN "
+    },
+    {
+        "input": "XANTHOPICRITE ",
+        "output": " ZAENTHAAPIHKRIHT "
+    },
+    {
+        "input": "XANTHOPROTEIC ",
+        "output": " ZAENTHAAPROW5TIY4K "
+    },
+    {
+        "input": "XANTHOPROTEIN ",
+        "output": " ZAENTHAAPROW5TIY4N "
+    },
+    {
+        "input": "XANTHOPROTEINIC ",
+        "output": " ZAENTHAAPROW5TIY4NIHK "
+    },
+    {
+        "input": "XANTHOPSIA ",
+        "output": " ZAENTHAASIHAH "
+    },
+    {
+        "input": "XANTHOPSIN ",
+        "output": " ZAENTHAASIHN "
+    },
+    {
+        "input": "XANTHOPSYDRACIA ",
+        "output": " ZAENTHAASIYDREY5SHAH "
+    },
+    {
+        "input": "XANTHOPTERIN ",
+        "output": " ZAENTHAAPTEH4RIHN "
+    },
+    {
+        "input": "XANTHOPURPURIN ",
+        "output": " ZAENTHAAPERPYUH4RIHN "
+    },
+    {
+        "input": "XANTHORHAMNIN ",
+        "output": " ZAENTHAOR/HAEMNIHN "
+    },
+    {
+        "input": "XANTHORRHOEA ",
+        "output": " ZAENTHAORR/HOWIYAX "
+    },
+    {
+        "input": "XANTHOSIDERITE ",
+        "output": " ZAENTHAAZIHDEH4RIHT "
+    },
+    {
+        "input": "XANTHOSIS ",
+        "output": " ZAENTHAAZIHS "
+    },
+    {
+        "input": "XANTHOSPERMOUS ",
+        "output": " ZAENTHAASPERMAXS "
+    },
+    {
+        "input": "XANTHOTIC ",
+        "output": " ZAENTHAATIHK "
+    },
+    {
+        "input": "XANTHOUS ",
+        "output": " ZAENTHAXS "
+    },
+    {
+        "input": "XANTHOXENITE ",
+        "output": " ZAENTHOWKSEHNAYT "
+    },
+    {
+        "input": "XANTHOXYLIN ",
+        "output": " ZAENTHAAKSIYLIHN "
+    },
+    {
+        "input": "XANTHROCHROID ",
+        "output": " ZAENTHROW5CHROY5D "
+    },
+    {
+        "input": "XANTHURIA ",
+        "output": " ZAENTHYUH4RIHAH "
+    },
+    {
+        "input": "XANTHYDROL ",
+        "output": " ZAENTHIYDRAAL "
+    },
+    {
+        "input": "XANTHYL ",
+        "output": " ZAENTHIYL "
+    },
+    {
+        "input": "XANTIPPE ",
+        "output": " ZAENTIHP "
+    },
+    {
+        "input": "XARQUE ",
+        "output": " ZAA5RKW "
+    },
+    {
+        "input": "XAT ",
+        "output": " ZAET "
+    },
+    {
+        "input": "XC ",
+        "output": " ZK "
+    },
+    {
+        "input": "XCL ",
+        "output": " ZKL "
+    },
+    {
+        "input": "XCTL ",
+        "output": " ZKTL "
+    },
+    {
+        "input": "XD ",
+        "output": " ZD "
+    },
+    {
+        "input": "XDIV ",
+        "output": " ZDIHV "
+    },
+    {
+        "input": "XEBEC ",
+        "output": " ZEHBEHK "
+    },
+    {
+        "input": "XEBECS ",
+        "output": " ZEHBEHKS "
+    },
+    {
+        "input": "XED ",
+        "output": " ZEHD "
+    },
+    {
+        "input": "XEME ",
+        "output": " ZIY4M "
+    },
+    {
+        "input": "XENACANTHINE ",
+        "output": " ZEHNAEKAENTHIHN "
+    },
+    {
+        "input": "XENAGOGUE ",
+        "output": " ZEHNAEGAAG "
+    },
+    {
+        "input": "XENAGOGY ",
+        "output": " ZEHNAEGAAJIY "
+    },
+    {
+        "input": "XENARTHRAL ",
+        "output": " ZEHNAA5RTHRUL "
+    },
+    {
+        "input": "XENARTHROUS ",
+        "output": " ZEHNAA5RTHRAXS "
+    },
+    {
+        "input": "XENELASIA ",
+        "output": " ZEHNEHLEY5ZIHAH "
+    },
+    {
+        "input": "XENELASY ",
+        "output": " ZEHNEHLAEZIY "
+    },
+    {
+        "input": "XENIA ",
+        "output": " ZEHNIHAH "
+    },
+    {
+        "input": "XENIAL ",
+        "output": " ZEHNIHUL "
+    },
+    {
+        "input": "XENIAN ",
+        "output": " ZEHNIHAEN "
+    },
+    {
+        "input": "XENIAS ",
+        "output": " ZEHNIHAEZ "
+    },
+    {
+        "input": "XENIC ",
+        "output": " ZEHNIHK "
+    },
+    {
+        "input": "XENICALLY ",
+        "output": " ZEHNIHKULIY "
+    },
+    {
+        "input": "XENIUM ",
+        "output": " ZEHNIHAHM "
+    },
+    {
+        "input": "XENOBIOLOGIES ",
+        "output": " ZEHNOW5BIHAALOW5JIYZ "
+    },
+    {
+        "input": "XENOBIOLOGY ",
+        "output": " ZEHNOW5BIHAALAAJIY "
+    },
+    {
+        "input": "XENOBIOSIS ",
+        "output": " ZEHNOW5BIHAAZIHS "
+    },
+    {
+        "input": "XENOBLAST ",
+        "output": " ZEHNAABLAEST "
+    },
+    {
+        "input": "XENOCHIA ",
+        "output": " ZEHNAACHIHAH "
+    },
+    {
+        "input": "XENOCRYST ",
+        "output": " ZEHNAAKRIYST "
+    },
+    {
+        "input": "XENOCRYSTIC ",
+        "output": " ZEHNAAKRIYSTIHK "
+    },
+    {
+        "input": "XENOCYST ",
+        "output": " ZEHNAASIYST "
+    },
+    {
+        "input": "XENODERM ",
+        "output": " ZEHNOW5DERM "
+    },
+    {
+        "input": "XENODIAGNOSIS ",
+        "output": " ZEHNOW5DIHAEGNAAZIHS "
+    },
+    {
+        "input": "XENODIAGNOSTIC ",
+        "output": " ZEHNOW5DIHAEGNOWSTIHK "
+    },
+    {
+        "input": "XENODOCHEION ",
+        "output": " ZEHNAADAACHIY4UN "
+    },
+    {
+        "input": "XENODOCHIA ",
+        "output": " ZEHNAADAACHIHAH "
+    },
+    {
+        "input": "XENODOCHIUM ",
+        "output": " ZEHNAADAACHIHAHM "
+    },
+    {
+        "input": "XENODOCHY ",
+        "output": " ZEHNAADAACHIY "
+    },
+    {
+        "input": "XENOGAMIES ",
+        "output": " ZEHNAAGEY5MIYZ "
+    },
+    {
+        "input": "XENOGAMOUS ",
+        "output": " ZEHNAAGAEMAXS "
+    },
+    {
+        "input": "XENOGAMY ",
+        "output": " ZEHNAAGAEMIY "
+    },
+    {
+        "input": "XENOGENEIC ",
+        "output": " ZEHNOWJEHNIY4K "
+    },
+    {
+        "input": "XENOGENESIS ",
+        "output": " ZEHNOWJIY4NEHZIHS "
+    },
+    {
+        "input": "XENOGENETIC ",
+        "output": " ZEHNOWJEHNEHTIHK "
+    },
+    {
+        "input": "XENOGENIC ",
+        "output": " ZEHNOWJEHNIHK "
+    },
+    {
+        "input": "XENOGENIES ",
+        "output": " ZEHNOWJEHNIYZ "
+    },
+    {
+        "input": "XENOGENOUS ",
+        "output": " ZEHNOWJEHNAXS "
+    },
+    {
+        "input": "XENOGENY ",
+        "output": " ZEHNOWJEHNIY "
+    },
+    {
+        "input": "XENOGLOSSIA ",
+        "output": " ZEHNAAGLAASIHAH "
+    },
+    {
+        "input": "XENOGRAFT ",
+        "output": " ZEHNAAGRAEFT "
+    },
+    {
+        "input": "XENOLITE ",
+        "output": " ZEHNAALIHT "
+    },
+    {
+        "input": "XENOLITH ",
+        "output": " ZEHNAALIHTH "
+    },
+    {
+        "input": "XENOLITHIC ",
+        "output": " ZEHNAALIHTHIHK "
+    },
+    {
+        "input": "XENOLITHS ",
+        "output": " ZEHNAALIHTHS "
+    },
+    {
+        "input": "XENOMANIA ",
+        "output": " ZEHNAHMEY5NIHAH "
+    },
+    {
+        "input": "XENOMANIAC ",
+        "output": " ZEHNAHMEY5NIHAEK "
+    },
+    {
+        "input": "XENOMORPHIC ",
+        "output": " ZEHNAHMAORFIHK "
+    },
+    {
+        "input": "XENOMORPHICALLY ",
+        "output": " ZEHNAHMAORFIHKULIY "
+    },
+    {
+        "input": "XENOMORPHOSIS ",
+        "output": " ZEHNAHMAORFAAZIHS "
+    },
+    {
+        "input": "XENON ",
+        "output": " ZEHNUN "
+    },
+    {
+        "input": "XENONS ",
+        "output": " ZEHNUNZ "
+    },
+    {
+        "input": "XENOPARASITE ",
+        "output": " ZEHNAAPEH4RAEZIHT "
+    },
+    {
+        "input": "XENOPARASITISM ",
+        "output": " ZEHNAAPEH4RAEZIHTIHZUM "
+    },
+    {
+        "input": "XENOPELTID ",
+        "output": " ZEHNAAPEHLTIHD "
+    },
+    {
+        "input": "XENOPHILE ",
+        "output": " ZEHNAAFIHL "
+    },
+    {
+        "input": "XENOPHILISM ",
+        "output": " ZEHNAAFIHLIHZUM "
+    },
+    {
+        "input": "XENOPHILOUS ",
+        "output": " ZEHNAAFIHLAXS "
+    },
+    {
+        "input": "XENOPHOBE ",
+        "output": " ZEHNAAFOW5B "
+    },
+    {
+        "input": "XENOPHOBES ",
+        "output": " ZEHNAAFOW5BZ "
+    },
+    {
+        "input": "XENOPHOBIA ",
+        "output": " ZEHNAAFOW5BIHAH "
+    },
+    {
+        "input": "XENOPHOBIAN ",
+        "output": " ZEHNAAFOW5BIHAEN "
+    },
+    {
+        "input": "XENOPHOBIC ",
+        "output": " ZEHNAAFAABIHK "
+    },
+    {
+        "input": "XENOPHOBISM ",
+        "output": " ZEHNAAFAABIHZUM "
+    },
+    {
+        "input": "XENOPHOBY ",
+        "output": " ZEHNAAFAABIY "
+    },
+    {
+        "input": "XENOPHONTEAN ",
+        "output": " ZEHNAAFUNTIY5N "
+    },
+    {
+        "input": "XENOPHORAN ",
+        "output": " ZEHNAAFAORAEN "
+    },
+    {
+        "input": "XENOPHTHALMIA ",
+        "output": " ZEHNAAFTHAOLMIHAH "
+    },
+    {
+        "input": "XENOPHYA ",
+        "output": " ZEHNAAFIYAH "
+    },
+    {
+        "input": "XENOPLASTIC ",
+        "output": " ZEHNAAPLAESTIHK "
+    },
+    {
+        "input": "XENOPODID ",
+        "output": " ZEHNAAPAADIHD "
+    },
+    {
+        "input": "XENOPODOID ",
+        "output": " ZEHNAAPAADOY5D "
+    },
+    {
+        "input": "XENOPTERAN ",
+        "output": " ZEHNAAPTERAEN "
+    },
+    {
+        "input": "XENOPTERYGIAN ",
+        "output": " ZEHNAAPTERIYJIHAEN "
+    },
+    {
+        "input": "XENOSAURID ",
+        "output": " ZEHNAAZAO4RIHD "
+    },
+    {
+        "input": "XENOSAUROID ",
+        "output": " ZEHNAAZAO4ROY5D "
+    },
+    {
+        "input": "XENOTIME ",
+        "output": " ZEHNAATIHM "
+    },
+    {
+        "input": "XENOTROPIC ",
+        "output": " ZEHNAATROW5PIHK "
+    },
+    {
+        "input": "XENYL ",
+        "output": " ZEHNIYL "
+    },
+    {
+        "input": "XENYLAMINE ",
+        "output": " ZEHNIYLAEMIHN "
+    },
+    {
+        "input": "XERAFIN ",
+        "output": " ZEHRAEFIHN "
+    },
+    {
+        "input": "XERANSIS ",
+        "output": " ZEHRAENSIHS "
+    },
+    {
+        "input": "XERANTHEMUM ",
+        "output": " ZEHRAENTHEHMAHM "
+    },
+    {
+        "input": "XERANTIC ",
+        "output": " ZEHRAENTIHK "
+    },
+    {
+        "input": "XERAPHIN ",
+        "output": " ZEHRAEFIHN "
+    },
+    {
+        "input": "XERARCH ",
+        "output": " ZEHRAA5RCH "
+    },
+    {
+        "input": "XERASIA ",
+        "output": " ZEHREY5ZIHAH "
+    },
+    {
+        "input": "XERES ",
+        "output": " ZIY4RZ "
+    },
+    {
+        "input": "XERIC ",
+        "output": " ZEH4RIHK "
+    },
+    {
+        "input": "XERICALLY ",
+        "output": " ZEH4RIHKULIY "
+    },
+    {
+        "input": "XERIFF ",
+        "output": " ZEH4RIHF "
+    },
+    {
+        "input": "XEROCLINE ",
+        "output": " ZEHRAAKLIHN "
+    },
+    {
+        "input": "XERODERMA ",
+        "output": " ZEHROW5DERMAH "
+    },
+    {
+        "input": "XERODERMATIC ",
+        "output": " ZEHROW5DERMAETIHK "
+    },
+    {
+        "input": "XERODERMATOUS ",
+        "output": " ZEHROW5DERMAETAXS "
+    },
+    {
+        "input": "XERODERMIA ",
+        "output": " ZEHROW5DERMIHAH "
+    },
+    {
+        "input": "XERODERMIC ",
+        "output": " ZEHROW5DERMIHK "
+    },
+    {
+        "input": "XEROGEL ",
+        "output": " ZEHRAAJEHL "
+    },
+    {
+        "input": "XEROGRAPHER ",
+        "output": " ZEHRAAGRAEFER "
+    },
+    {
+        "input": "XEROGRAPHIC ",
+        "output": " ZEHRAAGRAEFIHK "
+    },
+    {
+        "input": "XEROGRAPHICALLY ",
+        "output": " ZEHRAAGRAEFIHKULIY "
+    },
+    {
+        "input": "XEROGRAPHY ",
+        "output": " ZEHRAAGRAEFIY "
+    },
+    {
+        "input": "XEROMA ",
+        "output": " ZEHRAHMAH "
+    },
+    {
+        "input": "XEROMATA ",
+        "output": " ZEHRAHMAETAH "
+    },
+    {
+        "input": "XEROMENIA ",
+        "output": " ZEHROWMEHNIHAH "
+    },
+    {
+        "input": "XEROMORPH ",
+        "output": " ZEHRAHMAORF "
+    },
+    {
+        "input": "XEROMORPHIC ",
+        "output": " ZEHRAHMAORFIHK "
+    },
+    {
+        "input": "XEROMORPHOUS ",
+        "output": " ZEHRAHMAORFAXS "
+    },
+    {
+        "input": "XEROMORPHY ",
+        "output": " ZEHRAHMAORFIY "
+    },
+    {
+        "input": "XEROMYRON ",
+        "output": " ZEHRAHMIYRUN "
+    },
+    {
+        "input": "XEROMYRUM ",
+        "output": " ZEHRAHMIYRAHM "
+    },
+    {
+        "input": "XERONATE ",
+        "output": " ZEHRUNEYT "
+    },
+    {
+        "input": "XERONIC ",
+        "output": " ZEHRUNIHK "
+    },
+    {
+        "input": "XEROPHAGIA ",
+        "output": " ZEHRAAFEY5JIHAH "
+    },
+    {
+        "input": "XEROPHAGIES ",
+        "output": " ZEHRAAFEY5JIYZ "
+    },
+    {
+        "input": "XEROPHAGY ",
+        "output": " ZEHRAAFAEJIY "
+    },
+    {
+        "input": "XEROPHIL ",
+        "output": " ZEHRAAFIHL "
+    },
+    {
+        "input": "XEROPHILE ",
+        "output": " ZEHRAAFIHL "
+    },
+    {
+        "input": "XEROPHILOUS ",
+        "output": " ZEHRAAFIHLAXS "
+    },
+    {
+        "input": "XEROPHILY ",
+        "output": " ZEHRAAFIHLIY "
+    },
+    {
+        "input": "XEROPHOBOUS ",
+        "output": " ZEHRAAFAABAXS "
+    },
+    {
+        "input": "XEROPHTHALMIA ",
+        "output": " ZEHRAAFTHAOLMIHAH "
+    },
+    {
+        "input": "XEROPHTHALMIC ",
+        "output": " ZEHRAAFTHAOLMIHK "
+    },
+    {
+        "input": "XEROPHTHALMOS ",
+        "output": " ZEHRAAFTHAOLMAAS "
+    },
+    {
+        "input": "XEROPHTHALMY ",
+        "output": " ZEHRAAFTHAOLMIY "
+    },
+    {
+        "input": "XEROPHYTE ",
+        "output": " ZEHRAAFIYT "
+    },
+    {
+        "input": "XEROPHYTIC ",
+        "output": " ZEHRAAFIYTIHK "
+    },
+    {
+        "input": "XEROPHYTICALLY ",
+        "output": " ZEHRAAFIYTIHKULIY "
+    },
+    {
+        "input": "XEROPHYTISM ",
+        "output": " ZEHRAAFIYTIHZUM "
+    },
+    {
+        "input": "XEROPRINTING ",
+        "output": " ZEHRAAPRIHNTIHNX "
+    },
+    {
+        "input": "XEROSERE ",
+        "output": " ZEHROW5ZIY4R "
+    },
+    {
+        "input": "XEROSERES ",
+        "output": " ZEHROW5ZIY4RZ "
+    },
+    {
+        "input": "XEROSES ",
+        "output": " ZEHROW5ZIHZ "
+    },
+    {
+        "input": "XEROSIS ",
+        "output": " ZEHRAAZIHS "
+    },
+    {
+        "input": "XEROSTOMA ",
+        "output": " ZEHROWSTAHMAH "
+    },
+    {
+        "input": "XEROSTOMIA ",
+        "output": " ZEHROWSTOW5MIHAH "
+    },
+    {
+        "input": "XEROTES ",
+        "output": " ZEHROW5TS "
+    },
+    {
+        "input": "XEROTHERM ",
+        "output": " ZEHRAH5DHERM "
+    },
+    {
+        "input": "XEROTHERMIC ",
+        "output": " ZEHRAH5DHERMIHK "
+    },
+    {
+        "input": "XEROTIC ",
+        "output": " ZEHRAATIHK "
+    },
+    {
+        "input": "XEROTOCIA ",
+        "output": " ZEHRAATOW5SHAH "
+    },
+    {
+        "input": "XEROTRIPSIS ",
+        "output": " ZEHRAATRIHSIHS "
+    },
+    {
+        "input": "XEROX ",
+        "output": " ZEHRAAKS "
+    },
+    {
+        "input": "XEROXED ",
+        "output": " ZEHROW5KST "
+    },
+    {
+        "input": "XEROXES ",
+        "output": " ZEHROW5KSIHZ "
+    },
+    {
+        "input": "XEROXING ",
+        "output": " ZEHROW5KSIHNX "
+    },
+    {
+        "input": "XERUS ",
+        "output": " ZEHRAHS "
+    },
+    {
+        "input": "XERUSES ",
+        "output": " ZEHRUWZIHZ "
+    },
+    {
+        "input": "XI ",
+        "output": " ZAY "
+    },
+    {
+        "input": "XII ",
+        "output": " ZIHAY "
+    },
+    {
+        "input": "XIII ",
+        "output": " ZIHIHAY "
+    },
+    {
+        "input": "XINT ",
+        "output": " ZIHNT "
+    },
+    {
+        "input": "XIPHIAS ",
+        "output": " ZIHFIHAEZ "
+    },
+    {
+        "input": "XIPHIHUMERALIS ",
+        "output": " ZIHFIH/HYUWMERAELIHS "
+    },
+    {
+        "input": "XIPHIID ",
+        "output": " ZIHFIHIHD "
+    },
+    {
+        "input": "XIPHIIFORM ",
+        "output": " ZIHFIHIHFAORM "
+    },
+    {
+        "input": "XIPHIOID ",
+        "output": " ZIHFIHOY5D "
+    },
+    {
+        "input": "XIPHIPLASTRA ",
+        "output": " ZIHFIHPLAESTRAH "
+    },
+    {
+        "input": "XIPHIPLASTRAL ",
+        "output": " ZIHFIHPLAESTRUL "
+    },
+    {
+        "input": "XIPHIPLASTRON ",
+        "output": " ZIHFIHPLAESTRUN "
+    },
+    {
+        "input": "XIPHISTERNA ",
+        "output": " ZIHFIHSTERNAH "
+    },
+    {
+        "input": "XIPHISTERNAL ",
+        "output": " ZIHFIHSTERNUL "
+    },
+    {
+        "input": "XIPHISTERNUM ",
+        "output": " ZIHFIHSTERNAHM "
+    },
+    {
+        "input": "XIPHISTNA ",
+        "output": " ZIHFIHSTNAH "
+    },
+    {
+        "input": "XIPHISURAN ",
+        "output": " ZIHFIHZHERAEN "
+    },
+    {
+        "input": "XIPHOCOSTAL ",
+        "output": " ZIHFAAKOWSTUL "
+    },
+    {
+        "input": "XIPHODYNIA ",
+        "output": " ZIHFAADIYNIHAH "
+    },
+    {
+        "input": "XIPHOID ",
+        "output": " ZIHFOY5D "
+    },
+    {
+        "input": "XIPHOIDAL ",
+        "output": " ZIHFOY5DUL "
+    },
+    {
+        "input": "XIPHOIDIAN ",
+        "output": " ZIHFOY5DIHAEN "
+    },
+    {
+        "input": "XIPHOIDS ",
+        "output": " ZIHFOY5DZ "
+    },
+    {
+        "input": "XIPHOPAGIC ",
+        "output": " ZIHFAAPAEJIHK "
+    },
+    {
+        "input": "XIPHOPAGOUS ",
+        "output": " ZIHFAAPAEGAXS "
+    },
+    {
+        "input": "XIPHOPAGUS ",
+        "output": " ZIHFAAPAEGAHS "
+    },
+    {
+        "input": "XIPHOPHYLLOUS ",
+        "output": " ZIHFAAFIYLAXS "
+    },
+    {
+        "input": "XIPHOSTERNA ",
+        "output": " ZIHFOWSTERNAH "
+    },
+    {
+        "input": "XIPHOSTERNUM ",
+        "output": " ZIHFOWSTERNAHM "
+    },
+    {
+        "input": "XIPHOSURAN ",
+        "output": " ZIHFAAZHERAEN "
+    },
+    {
+        "input": "XIPHOSURE ",
+        "output": " ZIHFAAZHER "
+    },
+    {
+        "input": "XIPHOSUROUS ",
+        "output": " ZIHFAAZHERAXS "
+    },
+    {
+        "input": "XIPHUOUS ",
+        "output": " ZIHFYUWAXS "
+    },
+    {
+        "input": "XIPHYDRIID ",
+        "output": " ZIHFIYDRIHIHD "
+    },
+    {
+        "input": "XIS ",
+        "output": " ZIHZ "
+    },
+    {
+        "input": "XIV ",
+        "output": " ZIHV "
+    },
+    {
+        "input": "XIX ",
+        "output": " ZIHKS "
+    },
+    {
+        "input": "XMAS ",
+        "output": " ZMAEZ "
+    },
+    {
+        "input": "XMASES ",
+        "output": " ZMEYZIHZ "
+    },
+    {
+        "input": "XOANA ",
+        "output": " ZOW4NAH "
+    },
+    {
+        "input": "XOANON ",
+        "output": " ZOW4NUN "
+    },
+    {
+        "input": "XOANONA ",
+        "output": " ZOW4NUNAH "
+    },
+    {
+        "input": "XONOTLITE ",
+        "output": " ZAHNAATLIHT "
+    },
+    {
+        "input": "XR ",
+        "output": " ZR "
+    },
+    {
+        "input": "XRAY ",
+        "output": " ZREY5 "
+    },
+    {
+        "input": "XREF ",
+        "output": " ZREHF "
+    },
+    {
+        "input": "XS ",
+        "output": " ZS "
+    },
+    {
+        "input": "XU ",
+        "output": " ZYUW "
+    },
+    {
+        "input": "XUREL ",
+        "output": " ZYUH4REHL "
+    },
+    {
+        "input": "XVI ",
+        "output": " ZVAY "
+    },
+    {
+        "input": "XVII ",
+        "output": " ZVIHAY "
+    },
+    {
+        "input": "XVIII ",
+        "output": " ZVIHIHAY "
+    },
+    {
+        "input": "XW ",
+        "output": " ZW "
+    },
+    {
+        "input": "XX ",
+        "output": " ZKS "
+    },
+    {
+        "input": "XXI ",
+        "output": " ZKSAY "
+    },
+    {
+        "input": "XXII ",
+        "output": " ZKSIHAY "
+    },
+    {
+        "input": "XXIII ",
+        "output": " ZKSIHIHAY "
+    },
+    {
+        "input": "XXIV ",
+        "output": " ZKSIHV "
+    },
+    {
+        "input": "XXV ",
+        "output": " ZKSV "
+    },
+    {
+        "input": "XXX ",
+        "output": " ZKSKS "
+    },
+    {
+        "input": "XYLA ",
+        "output": " ZAYLAH "
+    },
+    {
+        "input": "XYLAN ",
+        "output": " ZAYLAEN "
+    },
+    {
+        "input": "XYLANS ",
+        "output": " ZAYLAENZ "
+    },
+    {
+        "input": "XYLANTHRAX ",
+        "output": " ZAYLAENTHRAEKS "
+    },
+    {
+        "input": "XYLATE ",
+        "output": " ZAYLEYT "
+    },
+    {
+        "input": "XYLEM ",
+        "output": " ZAYLEHM "
+    },
+    {
+        "input": "XYLEMS ",
+        "output": " ZAYLEHMZ "
+    },
+    {
+        "input": "XYLENE ",
+        "output": " ZIHLIY4N "
+    },
+    {
+        "input": "XYLENES ",
+        "output": " ZIHLIY4NZ "
+    },
+    {
+        "input": "XYLENOL ",
+        "output": " ZIHLEHNAAL "
+    },
+    {
+        "input": "XYLENYL ",
+        "output": " ZIHLEHNIYL "
+    },
+    {
+        "input": "XYLETIC ",
+        "output": " ZIHLEHTIHK "
+    },
+    {
+        "input": "XYLIC ",
+        "output": " ZAYLIHK "
+    },
+    {
+        "input": "XYLIDIC ",
+        "output": " ZIHLAYDIHK "
+    },
+    {
+        "input": "XYLIDIN ",
+        "output": " ZIHLAYDIHN "
+    },
+    {
+        "input": "XYLIDINE ",
+        "output": " ZIHLIHDIHN "
+    },
+    {
+        "input": "XYLIDINES ",
+        "output": " ZIHLIHDIHNZ "
+    },
+    {
+        "input": "XYLIDINS ",
+        "output": " ZIHLAYDIHNZ "
+    },
+    {
+        "input": "XYLINDEIN ",
+        "output": " ZIHLAY5NDIY4N "
+    },
+    {
+        "input": "XYLINID ",
+        "output": " ZIHLAYNIHD "
+    },
+    {
+        "input": "XYLITE ",
+        "output": " ZIHLAYT "
+    },
+    {
+        "input": "XYLITOL ",
+        "output": " ZIHLIHTAAL "
+    },
+    {
+        "input": "XYLITOLS ",
+        "output": " ZIHLIHTAALZ "
+    },
+    {
+        "input": "XYLITONE ",
+        "output": " ZIHLIHTOW5N "
+    },
+    {
+        "input": "XYLO ",
+        "output": " ZAYLOW "
+    },
+    {
+        "input": "XYLOBALSAMUM ",
+        "output": " ZAYLAABAOLSAEMAHM "
+    },
+    {
+        "input": "XYLOCARP ",
+        "output": " ZAYLOWKAA5RP "
+    },
+    {
+        "input": "XYLOCARPOUS ",
+        "output": " ZAYLOWKAA5RPAXS "
+    },
+    {
+        "input": "XYLOCARPS ",
+        "output": " ZAYLOWKAA5RS "
+    },
+    {
+        "input": "XYLOCOPID ",
+        "output": " ZAYLOWKAAPIHD "
+    },
+    {
+        "input": "XYLOGEN ",
+        "output": " ZAYLOWJEHN "
+    },
+    {
+        "input": "XYLOGLYPHY ",
+        "output": " ZAYLAAGLIYFIY "
+    },
+    {
+        "input": "XYLOGRAPH ",
+        "output": " ZAYLAAGRAEF "
+    },
+    {
+        "input": "XYLOGRAPHER ",
+        "output": " ZAYLAAGRAEFER "
+    },
+    {
+        "input": "XYLOGRAPHIC ",
+        "output": " ZAYLAAGRAEFIHK "
+    },
+    {
+        "input": "XYLOGRAPHICAL ",
+        "output": " ZAYLAAGRAEFIHKUL "
+    },
+    {
+        "input": "XYLOGRAPHICALLY ",
+        "output": " ZAYLAAGRAEFIHKULIY "
+    },
+    {
+        "input": "XYLOGRAPHY ",
+        "output": " ZAYLAAGRAEFIY "
+    },
+    {
+        "input": "XYLOID ",
+        "output": " ZAYLOY5D "
+    },
+    {
+        "input": "XYLOIDIN ",
+        "output": " ZAYLOY5DIHN "
+    },
+    {
+        "input": "XYLOIDINE ",
+        "output": " ZAYLOY5DIHN "
+    },
+    {
+        "input": "XYLOL ",
+        "output": " ZAYLAAL "
+    },
+    {
+        "input": "XYLOLOGY ",
+        "output": " ZAYLAALAAJIY "
+    },
+    {
+        "input": "XYLOLS ",
+        "output": " ZAYLAALZ "
+    },
+    {
+        "input": "XYLOMA ",
+        "output": " ZAYLAHMAH "
+    },
+    {
+        "input": "XYLOMANCY ",
+        "output": " ZAYLAHMAENSIY "
+    },
+    {
+        "input": "XYLOMAS ",
+        "output": " ZAYLAHMAES "
+    },
+    {
+        "input": "XYLOMATA ",
+        "output": " ZAYLAHMAETAH "
+    },
+    {
+        "input": "XYLOMETER ",
+        "output": " ZAYLAHMIY4TER "
+    },
+    {
+        "input": "XYLON ",
+        "output": " ZAYLUN "
+    },
+    {
+        "input": "XYLONIC ",
+        "output": " ZAYLUNIHK "
+    },
+    {
+        "input": "XYLONITE ",
+        "output": " ZAYLUNIHT "
+    },
+    {
+        "input": "XYLONITRILE ",
+        "output": " ZAYLUNIHTRIHL "
+    },
+    {
+        "input": "XYLOPHAGAN ",
+        "output": " ZAYLAAFAEGAEN "
+    },
+    {
+        "input": "XYLOPHAGE ",
+        "output": " ZAYLAAFIHJ "
+    },
+    {
+        "input": "XYLOPHAGID ",
+        "output": " ZAYLAAFAEJIHD "
+    },
+    {
+        "input": "XYLOPHAGOUS ",
+        "output": " ZAYLAAFAEGAXS "
+    },
+    {
+        "input": "XYLOPHILOUS ",
+        "output": " ZAYLAAFIHLAXS "
+    },
+    {
+        "input": "XYLOPHONE ",
+        "output": " ZAYLAAFOW5N "
+    },
+    {
+        "input": "XYLOPHONES ",
+        "output": " ZAYLAAFOW5NZ "
+    },
+    {
+        "input": "XYLOPHONIC ",
+        "output": " ZAYLAAFUNIHK "
+    },
+    {
+        "input": "XYLOPHONIST ",
+        "output": " ZAYLAAFUNIHST "
+    },
+    {
+        "input": "XYLOPHONISTS ",
+        "output": " ZAYLAAFUNIHSTS "
+    },
+    {
+        "input": "XYLOPLASTIC ",
+        "output": " ZAYLAAPLAESTIHK "
+    },
+    {
+        "input": "XYLOPOLIST ",
+        "output": " ZAYLAAPAALIHST "
+    },
+    {
+        "input": "XYLOPYROGRAPHER ",
+        "output": " ZAYLAAPIYRAAGRAEFER "
+    },
+    {
+        "input": "XYLOPYROGRAPHY ",
+        "output": " ZAYLAAPIYRAAGRAEFIY "
+    },
+    {
+        "input": "XYLOQUINONE ",
+        "output": " ZAYLAAKWIHNAH4N "
+    },
+    {
+        "input": "XYLORCIN ",
+        "output": " ZAYLAORSIHN "
+    },
+    {
+        "input": "XYLORCINOL ",
+        "output": " ZAYLAORSIHNAAL "
+    },
+    {
+        "input": "XYLOSE ",
+        "output": " ZAYLOW5Z "
+    },
+    {
+        "input": "XYLOSES ",
+        "output": " ZAYLOW5ZIHZ "
+    },
+    {
+        "input": "XYLOSID ",
+        "output": " ZAYLAAZIHD "
+    },
+    {
+        "input": "XYLOSIDE ",
+        "output": " ZAYLAAZIHD "
+    },
+    {
+        "input": "XYLOSTROMA ",
+        "output": " ZAYLOWSTROW5MAH "
+    },
+    {
+        "input": "XYLOSTROMATA ",
+        "output": " ZAYLOWSTROW5MAETAH "
+    },
+    {
+        "input": "XYLOSTROMATOID ",
+        "output": " ZAYLOWSTROW5MAETOY5D "
+    },
+    {
+        "input": "XYLOTILE ",
+        "output": " ZAYLAATIHL "
+    },
+    {
+        "input": "XYLOTOMIC ",
+        "output": " ZAYLAATAHMIHK "
+    },
+    {
+        "input": "XYLOTOMICAL ",
+        "output": " ZAYLAATAHMIHKUL "
+    },
+    {
+        "input": "XYLOTOMIES ",
+        "output": " ZAYLAATOW5MIYZ "
+    },
+    {
+        "input": "XYLOTOMIST ",
+        "output": " ZAYLAATAHMIHST "
+    },
+    {
+        "input": "XYLOTOMOUS ",
+        "output": " ZAYLAATAHMAXS "
+    },
+    {
+        "input": "XYLOTOMY ",
+        "output": " ZAYLAATAHMIY "
+    },
+    {
+        "input": "XYLOTYPOGRAPHIC ",
+        "output": " ZAYLAATIYPAAGRAEFIHK "
+    },
+    {
+        "input": "XYLOTYPOGRAPHY ",
+        "output": " ZAYLAATIYPAAGRAEFIY "
+    },
+    {
+        "input": "XYLOYL ",
+        "output": " ZAYLOYL "
+    },
+    {
+        "input": "XYLYL ",
+        "output": " ZAYLIYL "
+    },
+    {
+        "input": "XYLYLENE ",
+        "output": " ZIHLIYLIY4N "
+    },
+    {
+        "input": "XYLYLIC ",
+        "output": " ZIHLIYLIHK "
+    },
+    {
+        "input": "XYLYLS ",
+        "output": " ZAYLIYLZ "
+    },
+    {
+        "input": "XYPHOID ",
+        "output": " ZIHFOY5D "
+    },
+    {
+        "input": "XYRID ",
+        "output": " ZAYRIHD "
+    },
+    {
+        "input": "XYRIDACEOUS ",
+        "output": " ZIHRIHDEY5SIYAXS "
+    },
+    {
+        "input": "XYST ",
+        "output": " ZIHST "
+    },
+    {
+        "input": "XYSTER ",
+        "output": " ZIHSTER "
+    },
+    {
+        "input": "XYSTERS ",
+        "output": " ZIHSTERZ "
+    },
+    {
+        "input": "XYSTI ",
+        "output": " ZIHSTAY "
+    },
+    {
+        "input": "XYSTOI ",
+        "output": " ZIHSTOY5 "
+    },
+    {
+        "input": "XYSTOS ",
+        "output": " ZIHSTAAS "
+    },
+    {
+        "input": "XYSTS ",
+        "output": " ZIHSTS "
+    },
+    {
+        "input": "XYSTUM ",
+        "output": " ZIHSTAHM "
+    },
+    {
+        "input": "XYSTUS ",
+        "output": " ZIHSTAHS "
+    },
+    {
+        "input": "XYZ ",
+        "output": " ZIHZ "
+    }
+]
