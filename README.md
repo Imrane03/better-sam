@@ -15,16 +15,10 @@ and the refactorings by
 [Vidar Hokstad](https://github.com/vidarh/SAM) and
 [8BitPimp](https://github.com/8BitPimp/SAM)
 
-It includes a Text-To-Phoneme converter called reciter and a
-Phoneme-To-Speech routine for the final output.
-
 It aims for low memory impact and file size which is the reason I want
 to avoid the 
 [Emscripten conversion](http://simulationcorner.net/index.php?page=sam)
 by Stefan (which weights about 414kb).
-
-For further details, refer to
-[retrobits.net](http://www.retrobits.net/atari/sam.shtml)
 
 ## Usage
 
@@ -81,8 +75,6 @@ software can therefore best described as Abandonware
 
 As long this is the case I cannot put my code under any specific open
 source software license Use it at your own risk.
-
-Contact
 
 If you have questions don' t hesitate to ask me. If you discovered some
 new knowledge about the code please file an issue.
