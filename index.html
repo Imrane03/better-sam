@@ -49,8 +49,18 @@
         </p>
         <script src="dist/samjs.js"></script>
         <script>
-            opts = {debug : 1, pitch : 64, speed : 72, mouth : 128, throat : 128} , document.addEventListener("DOMContentLoaded", function() {["speed", "pitch", "mouth", "throat"].forEach(e => {var t = document.getElementById(e);
-            t.onchange = function(e){opts[e.target.id] = e.target.value, document.getElementById(e.target.id + "-lbl").innerText = e.target.id.charAt(0).toUpperCase() + e.target.id.substr(1) + ": " + e.target.value}, t.value=opts[e]}), document.getElementById("fmm").addEventListener("click", function(e){e.preventDefault(), new SamJs(opts).download(document.getElementById("speechinput").value)}), document.getElementById("fmm2").addEventListener("click", function(e){e.preventDefault(), new SamJs(opts).speak(document.getElementById("speechinput").value)})});</script>
+            opts = {debug : 1, pitch : 64, speed : 72, mouth : 128, throat : 128},
+                document.addEventListener("DOMContentLoaded",
+                function() {["speed", "pitch", "mouth", "throat"].forEach(e => {var t = document.getElementById(e);
+            t.onchange = function(e){opts[e.target.id]
+                = e.target.value,
+                document.getElementById(e.target.id + "-lbl").innerText
+                = e.target.id.charAt(0).toUpperCase() + e.target.id.substr(1) + ": " + e.target.value},
+                t.value=opts[e]}), document.getElementById("fmm").addEventListener("click", function(e){e.preventDefault(),
+                new SamJs(opts).download(document.getElementById("speechinput").value)}),
+                document.getElementById("fmm2").addEventListener("click", function(e){e.preventDefault(),
+                new SamJs(opts).speak(document.getElementById("speechinput").value)})});
+        </script>
         <div class="items"> <hr> <div>
             <label for="speechinput">Text to speak:</label>
             <input size="60" id="speechinput" name="textfield" value="Hello , I am better SAM.">
