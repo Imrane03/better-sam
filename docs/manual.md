@@ -703,7 +703,7 @@ as you can type English text.
 
 S.A.M. is capable of speaking in a wide range of tones and at many
 different rates.
-Both pitch and speed controls are accessed bysingle POKES to memory
+Both pitch and speed controls are accessed by single POKES to memory
 locations.
 
 The following chart shows the effects of different values in the pitch
